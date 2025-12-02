@@ -1,61 +1,22 @@
-name: Auto-Update Test.m3u
-
-concurrency:
-  group: auto-update-test-m3u
-  cancel-in-progress: true
-
-permissions:
-  contents: write
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */3 * * *' # Runs every 3 hours
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
-      - name: Generate Test.m3u
+- name: Generate Test.m3u
         env:
           JSON_URL: 'https://playify.pages.dev/Jiotv.json'
           FILE_NAME: 'Test.m3u'
         run: |
           set -euo pipefail
 
-          TARGET_CHANNELS='[
-            {"name": "Raj News Tamil", "group": "News"},
-            {"name": "Sonic Hindi", "group": "Kids"},
-            {"name": "Cartoon Network", "group": "Kids"},
-            {"name": "Nickelodeon", "group": "Kids"},
-            {"name": "Discovery Tamil", "group": "Regional Tamil"},
-            {"name": "Pogo Hindi", "group": "Kids"},
-            {"name": "Tamil Janam", "group": "News"},
-            {"name": "Jaya Plus", "group": "News"},
-            {"name": "Animal Planet HD", "group": "Infotainment"},
-            {"name": "Eurosport HD", "group": "Sports"},
-            {"name": "Nick Jr", "group": "Kids"},
-            {"name": "Nick HD+", "group": "Kids"},
-            {"name": "Discovery HD World", "group": "Infotainment"},
-            {"name": "Travelxp Tamil", "group": "Regional Tamil"},
-            {"name": "Puthu Yugam", "group": "Tamil"},
-            {"name": "Thanthi One", "group": "Tamil"},
-            {"name": "Tunes 6", "group": "Music"}
-          ]'
-
           echo "#EXTM3U" > "$FILE_NAME"
 
-          JSON=$(curl -fsSL --max-time 30 "$JSON_URL") || { echo "Fetch failed"; exit 1; }
+          echo "📥 Fetching JSON..."
+          JSON=$(curl -fsSL --max-time 30 "$JSON_URL") || {
+            echo "❌ Fetch failed"
+            exit 1
+          }
 
-          echo "$JSON" | jq -r --argjson list "$TARGET_CHANNELS" '
+          echo "⚙️ Parsing all channels..."
+
+          echo "$JSON" | jq -r '
+            # Detect channels array from multiple formats
             def channels:
               if type=="array" then .
               elif type=="object" then
@@ -66,59 +27,43 @@ jobs:
                 end
               else []
               end;
-            
-            channels as $all |
-            $list[] as $target |
-            $target.name as $tname |
-            $target.group as $tgroup |
-            (
-              $all |
-              map(select((.name // .title // "") | ascii_downcase == ($tname | ascii_downcase))) |
-              sort_by(if (.link | contains("BTS")) then 0 else 1 end) |
-              .[0]
-            ) as $m |
 
-            if ($m | type=="object") and ($m.link // $m.url // "") != "" then
-              $m |
-              $tname as $name |
-              (.tvg_id // .tvgId // .id // "") as $tvgid |
-              (.tvg_logo // .logo // .icon // "") as $logo |
-              (.drmLicense // .license // "") as $lic |
-              (.link // .url // "") as $url |
-              (.cookie // .cookies // "") as $cookie |
+            channels[] as $c |
 
-              "#EXTINF:-1 " +
-              (if $tvgid!="" then "tvg-id=\"" + $tvgid + "\" " else "" end) +
-              "group-title=\"" + $tgroup + "\" " +
-              (if $logo!="" then "tvg-logo=\"" + $logo + "\" " else "" end) +
+            # Extract fields safely
+            ($c.name // $c.title // "Unknown") as $name |
+            ($c.tvg_id // $c.tvgId // $c.id // "") as $tvgid |
+            ($c.group // $c.category // "Others") as $group |
+            ($c.tvg_logo // $c.logo // $c.icon // "") as $logo |
+            ($c.drmScheme // $c.drm_scheme // $c.drm // "") as $drmScheme |
+            ($c.drmLicense // $c.license // "") as $drmLicense |
+            ($c.cookie // $c.cookies // "") as $cookie |
+            ($c.link // $c.url // $c.stream_url // $c.hls // $c.mpd // "") as $link |
+
+            select($link != "") |
+
+            "#EXTINF:-1 " +
+              (if $tvgid != "" then "tvg-id=\"" + $tvgid + "\" " else "" end) +
+              "group-title=\"" + $group + "\" " +
+              (if $logo != "" then "tvg-logo=\"" + $logo + "\" " else "" end) +
               "," + $name,
 
-              (if ($lic | test("^[A-Za-z0-9]+:[A-Za-z0-9]+")) then
-                "#KODIPROP:inputstream.adaptive.license_type=clearkey\n" +
-                "#KODIPROP:inputstream.adaptive.license_key=" + ($lic | split(":")[0:2] | join(":"))
-              else empty end),
+            # DRM support
+            (if ($drmScheme=="clearkey") and ($drmLicense | test("^[A-Za-z0-9]+:[A-Za-z0-9]+")) then
+              "#KODIPROP:inputstream.adaptive.license_type=clearkey\n" +
+              "#KODIPROP:inputstream.adaptive.license_key=" +
+              ($drmLicense | split(":")[0:2] | join(":"))
+            else empty end),
 
-              "#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
+            "#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0",
 
-              (if $cookie != "" then
-                "#EXTHTTP:{\"cookie\":\"" + ($cookie | gsub("\""; "\\\"")) + "\"}"
-              else empty end),
+            (if $cookie != "" then
+              "#EXTHTTP:{\"cookie\":\"" + ($cookie | gsub("\""; "\\\"")) + "\"}"
+            else empty end),
 
-              $url + (if ($url | contains("?")) then "&" else "?" end) + $cookie
-            else empty end
+            # Add cookie query parameter
+            $link + (if ($link | contains("?")) then "&" else "?" end) + $cookie
           ' >> "$FILE_NAME"
 
           TOTAL=$(grep -c "^#EXTINF" "$FILE_NAME" || echo 0)
-          echo "Created $TOTAL channels"
-
-      - name: Commit & Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Test.m3u
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-          git commit -m "Auto-update Test.m3u: $(date -u '+%Y-%m-%d %H:%M')"
-          git push origin main
+          echo "✅ Test.m3u created with $TOTAL channels."
