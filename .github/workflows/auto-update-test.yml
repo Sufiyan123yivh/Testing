@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate Test.m3u
         env:
-          JSON_URL: "https://playify.pages.dev/Jiotv.json"
+          JSON_URL: ${{ secrets.JSON_SOURCE }}
           FILE_NAME: "Test.m3u"
         run: |
           set -euo pipefail
