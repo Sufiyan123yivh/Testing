@@ -1,8 +1,8 @@
-name: Update Zee5 Playlist
+name: Update Zee5 Token for All Channels
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,38 +13,54 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Fetch fresh stream URL
+      - name: Fetch Single Zee Token
         id: fetch
         run: |
-          echo "Fetching fresh URL..."
-          NEW_URL=$(curl -s "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+          echo "Fetching Zee token from Zee Bangla..."
+          RAW=$(curl -s "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
-          echo "Returned URL: $NEW_URL"
+          echo "Raw URL:"
+          echo "$RAW"
 
-          echo "url=$NEW_URL" >> $GITHUB_OUTPUT
+          # Extract everything from the first ? including ?
+          TOKEN=$(echo "$RAW" | sed 's/^[^?]*//')
 
-      - name: Update zee5.m3u
+          echo "Extracted TOKEN:"
+          echo "$TOKEN"
+
+          echo "token=$TOKEN" >> $GITHUB_OUTPUT
+
+          # Save token to token.txt
+          echo "$TOKEN" > token.txt
+
+      - name: Apply token to ALL Zee channels
         run: |
-          # Extract existing Zee5 stream URL that starts with z5ak-cmaflive
-          OLD_URL=$(grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' zee5.m3u | head -n 1)
-          NEW_URL="${{ steps.fetch.outputs.url }}"
+          TOKEN="${{ steps.fetch.outputs.token }}"
 
-          echo "Old URL: $OLD_URL"
-          echo "New URL: $NEW_URL"
-
-          if [ -z "$NEW_URL" ]; then
-            echo "No new URL returned! Skipping update."
+          if [ -z "$TOKEN" ]; then
+            echo "Token empty. Skipping."
             exit 0
           fi
 
-          # Use sed safely by choosing | as separator
-          sed -i "s|$OLD_URL|$NEW_URL|g" zee5.m3u
+          echo "Applying token to all Zee5 URLs..."
+
+          awk -v token="$TOKEN" '
+            /z5ak-cmaflive\.zee5\.com/ {
+              # Remove old ? or old tokens
+              sub(/\?.*/, "", $0)
+              print $0 token
+              next
+            }
+            { print }
+          ' zee5.m3u > zee5_new.m3u
+
+          mv zee5_new.m3u zee5.m3u
 
       - name: Commit & Push
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
-          git add zee5.m3u
-          git commit -m "Auto-update Zee5 stream $(date)" || exit 0
+          git add zee5.m3u token.txt
+          git commit -m "Updated Zee5 token for all channels $(date)" || exit 0
           git push
