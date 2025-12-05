@@ -1,42 +1,14 @@
-name: Zee5 Debug Fetch
-
-on:
-  workflow_dispatch:
-
-jobs:
-  debug:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Fetch Zee5 RAW URL
+- name: Fetch Zee5 RAW URL
         id: fetch
         run: |
-          echo "Fetching Zee Bangla URL..."
           RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
-
-          echo "---------------- RAW RESPONSE ----------------"
-          echo "$RAW"
-          echo "---------------- END RAW ---------------------"
 
           echo "$RAW" > raw_debug.txt
 
-          # Extract only FIRST token
-          TOKEN=$(echo "$RAW" | grep -o '?hdntl=.*' | head -n 1)
+          # Extract ONLY real m3u8 token
+          TOKEN=$(echo "$RAW" | grep -oP 'm3u8\K\?hdntl=[^" ]+' | head -n 1)
 
-          echo "Extracted TOKEN: $TOKEN"
+          echo "Extracted REAL TOKEN: $TOKEN"
 
           echo "$TOKEN" > token.txt
-
           echo "token=$TOKEN" >> $GITHUB_OUTPUT
-
-      - name: Commit Debug Files
-        run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-
-          git add raw_debug.txt token.txt
-          git commit -m "Debug Zee5 token $(date)" || exit 0
-          git push
