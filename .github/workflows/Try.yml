@@ -1,29 +1,27 @@
-name: Update Zee5 Token for All Channels
+name: Zee5 Debug Fetch
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
-  update:
+  debug:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch Zee5 Token (Debug Mode)
+      - name: Fetch Zee5 RAW URL
         id: fetch
         run: |
-          echo "Fetching Zee token..."
+          echo "Fetching Zee Bangla URL..."
           RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
           echo "---------------- RAW RESPONSE ----------------"
           echo "$RAW"
           echo "---------------- END RAW ---------------------"
 
-          # Save RAW for debug
+          # Save RAW to file for inspection
           echo "$RAW" > raw_debug.txt
 
           # Extract token only if URL contains ?hdntl=
@@ -31,34 +29,17 @@ jobs:
 
           echo "Extracted TOKEN: $TOKEN"
 
+          # Save token
           echo "$TOKEN" > token.txt
+
+          # Export output
           echo "token=$TOKEN" >> $GITHUB_OUTPUT
 
-      - name: Apply token to ALL Zee channels
-        run: |
-          TOKEN="${{ steps.fetch.outputs.token }}"
-
-          if [ -z "$TOKEN" ]; then
-            echo "TOKEN EMPTY → SKIPPING UPDATE"
-            exit 0
-          fi
-
-          echo "Applying token..."
-
-          awk -v t="$TOKEN" '
-            /z5ak-cmaflive\.zee5\.com/ {
-              sub(/\?.*/, t)
-            }
-            {print}
-          ' zee5.m3u > zee5_new.m3u
-
-          mv zee5_new.m3u zee5.m3u
-
-      - name: Commit & Push
+      - name: Commit Debug Files
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
-          git add zee5.m3u token.txt raw_debug.txt
-          git commit -m "Updated Zee5 token $(date)" || exit 0
+          git add raw_debug.txt token.txt
+          git commit -m "Debug Zee5 token $(date)" || exit 0
           git push
