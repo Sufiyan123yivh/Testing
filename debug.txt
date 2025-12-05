@@ -4,7 +4,7 @@ Opening URL: http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla
 http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla --> 302
 
 === FINAL URL ===
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1765031823~acl=%2f*~id=5a60ad2f-dace-47e1-8e23-6e479973f52b~data=hdntl~hmac=0ee6380166a6888699dc7264d188f8460cd0d3d616ee43604748722811db848b
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1765035300~acl=%2f*~id=263f9ef8-ca2c-4743-a38a-20e2b26890c2~data=hdntl~hmac=2a6beaeb856fa752780e14ab9312ada2fca80e15e053b52a45bc0e2ab520d749
 
 === TOKEN EXTRACTED ===
-?hdntl=exp=1765031823~acl=%2f*~id=5a60ad2f-dace-47e1-8e23-6e479973f52b~data=hdntl~hmac=0ee6380166a6888699dc7264d188f8460cd0d3d616ee43604748722811db848b
+?hdntl=exp=1765035300~acl=%2f*~id=263f9ef8-ca2c-4743-a38a-20e2b26890c2~data=hdntl~hmac=2a6beaeb856fa752780e14ab9312ada2fca80e15e053b52a45bc0e2ab520d749
