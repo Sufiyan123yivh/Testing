@@ -1,4 +1,4 @@
-name: Update Zee5 Token for All Channels
+name: Update Zee5 Playlist
 
 on:
   schedule:
@@ -16,48 +16,47 @@ jobs:
       - name: Fetch Zee5 Token
         id: fetch
         run: |
-          echo "Fetching Zee token from Zee Bangla..."
+          echo "Fetching Zee Bangla URL..."
+          RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
-          RAW=$(curl -s "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
-
-          echo "RAW RESPONSE:"
+          echo "--------------- RAW ---------------"
           echo "$RAW"
+          echo "-----------------------------------"
 
-          # Extract the token ONLY if there's a '?'
-          if [[ "$RAW" == *"?"* ]]; then
-              TOKEN="?"$(echo "$RAW" | cut -d '?' -f 2-)
-          else
-              echo "No token found!"
-              TOKEN=""
-          fi
+          echo "$RAW" > raw_debug.txt
+
+          # Extract ONLY FIRST token found
+          TOKEN=$(echo "$RAW" | grep -o '?hdntl=.*' | head -n 1)
 
           echo "Extracted TOKEN: $TOKEN"
 
-          # Save token for user visibility
+          # Save to token.txt
           echo "$TOKEN" > token.txt
 
-          # Export for next steps
+          # Export to workflow
           echo "token=$TOKEN" >> $GITHUB_OUTPUT
 
-      - name: Apply token to ALL Zee channels
+      - name: Apply Token to All Zee Channels
         run: |
           TOKEN="${{ steps.fetch.outputs.token }}"
 
           if [ -z "$TOKEN" ]; then
-            echo "Token is empty… Skipping update."
+            echo "Token empty → skipping update"
             exit 0
           fi
 
-          echo "Applying new token to ALL Zee5 URLs..."
+          echo "Applying token to all Zee5 URLs..."
 
-          awk -v token="$TOKEN" '
+          # Rewrite all Zee5 lines
+          awk -v t="$TOKEN" '
             /z5ak-cmaflive\.zee5\.com/ {
-              # Remove existing ? + query
-              sub(/\?.*/, "", $0)
-              print $0 token
-              next
+                # remove old ?query
+                sub(/\?.*/, "", $0)
+                # add fresh token
+                print $0 t
+                next
             }
-            { print }
+            {print}
           ' zee5.m3u > zee5_new.m3u
 
           mv zee5_new.m3u zee5.m3u
@@ -67,6 +66,6 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
-          git add zee5.m3u token.txt
-          git commit -m "Updated Zee5 token for all channels $(date)" || exit 0
+          git add zee5.m3u token.txt raw_debug.txt
+          git commit -m "Auto-update Zee5 Playlist $(date)" || exit 0
           git push
