@@ -13,40 +13,46 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Fetch Single Zee Token
+      - name: Fetch Zee5 Token
         id: fetch
         run: |
           echo "Fetching Zee token from Zee Bangla..."
+
           RAW=$(curl -s "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
-          echo "Raw URL:"
+          echo "RAW RESPONSE:"
           echo "$RAW"
 
-          # Extract everything from the first ? including ?
-          TOKEN=$(echo "$RAW" | sed 's/^[^?]*//')
+          # Extract the token ONLY if there's a '?'
+          if [[ "$RAW" == *"?"* ]]; then
+              TOKEN="?"$(echo "$RAW" | cut -d '?' -f 2-)
+          else
+              echo "No token found!"
+              TOKEN=""
+          fi
 
-          echo "Extracted TOKEN:"
-          echo "$TOKEN"
+          echo "Extracted TOKEN: $TOKEN"
 
-          echo "token=$TOKEN" >> $GITHUB_OUTPUT
-
-          # Save token to token.txt
+          # Save token for user visibility
           echo "$TOKEN" > token.txt
+
+          # Export for next steps
+          echo "token=$TOKEN" >> $GITHUB_OUTPUT
 
       - name: Apply token to ALL Zee channels
         run: |
           TOKEN="${{ steps.fetch.outputs.token }}"
 
           if [ -z "$TOKEN" ]; then
-            echo "Token empty. Skipping."
+            echo "Token is empty… Skipping update."
             exit 0
           fi
 
-          echo "Applying token to all Zee5 URLs..."
+          echo "Applying new token to ALL Zee5 URLs..."
 
           awk -v token="$TOKEN" '
             /z5ak-cmaflive\.zee5\.com/ {
-              # Remove old ? or old tokens
+              # Remove existing ? + query
               sub(/\?.*/, "", $0)
               print $0 token
               next
@@ -56,7 +62,7 @@ jobs:
 
           mv zee5_new.m3u zee5.m3u
 
-      - name: Commit & Push
+      - name: Commit & Push Updates
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
