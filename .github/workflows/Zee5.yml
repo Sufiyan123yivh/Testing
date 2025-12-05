@@ -1,0 +1,50 @@
+name: Update Zee5 Playlist
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Fetch fresh stream URL
+        id: fetch
+        run: |
+          echo "Fetching fresh URL..."
+          NEW_URL=$(curl -s "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+
+          echo "Returned URL: $NEW_URL"
+
+          echo "url=$NEW_URL" >> $GITHUB_OUTPUT
+
+      - name: Update zee5.m3u
+        run: |
+          # Extract existing Zee5 stream URL that starts with z5ak-cmaflive
+          OLD_URL=$(grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' zee5.m3u | head -n 1)
+          NEW_URL="${{ steps.fetch.outputs.url }}"
+
+          echo "Old URL: $OLD_URL"
+          echo "New URL: $NEW_URL"
+
+          if [ -z "$NEW_URL" ]; then
+            echo "No new URL returned! Skipping update."
+            exit 0
+          fi
+
+          # Use sed safely by choosing | as separator
+          sed -i "s|$OLD_URL|$NEW_URL|g" zee5.m3u
+
+      - name: Commit & Push
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add zee5.m3u
+          git commit -m "Auto-update Zee5 stream $(date)" || exit 0
+          git push
