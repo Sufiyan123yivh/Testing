@@ -14,11 +14,10 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Fetch Zee5 URL using Python (NO CURL)
-        id: fetch
+      - name: Create Python Script
         shell: bash
         run: |
-          python3 - << 'PYCODE'
+          cat << 'EOF' > fetch_zee5.py
 import requests
 
 debug = open("debug.txt", "w")
@@ -26,10 +25,7 @@ debug = open("debug.txt", "w")
 url = "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla"
 debug.write("Opening URL: " + url + "\n\n")
 
-# Make request like a browser
-r = requests.get(url, allow_redirects=True, headers={
-    "User-Agent": "Mozilla/5.0"
-})
+r = requests.get(url, allow_redirects=True, headers={"User-Agent": "Mozilla/5.0"})
 
 debug.write("=== Redirect History ===\n")
 for step in r.history:
@@ -50,11 +46,16 @@ debug.write(TOKEN + "\n")
 with open("token.txt", "w") as f:
     f.write(TOKEN)
 
-# Escape for GitHub Actions output
 esc = TOKEN.replace("%", "%25").replace("\n", "%0A").replace("\r", "%0D")
 
 print(f"token={esc}")
-PYCODE
+EOF
+
+      - name: Run Python Script
+        id: fetch
+        shell: bash
+        run: |
+          python3 fetch_zee5.py >> debug.txt
 
       - name: Apply Token to Playlist
         shell: bash
@@ -62,11 +63,9 @@ PYCODE
           TOKEN="${{ steps.fetch.outputs.token }}"
 
           if [ -z "$TOKEN" ]; then
-            echo "Token missing — skipping update."
+            echo "Token missing — skipping."
             exit 0
           fi
-
-          echo "Applying token..."
 
           awk -v t="$TOKEN" '
             /z5ak-cmaflive\.zee5\.com/ {
@@ -85,6 +84,6 @@ PYCODE
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
-          git add zee5.m3u token.txt debug.txt
+          git add zee5.m3u token.txt debug.txt fetch_zee5.py
           git commit -m "Auto-update Zee5 token $(date)" || exit 0
           git push
