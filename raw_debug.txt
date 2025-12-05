@@ -1,1 +1,5 @@
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1765010720~acl=%2f*~id=213ae9cc-43b1-414b-a2fe-fcb1377fbbf8~data=hdntl~hmac=8b73fc904da7701871d9cea96718746f87b0a1fa1c99e9066e687149e6e6ff38
+<HTML><HEAD><TITLE>Error</TITLE></HEAD><BODY>
+An error occurred while processing your request.<p>
+Reference&#32;&#35;219&#46;90f3417&#46;1764948809&#46;126f1348
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;219&#46;90f3417&#46;1764948809&#46;126f1348</P>
+</BODY></HTML>
