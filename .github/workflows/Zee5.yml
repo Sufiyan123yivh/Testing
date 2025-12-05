@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Fetch Zee5 Token
+      - name: Fetch Zee5 RAW URL
         id: fetch
         run: |
           echo "Fetching Zee Bangla URL..."
@@ -25,47 +25,45 @@ jobs:
 
           echo "$RAW" > raw_debug.txt
 
-          # Extract ONLY FIRST token found
+          # Extract ONLY FIRST valid token
           TOKEN=$(echo "$RAW" | grep -o '?hdntl=.*' | head -n 1)
 
           echo "Extracted TOKEN: $TOKEN"
 
-          # Save to token.txt
+          # Save token file
           echo "$TOKEN" > token.txt
 
-          # Export to workflow
           echo "token=$TOKEN" >> $GITHUB_OUTPUT
 
-      - name: Apply Token to All Zee Channels
+      - name: Apply Token to All Zee5 Channels
         run: |
           TOKEN="${{ steps.fetch.outputs.token }}"
 
           if [ -z "$TOKEN" ]; then
-            echo "Token empty → skipping update"
+            echo "Token empty → No update"
             exit 0
           fi
 
-          echo "Applying token to all Zee5 URLs..."
+          echo "Applying token to all Zee5 URLs in zee5.m3u..."
 
-          # Rewrite all Zee5 lines
           awk -v t="$TOKEN" '
             /z5ak-cmaflive\.zee5\.com/ {
-                # remove old ?query
-                sub(/\?.*/, "", $0)
-                # add fresh token
-                print $0 t
-                next
+              # Remove any existing ?query
+              sub(/\?.*/, "", $0)
+              # Append new token
+              print $0 t
+              next
             }
             {print}
           ' zee5.m3u > zee5_new.m3u
 
           mv zee5_new.m3u zee5.m3u
 
-      - name: Commit & Push Updates
+      - name: Commit Updates
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
           git add zee5.m3u token.txt raw_debug.txt
-          git commit -m "Auto-update Zee5 Playlist $(date)" || exit 0
+          git commit -m "Updated Zee5 playlist & token $(date)" || exit 0
           git push
