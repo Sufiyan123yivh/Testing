@@ -21,18 +21,15 @@ jobs:
           echo "$RAW"
           echo "---------------- END RAW ---------------------"
 
-          # Save RAW to file for inspection
           echo "$RAW" > raw_debug.txt
 
-          # Extract token only if URL contains ?hdntl=
-          TOKEN=$(echo "$RAW" | grep -o '?hdntl=.*')
+          # Extract only FIRST token
+          TOKEN=$(echo "$RAW" | grep -o '?hdntl=.*' | head -n 1)
 
           echo "Extracted TOKEN: $TOKEN"
 
-          # Save token
           echo "$TOKEN" > token.txt
 
-          # Export output
           echo "token=$TOKEN" >> $GITHUB_OUTPUT
 
       - name: Commit Debug Files
