@@ -1,35 +1,44 @@
 - name: Fetch Zee5 RAW URL
-        id: fetch
-        run: |
-          echo "Fetching Zee Bangla URL..."
-          RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+  id: fetch
+  run: |
+    echo "Fetching Zee Bangla URL..."
+    RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
-          echo "--------------- RAW ---------------"
-          echo "$RAW"
-          echo "-----------------------------------"
+    echo "--------------- RAW ---------------"
+    echo "$RAW"
+    echo "-----------------------------------"
 
-          echo "$RAW" > raw_debug.txt
+    echo "$RAW" > raw_debug.txt
 
-          # Extract the FIRST full Zee5 live URL
-          ZEE_URL=$(echo "$RAW" | grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' | head -n 1)
+    # Extract the FIRST full Zee5 live URL
+    ZEE_URL=$(echo "$RAW" | grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' | head -n 1)
 
-          echo "ZEE_URL: $ZEE_URL"
+    echo "ZEE_URL: $ZEE_URL"
 
-          if [ -z "$ZEE_URL" ]; then
-            echo "No z5ak-cmaflive.zee5.com URL found"
-            echo "token=" >> $GITHUB_OUTPUT
-            exit 0
-          fi
+    if [ -z "$ZEE_URL" ]; then
+      echo "No z5ak-cmaflive.zee5.com URL found"
+      echo "token=" >> $GITHUB_OUTPUT
+      exit 0
+    fi
 
-          # Decode &amp; → & if present (HTML entities)
-          ZEE_URL_CLEAN=$(printf '%b\n' "${ZEE_URL//&amp;/&}")
-          echo "Clean URL: $ZEE_URL_CLEAN"
+    # Decode HTML entities (&amp; → &)
+    ZEE_URL_CLEAN=$(echo "$ZEE_URL" | sed 's/&amp;/\&/g')
 
-          # Take ONLY the query part (after '?') as token, and prepend '?'
-          QUERY=${ZEE_URL_CLEAN#*\?}
-          TOKEN="?${QUERY}"
+    echo "Clean URL: $ZEE_URL_CLEAN"
 
-          echo "Extracted TOKEN: $TOKEN"
+    # Extract only the query part of URL
+    QUERY=${ZEE_URL_CLEAN#*\?}
+    TOKEN="?${QUERY}"
 
-          echo "$TOKEN" > token.txt
-          echo "token=$TOKEN" >> $GITHUB_OUTPUT
+    echo "Extracted TOKEN: $TOKEN"
+
+    echo "$TOKEN" > token.txt
+
+    #
+    # IMPORTANT: Escape token before writing to GitHub output
+    #
+    ESCAPED_TOKEN="${TOKEN//'%'/'%25'}"
+    ESCAPED_TOKEN="${ESCAPED_TOKEN//$'\n'/'%0A'}"
+    ESCAPED_TOKEN="${ESCAPED_TOKEN//$'\r'/'%0D'}"
+
+    echo "token=$ESCAPED_TOKEN" >> $GITHUB_OUTPUT
