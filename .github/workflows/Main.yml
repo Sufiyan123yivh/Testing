@@ -1,45 +1,82 @@
 name: Update Zee5 Playlist
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
     - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
+
+      # 1. Checkout repo
       - name: Checkout Repo
         uses: actions/checkout@v4
 
+      # 2. Fetch token (redirect-based)
       - name: Fetch Zee5 RAW URL
         id: fetch
+        shell: bash
         run: |
-          echo "Fetching Zee Bangla URL..."
-          RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
-          echo "$RAW" > raw_debug.txt
+          echo "Fetching Zee Bangla redirected URL..."
 
-          ZEE_URL=$(echo "$RAW" | grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' | head -n 1)
-          echo "ZEE_URL: $ZEE_URL"
+          # Follow redirects and output ONLY the final URL
+          FINAL_URL=$(curl -s -L -I -o /dev/null -w "%{url_effective}" \
+            "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
-          if [ -z "$ZEE_URL" ]; then
+          echo "FINAL_URL: $FINAL_URL"
+          echo "$FINAL_URL" > raw_debug.txt
+
+          if [ -z "$FINAL_URL" ]; then
             echo "token=" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          ZEE_URL_CLEAN=$(echo "$ZEE_URL" | sed 's/&amp;/\&/g')
-
-          QUERY=$(echo "$ZEE_URL_CLEAN" | cut -d'?' -f2-)
+          # Extract everything after '?' as token
+          QUERY=$(echo "$FINAL_URL" | cut -d'?' -f2-)
           TOKEN="?${QUERY}"
 
           echo "Extracted TOKEN: $TOKEN"
           echo "$TOKEN" > token.txt
 
+          # Escape for GitHub outputs
           ESCAPED_TOKEN=$(echo "$TOKEN" | sed 's/%/%25/g; s/\r/%0D/g; s/\n/%0A/g')
+
           echo "token=$ESCAPED_TOKEN" >> "$GITHUB_OUTPUT"
 
-      - name: Print Token (Debug)
+      # 3. Apply token to all Zee URLs in m3u
+      - name: Apply Token to All Zee5 Channels
+        shell: bash
         run: |
-          echo "Token from output: ${{ steps.fetch.outputs.token }}"
+          TOKEN="${{ steps.fetch.outputs.token }}"
+
+          if [ -z "$TOKEN" ]; then
+            echo "Token missing, skipping update."
+            exit 0
+          fi
+
+          echo "Applying token to Zee5 URLs in zee5.m3u..."
+
+          awk -v t="$TOKEN" '
+            /z5ak-cmaflive\.zee5\.com/ {
+              sub(/\?.*/, "", $0)  # remove old token
+              print $0 t
+              next
+            }
+            {print}
+          ' zee5.m3u > zee5_new.m3u
+
+          mv zee5_new.m3u zee5.m3u
+
+      # 4. Commit changes
+      - name: Commit Updates
+        shell: bash
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add zee5.m3u token.txt raw_debug.txt
+          git commit -m "Updated Zee5 playlist & token $(date)" || exit 0
+          git push
