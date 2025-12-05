@@ -1,0 +1,62 @@
+name: Update Zee5 Playlist
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Zee5 RAW URL
+        id: fetch
+        run: |
+          echo "Fetching Zee Bangla URL..."
+
+          RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+
+          echo "$RAW" > raw_debug.txt
+
+          # Extract the token after .m3u8?
+          TOKEN=$(echo "$RAW" | grep -o 'm3u8?hdntl=[^" ]*' | sed 's/^.*m3u8//')
+
+          echo "Extracted REAL TOKEN: $TOKEN"
+
+          echo "$TOKEN" > token.txt
+          echo "token=$TOKEN" >> $GITHUB_OUTPUT
+
+      - name: Apply Token to All Zee5 Channels
+        run: |
+          TOKEN="${{ steps.fetch.outputs.token }}"
+
+          if [ -z "$TOKEN" ]; then
+            echo "❌ Token empty → Skipping update"
+            exit 0
+          fi
+
+          echo "Applying token to Zee5 playlist..."
+
+          awk -v t="$TOKEN" '
+            /z5ak-cmaflive\.zee5\.com/ {
+              gsub(/\?.*/, "", $0)   # remove old token or query
+              print $0 t
+              next
+            }
+            { print }
+          ' zee5.m3u > zee5_new.m3u
+
+          mv zee5_new.m3u zee5.m3u
+
+      - name: Commit Updates
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add zee5.m3u token.txt raw_debug.txt
+          git commit -m "Updated Zee5 playlist & token on $(date)" || exit 0
+          git push
