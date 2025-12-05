@@ -1,0 +1,20 @@
+- name: Fetch Zee5 Token (Debug Mode)
+        id: fetch
+        run: |
+          echo "Fetching Zee token..."
+          RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+
+          echo "---------------- RAW RESPONSE ----------------"
+          echo "$RAW"
+          echo "---------------- END RAW ---------------------"
+
+          # Save RAW for inspection
+          echo "$RAW" > raw_debug.txt
+
+          # Extract token only if URL contains ?hdntl=
+          TOKEN=$(echo "$RAW" | grep -o '?hdntl=.*')
+
+          echo "Extracted TOKEN: $TOKEN"
+
+          echo "$TOKEN" > token.txt
+          echo "token=$TOKEN" >> $GITHUB_OUTPUT
