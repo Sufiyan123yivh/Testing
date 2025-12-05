@@ -1,33 +1,45 @@
-- name: Fetch Zee5 RAW URL
-  id: fetch
-  shell: bash
-  run: |
-    echo "Fetching Zee Bangla URL..."
-    RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+name: Update Zee5 Playlist
 
-    echo "$RAW" > raw_debug.txt
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
 
-    # Extract first Zee5 URL
-    ZEE_URL=$(echo "$RAW" | grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' | head -n 1)
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-    echo "ZEE_URL: $ZEE_URL"
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-    if [ -z "$ZEE_URL" ]; then
-      echo "token=" >> "$GITHUB_OUTPUT"
-      exit 0
-    fi
+      - name: Fetch Zee5 RAW URL
+        id: fetch
+        run: |
+          echo "Fetching Zee Bangla URL..."
+          RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+          echo "$RAW" > raw_debug.txt
 
-    # Replace &amp; with &
-    ZEE_URL_CLEAN=$(echo "$ZEE_URL" | sed 's/&amp;/\&/g')
+          ZEE_URL=$(echo "$RAW" | grep -o 'https://z5ak-cmaflive\.zee5\.com[^"]*' | head -n 1)
+          echo "ZEE_URL: $ZEE_URL"
 
-    # Extract the query part only
-    QUERY=$(echo "$ZEE_URL_CLEAN" | cut -d'?' -f2-)
-    TOKEN="?${QUERY}"
+          if [ -z "$ZEE_URL" ]; then
+            echo "token=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
 
-    echo "Extracted TOKEN: $TOKEN"
-    echo "$TOKEN" > token.txt
+          ZEE_URL_CLEAN=$(echo "$ZEE_URL" | sed 's/&amp;/\&/g')
 
-    # Escape for GitHub output
-    ESCAPED_TOKEN=$(echo "$TOKEN" | sed 's/%/%25/g; s/\r/%0D/g; s/\n/%0A/g')
+          QUERY=$(echo "$ZEE_URL_CLEAN" | cut -d'?' -f2-)
+          TOKEN="?${QUERY}"
 
-    echo "token=$ESCAPED_TOKEN" >> "$GITHUB_OUTPUT"
+          echo "Extracted TOKEN: $TOKEN"
+          echo "$TOKEN" > token.txt
+
+          ESCAPED_TOKEN=$(echo "$TOKEN" | sed 's/%/%25/g; s/\r/%0D/g; s/\n/%0A/g')
+          echo "token=$ESCAPED_TOKEN" >> "$GITHUB_OUTPUT"
+
+      - name: Print Token (Debug)
+        run: |
+          echo "Token from output: ${{ steps.fetch.outputs.token }}"
