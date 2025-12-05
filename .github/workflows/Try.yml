@@ -1,4 +1,19 @@
-- name: Fetch Zee5 Token (Debug Mode)
+name: Update Zee5 Token for All Channels
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Zee5 Token (Debug Mode)
         id: fetch
         run: |
           echo "Fetching Zee token..."
@@ -8,7 +23,7 @@
           echo "$RAW"
           echo "---------------- END RAW ---------------------"
 
-          # Save RAW for inspection
+          # Save RAW for debug
           echo "$RAW" > raw_debug.txt
 
           # Extract token only if URL contains ?hdntl=
@@ -18,3 +33,32 @@
 
           echo "$TOKEN" > token.txt
           echo "token=$TOKEN" >> $GITHUB_OUTPUT
+
+      - name: Apply token to ALL Zee channels
+        run: |
+          TOKEN="${{ steps.fetch.outputs.token }}"
+
+          if [ -z "$TOKEN" ]; then
+            echo "TOKEN EMPTY → SKIPPING UPDATE"
+            exit 0
+          fi
+
+          echo "Applying token..."
+
+          awk -v t="$TOKEN" '
+            /z5ak-cmaflive\.zee5\.com/ {
+              sub(/\?.*/, t)
+            }
+            {print}
+          ' zee5.m3u > zee5_new.m3u
+
+          mv zee5_new.m3u zee5.m3u
+
+      - name: Commit & Push
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add zee5.m3u token.txt raw_debug.txt
+          git commit -m "Updated Zee5 token $(date)" || exit 0
+          git push
