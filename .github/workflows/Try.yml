@@ -1,16 +1,20 @@
-- name: Fetch Zee5 RAW URL
-  id: fetch
-  run: |
-    echo "Fetching Zee Bangla URL..."
+steps:
+  - name: Checkout Repo
+    uses: actions/checkout@v4
 
-    RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
+  - name: Fetch Zee5 RAW URL
+    id: fetch
+    run: |
+      echo "Fetching Zee Bangla URL..."
 
-    echo "$RAW" > raw_debug.txt
+      RAW=$(curl -s -L -A "Mozilla/5.0" "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla")
 
-    # Extract the token after .m3u8?
-    TOKEN=$(echo "$RAW" | grep -o 'm3u8?hdntl=[^" ]*' | sed 's/^.*m3u8//')
+      echo "$RAW" > raw_debug.txt
 
-    echo "Extracted REAL TOKEN: $TOKEN"
+      # Extract token after .m3u8?
+      TOKEN=$(echo "$RAW" | grep -o 'm3u8?hdntl=[^" ]*' | sed 's/^.*m3u8//')
 
-    echo "$TOKEN" > token.txt
-    echo "token=$TOKEN" >> $GITHUB_OUTPUT
+      echo "Extracted REAL TOKEN: $TOKEN"
+
+      echo "$TOKEN" > token.txt
+      echo "token=$TOKEN" >> $GITHUB_OUTPUT
