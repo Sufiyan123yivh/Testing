@@ -1,5 +1,9 @@
-<HTML><HEAD><TITLE>Error</TITLE></HEAD><BODY>
-An error occurred while processing your request.<p>
-Reference&#32;&#35;219&#46;1636c517&#46;1764992566&#46;1ec69fc2
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;219&#46;1636c517&#46;1764992566&#46;1ec69fc2</P>
-</BODY></HTML>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 Server at mini.allinonereborn.fun Port 80</address>
+</body></html>
