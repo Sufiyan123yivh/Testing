@@ -2,11 +2,11 @@ import requests
 
 debug = open("debug.txt", "w")
 
-url = "http://mini.allinonereborn.fun/zee-paid/index.php?id=0-9-zeebangla"
+url = "https://stream.kliv.fun/allplus5d/z5/index.php?id=0-9-255"
 debug.write("Opening URL: " + url + "\n\n")
 
 headers = {
-    "User-Agent": "https://allinonereborn.online/zee/@allinone_reborn.php",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
     "Accept": "*/*",
     "Connection": "keep-alive"
 }
