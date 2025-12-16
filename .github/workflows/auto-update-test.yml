@@ -10,11 +10,12 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */3 * * *'   # every 3 hours
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -31,7 +32,8 @@ jobs:
         run: |
           set -euo pipefail
 
-          echo "#EXTM3U" > "$FILE_NAME"
+          # ===== CREATE M3U HEADER WITH EPG =====
+          echo '#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"' > "$FILE_NAME"
 
           echo "Fetching JSON..."
           JSON=$(curl -fsSL --max-time 30 "$JSON_URL") || {
