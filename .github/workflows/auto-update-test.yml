@@ -1,8 +1,8 @@
-name: Update JioTV M3U Token
+name: Update JioTV M3U Token (Safe)
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,75 +10,75 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
-        run: pip install requests
+      - run: pip install requests
 
-      - name: Fetch token and update jtv.m3u
+      - name: Update token safely
         run: |
           python << 'EOF'
-          import requests, re, json, urllib.parse
+          import requests, re, urllib.parse
 
           TOKEN_URL = "https://jtv.pfy.workers.dev/"
-          M3U_FILE = "jtv.m3u"
+          FILE = "jtv.m3u"
 
           # ---------------- Fetch token ----------------
           r = requests.get(TOKEN_URL, timeout=10)
           r.raise_for_status()
-          text = r.text
 
-          m = re.search(r"__hdnea__=[^\"'&\s]+", text)
+          m = re.search(r'__hdnea__=st=\d+~exp=\d+~acl=/\*~hmac=[a-f0-9]+', r.text)
           if not m:
-              raise Exception("hdnea token not found")
+              raise SystemExit("Token not found")
 
           token = m.group(0)
-          encoded = urllib.parse.quote(token, safe="")
+          token_enc = urllib.parse.quote(token, safe="")
 
-          print("New token:", token)
+          print("Token:", token)
 
-          # ---------------- Read M3U ----------------
-          with open(M3U_FILE, "r", encoding="utf-8", errors="ignore") as f:
-              data = f.read()
+          # ---------------- Read file line-by-line ----------------
+          out = []
 
-          # 1️⃣ Update EXTHTTP cookie JSON
-          data = re.sub(
-              r'(#EXTHTTP:\{"cookie":"?)__hdnea__=[^"]+',
-              r'\1' + token,
-              data
-          )
+          with open(FILE, "r", encoding="utf-8", errors="ignore") as f:
+              for line in f:
+                  # EXTHTTP cookie line
+                  if line.startswith("#EXTHTTP:"):
+                      line = re.sub(
+                          r'__hdnea__=st=\d+~exp=\d+~acl=/\*~hmac=[a-f0-9]+',
+                          token,
+                          line
+                      )
 
-          # 2️⃣ Update URL __hdnea__ param
-          data = re.sub(
-              r'__hdnea__=[^&\s]+',
-              token,
-              data
-          )
+                  # URL line with __hdnea__
+                  elif "__hdnea__=" in line and line.startswith("http"):
+                      line = re.sub(
+                          r'__hdnea__=st=\d+~exp=\d+~acl=/\*~hmac=[a-f0-9]+',
+                          token,
+                          line
+                      )
 
-          # 3️⃣ Update encoded cookie in xxx=%7Ccookie=
-          data = re.sub(
-              r'xxx=%7Ccookie=__hdnea__%3D[^&\s]+',
-              'xxx=%7Ccookie=' + encoded,
-              data
-          )
+                      # encoded cookie
+                      line = re.sub(
+                          r'xxx=%7Ccookie=__hdnea__%3Dst%3D\d+.*?hmac%3D[a-f0-9]+',
+                          'xxx=%7Ccookie=' + token_enc,
+                          line
+                      )
 
-          # ---------------- Write back ----------------
-          with open(M3U_FILE, "w", encoding="utf-8") as f:
-              f.write(data)
+                  out.append(line)
 
-          print("jtv.m3u updated successfully")
+          with open(FILE, "w", encoding="utf-8") as f:
+              f.writelines(out)
+
+          print("Update completed safely")
           EOF
 
-      - name: Commit and push changes
+      - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add jtv.m3u
-          git commit -m "Auto update JioTV hdnea token" || exit 0
+          git commit -m "Safe auto-update hdnea token" || exit 0
           git push
