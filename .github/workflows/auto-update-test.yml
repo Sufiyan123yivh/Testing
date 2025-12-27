@@ -19,14 +19,22 @@ jobs:
       - run: pip install requests
 
       - name: Update token safely
+        env:
+          TOKEN_URL: ${{ secrets.JTV_TOKEN_URL }}
         run: |
           python << 'EOF'
-          import requests, re, urllib.parse
+          import requests, re, urllib.parse, shutil, os
 
-          TOKEN_URL = "https://jtv.pfy.workers.dev/"
           FILE = "jtv.m3u"
+          TOKEN_URL = os.environ.get("JSON_SOURCE")
 
-          # ---------------- Fetch token ----------------
+          if not TOKEN_URL:
+              raise SystemExit("TOKEN_URL secret not set")
+
+          # Backup for safety
+          shutil.copy(FILE, FILE + ".bak")
+
+          # Fetch token
           r = requests.get(TOKEN_URL, timeout=10)
           r.raise_for_status()
 
@@ -37,14 +45,10 @@ jobs:
           token = m.group(0)
           token_enc = urllib.parse.quote(token, safe="")
 
-          print("Token:", token)
-
-          # ---------------- Read file line-by-line ----------------
           out = []
 
           with open(FILE, "r", encoding="utf-8", errors="ignore") as f:
               for line in f:
-                  # EXTHTTP cookie line
                   if line.startswith("#EXTHTTP:"):
                       line = re.sub(
                           r'__hdnea__=st=\d+~exp=\d+~acl=/\*~hmac=[a-f0-9]+',
@@ -52,17 +56,14 @@ jobs:
                           line
                       )
 
-                  # URL line with __hdnea__
-                  elif "__hdnea__=" in line and line.startswith("http"):
+                  elif line.startswith("http") and "__hdnea__=" in line:
                       line = re.sub(
                           r'__hdnea__=st=\d+~exp=\d+~acl=/\*~hmac=[a-f0-9]+',
                           token,
                           line
                       )
-
-                      # encoded cookie
                       line = re.sub(
-                          r'xxx=%7Ccookie=__hdnea__%3Dst%3D\d+.*?hmac%3D[a-f0-9]+',
+                          r'xxx=%7Ccookie=__hdnea__%3Dst%3D.*?hmac%3D[a-f0-9]+',
                           'xxx=%7Ccookie=' + token_enc,
                           line
                       )
@@ -72,13 +73,13 @@ jobs:
           with open(FILE, "w", encoding="utf-8") as f:
               f.writelines(out)
 
-          print("Update completed safely")
+          print("Token updated safely")
           EOF
 
       - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add jtv.m3u
-          git commit -m "Safe auto-update hdnea token" || exit 0
+          git add jtv.m3u jtv.m3u.bak
+          git commit -m "Auto update JioTV hdnea token" || exit 0
           git push
