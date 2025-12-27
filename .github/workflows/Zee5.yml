@@ -1,15 +1,15 @@
-name: Fetch HDNTL Token
+name: Update Zee5 m3u Token
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  fetch:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,7 +19,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Download JSON
+      - name: Fetch Zee5 JSON
         run: |
           curl -fsSL \
           https://raw.githubusercontent.com/hasanhabibmottakin/Z5/refs/heads/main/data.json \
@@ -35,19 +35,38 @@ jobs:
           ' data.json | head -n 1)
 
           if [ -z "$TOKEN" ]; then
-            echo "❌ HDNTL token not found"
+            echo "❌ Token not found"
             exit 1
           fi
 
-          echo "$TOKEN" > token.txt
-          echo "✅ Extracted token:"
-          echo "$TOKEN"
+          echo "TOKEN=$TOKEN" >> $GITHUB_ENV
+          echo "✅ Token extracted"
+
+      - name: Update Zee5.m3u URLs
+        run: |
+          FILE="Zee5.m3u"
+
+          if [ ! -f "$FILE" ]; then
+            echo "❌ Zee5.m3u not found"
+            exit 1
+          fi
+
+          # Remove old hdntl if present
+          sed -i -E 's/[&?]hdntl=[^&]+//g' "$FILE"
+
+          # Append new hdntl correctly
+          sed -i -E "/^https:\/\/z5ak-cmaflive\.zee5\.com/ {
+            /\\?/ s/$/&\\&$TOKEN/
+            /\\?/! s/$/?$TOKEN/
+          }" "$FILE"
+
+          echo "✅ Zee5.m3u updated"
 
       - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add token.txt
-          git commit -m "Update HDNTL token" || exit 0
+          git add Zee5.m3u
+          git commit -m "Auto-update Zee5 HDNTL token" || exit 0
           git push
