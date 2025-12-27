@@ -3,7 +3,7 @@ name: Update Zee5 m3u Token
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
 
 permissions:
   contents: write
@@ -19,11 +19,16 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch Zee5 JSON
+      - name: Fetch Zee5 JSON (hidden)
+        env:
+          JSON_URL: ${{ secrets.ZEE5_JSON_URL }}
         run: |
-          curl -fsSL \
-          https://raw.githubusercontent.com/hasanhabibmottakin/Z5/refs/heads/main/data.json \
-          -o data.json
+          if [ -z "$JSON_URL" ]; then
+            echo "❌ JSON URL secret missing"
+            exit 1
+          fi
+
+          curl -fsSL "$JSON_URL" -o data.json
 
       - name: Extract HDNTL token
         run: |
@@ -51,10 +56,10 @@ jobs:
             exit 1
           fi
 
-          # Remove old hdntl if present
+          # Remove old token
           sed -i -E 's/[&?]hdntl=[^&]+//g' "$FILE"
 
-          # Append new hdntl correctly
+          # Append new token correctly
           sed -i -E "/^https:\/\/z5ak-cmaflive\.zee5\.com/ {
             /\\?/ s/$/&\\&$TOKEN/
             /\\?/! s/$/?$TOKEN/
