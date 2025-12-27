@@ -3,7 +3,7 @@ name: Update Sony m3u Token
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
 
 permissions:
   contents: write
@@ -27,17 +27,17 @@ jobs:
 
           curl -fsSL "$SONY_URL" -o sony_source.m3u
 
-      - name: Extract Sony token
+      - name: Extract Sony HDNTL token
         run: |
-          TOKEN=$(grep -oE '(hdntl|hdnea)=[^&"]+' sony_source.m3u | head -n 1)
+          TOKEN=$(grep -oE 'hdntl=[^&"]+' sony_source.m3u | head -n 1)
 
           if [ -z "$TOKEN" ]; then
-            echo "❌ Sony token not found"
+            echo "❌ HDNTL token not found"
             exit 1
           fi
 
           echo "TOKEN=$TOKEN" >> $GITHUB_ENV
-          echo "✅ Token extracted: $TOKEN"
+          echo "✅ Sony token extracted"
 
       - name: Update Sony.m3u
         run: |
@@ -48,14 +48,14 @@ jobs:
             exit 1
           fi
 
-          # Remove old tokens
-          sed -i -E 's/[&?](hdntl|hdnea)=[^&]+//g' "$FILE"
+          # Remove old hdntl tokens
+          sed -i -E 's/hdntl=[^&"]+//g' "$FILE"
 
-          # Append new token correctly
-          sed -i -E "/^https?:\/\/.*sony|sonyliv|akamai/ {
-            /\\?/ s/$/&\\&$TOKEN/
-            /\\?/! s/$/?$TOKEN/
-          }" "$FILE"
+          # Clean dangling ? or &
+          sed -i -E 's/\?&/?/g; s/[?&]$//g' "$FILE"
+
+          # Insert new token correctly
+          sed -i -E "s/(\?[^#\"]*)/\1\&$TOKEN/; t; s/$/?$TOKEN/" "$FILE"
 
           echo "✅ Sony.m3u updated"
 
@@ -65,5 +65,5 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add Sony.m3u
-          git commit -m "Auto-update Sony token" || exit 0
+          git commit -m "Auto-update Sony HDNTL token" || exit 0
           git push
