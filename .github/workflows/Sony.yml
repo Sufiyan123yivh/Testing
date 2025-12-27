@@ -51,14 +51,23 @@ jobs:
           # 1️⃣ Remove old hdnea tokens
           sed -i -E 's/[&?]hdnea=[^&]+//g' "$FILE"
 
-          # 2️⃣ Clean broken query symbols
+          # 2️⃣ Fix broken query symbols
           sed -i -E 's/\?&/?/g; s/[?&]$//g' "$FILE"
 
-          # 3️⃣ Re-add new hdnea token correctly
-          sed -i -E "/^https:\/\/dishmt\.slivcdn\.com/ {
-            /\\?/ s/$/&\\&$TOKEN/
-            /\\?/! s/$/?$TOKEN/
-          }" "$FILE"
+          # 3️⃣ Append new token safely (NO sed replacement)
+          while IFS= read -r line; do
+            if [[ "$line" == https://dishmt.slivcdn.com/* ]]; then
+              if [[ "$line" == *\?* ]]; then
+                echo "${line}&${TOKEN}"
+              else
+                echo "${line}?${TOKEN}"
+              fi
+            else
+              echo "$line"
+            fi
+          done < "$FILE" > "$FILE.tmp"
+
+          mv "$FILE.tmp" "$FILE"
 
           echo "✅ Sony.m3u updated"
 
