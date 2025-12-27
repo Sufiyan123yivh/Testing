@@ -1,0 +1,53 @@
+name: Fetch HDNTL Token
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Download JSON
+        run: |
+          curl -fsSL \
+          https://raw.githubusercontent.com/hasanhabibmottakin/Z5/refs/heads/main/data.json \
+          -o data.json
+
+      - name: Extract HDNTL token
+        run: |
+          TOKEN=$(jq -r '
+            .[]
+            | .source.url
+            | capture("hdntl=(?<t>[^&]+)")
+            | "hdntl=\(.t)"
+          ' data.json | head -n 1)
+
+          if [ -z "$TOKEN" ]; then
+            echo "❌ HDNTL token not found"
+            exit 1
+          fi
+
+          echo "$TOKEN" > token.txt
+          echo "✅ Extracted token:"
+          echo "$TOKEN"
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add token.txt
+          git commit -m "Update HDNTL token" || exit 0
+          git push
