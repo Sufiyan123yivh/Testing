@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch Sony playlist (hidden)
+      - name: Fetch Sony source m3u (hidden)
         env:
           SONY_URL: ${{ secrets.SONY_M3U_URL }}
         run: |
@@ -27,17 +27,17 @@ jobs:
 
           curl -fsSL "$SONY_URL" -o sony_source.m3u
 
-      - name: Extract Sony HDNTL token
+      - name: Extract HDNEA token
         run: |
-          TOKEN=$(grep -oE 'hdntl=[^&"]+' sony_source.m3u | head -n 1)
+          TOKEN=$(grep -oE 'hdnea=[^&"]+' sony_source.m3u | head -n 1)
 
           if [ -z "$TOKEN" ]; then
-            echo "❌ HDNTL token not found"
+            echo "❌ hdnea token not found"
             exit 1
           fi
 
           echo "TOKEN=$TOKEN" >> $GITHUB_ENV
-          echo "✅ Sony token extracted"
+          echo "✅ HDNEA token extracted"
 
       - name: Update Sony.m3u
         run: |
@@ -48,14 +48,17 @@ jobs:
             exit 1
           fi
 
-          # Remove old hdntl tokens
-          sed -i -E 's/hdntl=[^&"]+//g' "$FILE"
+          # 1️⃣ Remove old hdnea tokens
+          sed -i -E 's/[&?]hdnea=[^&]+//g' "$FILE"
 
-          # Clean dangling ? or &
+          # 2️⃣ Clean broken query symbols
           sed -i -E 's/\?&/?/g; s/[?&]$//g' "$FILE"
 
-          # Insert new token correctly
-          sed -i -E "s/(\?[^#\"]*)/\1\&$TOKEN/; t; s/$/?$TOKEN/" "$FILE"
+          # 3️⃣ Re-add new hdnea token correctly
+          sed -i -E "/^https:\/\/dishmt\.slivcdn\.com/ {
+            /\\?/ s/$/&\\&$TOKEN/
+            /\\?/! s/$/?$TOKEN/
+          }" "$FILE"
 
           echo "✅ Sony.m3u updated"
 
@@ -65,5 +68,5 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add Sony.m3u
-          git commit -m "Auto-update Sony HDNTL token" || exit 0
+          git commit -m "Auto-update Sony HDNEA token" || exit 0
           git push
