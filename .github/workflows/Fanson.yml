@@ -1,0 +1,35 @@
+name: Fetch JSON & Convert to M3U
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch JSON and convert to M3U
+        env:
+          SOURCE_URL: ${{ secrets.JSON_SOURCE_URL }}
+        run: |
+          echo "#EXTM3U" > fancode_live.m3u
+
+          curl -s "$SOURCE_URL" | jq -r '
+            .[] |
+            "#EXTINF:-1 tvg-logo=\"" + .logo + "\"," + .name + "\n" + .link
+          ' >> fancode_live.m3u
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add fancode_live.m3u
+          git diff --quiet && git diff --staged --quiet || \
+          git commit -m "Update Fancode M3U"
+          git push
