@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/default-logo.png",No Live Matches Right Now
-
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138921_CASACARDS_PARTNER_16_9_1920_1080.png",Rajshahi Warriors Vs Noakhali Express
+https://in-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139154_CASACARDS_PARTNER_16_9_1920_1080.png",Majees Titans Vs Royal Oman Stallions
+https://in-mc-fdlive.fancode.com/mumbai/139154_english_hls_8ae796895f75648_1ta-di_h264/index.m3u8
