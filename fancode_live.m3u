@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/default-logo.png",No Live Matches Right Now
-
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138766_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Blaze Vs Auckland Hearts
+https://in-mc-fdlive.fancode.com/mumbai/138766_english_hls_c48307625820922_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766771153220152_SuperSmash2526_womens_Wellington_Blaze_vs_Auckland_Hearts_26dec_landscape_thumb.jpg",Wellington Blaze vs Auckland Hearts - 29 Dec 2025 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767008205~acl=/*~id=03003081806086230238292558640248~hmac=d8165a1784fba0e69d89f74dfd8b26e88350a95df696b3cb2e719e7f374738e5
