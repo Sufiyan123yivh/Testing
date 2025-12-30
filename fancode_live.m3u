@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/default-logo.png",No Live Matches Right Now
-
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138767_CASACARDS_PARTNER_16_9_1920_1080.png",Central Hinds Vs Otago Sparks
+https://in-mc-fdlive.fancode.com/mumbai/138767_english_hls_843d7c911b99616_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766771998636152_SuperSmash2526_womens_Otago_Sparks_vs_Central_Hinds_26dec_landscape_thumb.jpg",Otago Sparks vs Central Hinds - 30 Dec 2025 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767098947~acl=/*~id=42736130137029890364194060037483~hmac=5b59d4e401c9c285c7f2f968ba0d48158d751af8dd8836ac041c8d0e7db3b02d
