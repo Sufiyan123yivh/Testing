@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138443_CASACARDS_PARTNER_16_9_1920_1080.png",Al Ettifaq Vs Al Nassr Fc
 https://in-mc-fdlive.fancode.com/mumbai/138443_english_hls_f36949a12359053_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138374_CASACARDS_PARTNER_16_9_1920_1080.png",Benin Vs Senegal
+https://in-mc-fdlive.fancode.com/mumbai/138374_english_hls_9058822ae748445_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138373_CASACARDS_PARTNER_16_9_1920_1080.png",Botswana Vs Dr Congo
+https://in-mc-fdlive.fancode.com/mumbai/138373_english_hls_563824bdc529815_1ta-di_h264/index.m3u8
