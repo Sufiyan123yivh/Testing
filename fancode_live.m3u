@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766775827420152_SuperSmash2526_womens_Northern_Brave_vs_Wellington_Blaze_26dec_landscape_thumb.jpg",Northern Brave vs Wellington Blaze - 31 Dec 2025 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767192704~acl=/*~id=39731126453657449869497513404578~hmac=e5dc34f5d4c6521402184409ff4a83ccdb7bb27cabe67f0fb183fce296867e6a
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138736_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Firebirds Vs Northern Districts
+https://in-mc-fdlive.fancode.com/mumbai/138736_english_hls_b32ae9a2cf65677_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776094363152_SuperSmash2526_mens_Northern_Brave_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg",Northern Brave vs Wellington Firebirds - 31 Dec 2025 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767200012~acl=/*~id=55178052996626918039891603932708~hmac=d24ba9bd3119b4ffe320df733aea4e0451421372acb2d922679c2bce98de1c95
