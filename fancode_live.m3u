@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138737_CASACARDS_PARTNER_16_9_1920_1080.png",Canterbury Vs Central Stags
 https://in-mc-fdlive.fancode.com/mumbai/138737_english_hls_bb09d5de5079575_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138813_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Vs Newcastle Jets
-https://in-mc-fdlive.fancode.com/mumbai/138813_english_hls_76303c626a1474_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776649472152_SuperSmash2526_mens_Canterbury_Kings_vs_Central_Stags_26dec_landscape_thumb.jpg",Canterbury Kings vs Central Stags - 1 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767288251~acl=/*~id=19193958947062496907298998843087~hmac=96053bec11b65f32258e8c01a78a369af8da715f7ed73ab80f57e26bd2975a2e
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767291293~acl=/*~id=66553450269087345121725841074736~hmac=37eab906d97a9b93c0532cd616e9f8e96e6b33e03f50bbaa71f7b184a7b67295
