@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138738_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Firebirds Vs Auckland Aces
-https://in-mc-fdlive.fancode.com/mumbai/138738_english_hls_3ed4cd4c4186715_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767158901179170_UC26_spain_vs_argentina_31dec_landscape_thumb.jpg",Spain vs Argentina - 2 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767369129~acl=/*~id=67708346613978210873922718999300~hmac=03215b1a10f7fc2df1b98968b0228efe5608eb7db97f72817420c5d06b372649
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767372173~acl=/*~id=19752292324535934296090779566900~hmac=06f3877aa7649ad4b6b55a3d20b5119e8633070be7555d8412997c8c369acb4a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766777112102152_SuperSmash2526_mens_Auckland_Aces_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg",Auckland Aces vs Wellington Firebirds - 2 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767369129~acl=/*~id=67708346613978210873922718999300~hmac=03215b1a10f7fc2df1b98968b0228efe5608eb7db97f72817420c5d06b372649
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767372173~acl=/*~id=19752292324535934296090779566900~hmac=06f3877aa7649ad4b6b55a3d20b5119e8633070be7555d8412997c8c369acb4a
