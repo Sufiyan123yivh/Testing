@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138927_CASACARDS_PARTNER_16_9_1920_1080.png",Sylhet Titans Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138927_english_hls_2ad2b01ca384942_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138655_CASACARDS_PARTNER_16_9_1920_1080.png",Mi Emirates Vs Abu Dhabi Knight Riders
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138655_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Knight Riders Vs Mi Emirates
 https://in-mc-fdlive.fancode.com/mumbai/138655_english_hls_f3a36ee85a97188_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139160_CASACARDS_PARTNER_16_9_1920_1080.png",Majees Titans Vs Renaissance Challengers
-https://in-mc-fdlive.fancode.com/mumbai/139160_english_hls_72995e4f2798476_1ta-di_h264/index.m3u8
