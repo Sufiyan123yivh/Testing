@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139295_CASACARDS_PARTNER_16_9_1920_1080.png",Oman Women's Red Vs Oman Women's Blue
 https://in-mc-fdlive.fancode.com/mumbai/139295_english_hls_6203f5261a30960_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138817_CASACARDS_PARTNER_16_9_1920_1080.png",Melbourne City Vs Sydney Fc
-https://in-mc-fdlive.fancode.com/mumbai/138817_english_hls_ed6c5c3dee23255_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg",Australia vs Norway - 3 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767480473~acl=/*~id=28395633729087302673378002137094~hmac=5b3a2defc0633b658b818730fc8bd7b9421ad6afba63bd49e90d2a303a8144c0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg",USA vs Argentina - 3 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767478037~acl=/*~id=93130377036243547262392780555200~hmac=d2b1f1e78ae3baf799ab36c9a3b974b17cf3a0d110216d94b11011c8e92e7be7
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767480473~acl=/*~id=28395633729087302673378002137094~hmac=5b3a2defc0633b658b818730fc8bd7b9421ad6afba63bd49e90d2a303a8144c0
