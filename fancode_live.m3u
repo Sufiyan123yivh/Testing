@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139162_CASACARDS_PARTNER_16_9_1920_1080.png",Majees Titans Vs Ias Invincibles
 https://in-mc-fdlive.fancode.com/mumbai/139162_english_hls_75c3a3338234094_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131000_CASACARDS_PARTNER_16_9_1920_1080.png",Ca Osasuna Vs Athletic Club
-https://in-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138379_CASACARDS_PARTNER_16_9_1920_1080.png",Senegal Vs Sudan
 https://in-mc-fdlive.fancode.com/mumbai/138379_english_hls_3cbf87ddd682564_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131009_CASACARDS_PARTNER_16_9_1920_1080.png",Elche Cf Vs Villarreal Cf
+https://in-mc-fdlive.fancode.com/mumbai/131009_english_hls_e5a8bbfad987141_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131000_CASACARDS_PARTNER_16_9_1920_1080.png",Ca Osasuna Vs Athletic Club
+https://in-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012918/1767433775698306_PWL26_auction_2jan_live_Landscape_thumb_re1.jpg",Auction - 3 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767501167~acl=/*~id=39544093554522105550296093530702~hmac=ff1722f7ac072882ac70e283ae531bb2c1ebfa13b9121789dc679de556d9eba1
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767502992~acl=/*~id=69499960072309184339260688979807~hmac=d7938b1dac177f25f0d19e8029d75da61833310a8f36485f0a6a7293e96f80e8
