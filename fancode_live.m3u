@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138656_CASACARDS_PARTNER_16_9_1920_1080.png",Desert Vipers Vs Mi Emirates
 https://in-mc-fdlive.fancode.com/mumbai/138656_english_hls_ce83ff130b39556_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136997_CASACARDS_PARTNER_16_9_1920_1080.png",Norwich City F.c. Vs Stoke City F.c.
-https://in-mc-fdlive.fancode.com/mumbai/136997_english_hls_ce3e8a8a5872248_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",Real Madrid Vs Real Betis
 https://in-mc-fdlive.fancode.com/mumbai/131003_english_hls_ae70ea1be669377_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131003_CASACARDS_PARTNER_16_9_1920_1080.png",Real Madrid Vs Real Betis
@@ -11,5 +9,11 @@ https://in-mc-fdlive.fancode.com/mumbai/131003_hindi_hls_7be97aa7a721004_1ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/131003_bengali_hls_2e00c7888825485_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138384_CASACARDS_PARTNER_16_9_1920_1080.png",Morocco Vs Tanzania
 https://in-mc-fdlive.fancode.com/mumbai/138384_english_hls_2cc98e8fd362998_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131007_CASACARDS_PARTNER_16_9_1920_1080.png",Deportivo Alaves Vs Real Oviedo
+https://in-mc-fdlive.fancode.com/mumbai/131007_english_hls_484c87b6d672414_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131005_CASACARDS_PARTNER_16_9_1920_1080.png",Rcd Mallorca Vs Girona Fc
+https://in-mc-fdlive.fancode.com/mumbai/131005_english_hls_a334fda8f553380_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136997_CASACARDS_PARTNER_16_9_1920_1080.png",Norwich City F.c. Vs Stoke City F.c.
+https://in-mc-fdlive.fancode.com/mumbai/136997_english_hls_ce3e8a8a5872248_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg",Italy vs Switzerland - 4 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767587602~acl=/*~id=45074310701291929452375317277071~hmac=a0c5eefe287b6ec1e7b717e6149abc1b7511edd369a7d66739ca26808d27f06b
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767589431~acl=/*~id=01109517915616865179849500064244~hmac=52e65994614b8d55c8326a96dd05669e135c0a17b0b5387d11568fdf8f8c8638
