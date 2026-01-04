@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138656_CASACARDS_PARTNER_16_9_1920_1080.png",Desert Vipers Vs Mi Emirates
-https://in-mc-fdlive.fancode.com/mumbai/138656_english_hls_ce83ff130b39556_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131007_CASACARDS_PARTNER_16_9_1920_1080.png",Deportivo Alaves Vs Real Oviedo
 https://in-mc-fdlive.fancode.com/mumbai/131007_english_hls_484c87b6d672414_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131005_CASACARDS_PARTNER_16_9_1920_1080.png",Rcd Mallorca Vs Girona Fc
 https://in-mc-fdlive.fancode.com/mumbai/131005_english_hls_a334fda8f553380_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139200_CASACARDS_PARTNER_16_9_1920_1080.png",Damac Vs Al Hilal Sfc
 https://in-mc-fdlive.fancode.com/mumbai/139200_english_hls_2bb16bf43e51533_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138383_CASACARDS_PARTNER_16_9_1920_1080.png",South Africa Vs Cameroon
+https://in-mc-fdlive.fancode.com/mumbai/138383_english_hls_1c86ed249198186_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138656_CASACARDS_PARTNER_16_9_1920_1080.png",Desert Vipers Vs Mi Emirates
+https://in-mc-fdlive.fancode.com/mumbai/138656_english_hls_ce83ff130b39556_1ta-di_h264/index.m3u8
