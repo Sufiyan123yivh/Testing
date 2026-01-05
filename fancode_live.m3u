@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138931_CASACARDS_PARTNER_16_9_1920_1080.png",Chattogram Royals Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138931_english_hls_cf91c4037e70925_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139283_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 1
-https://in-mc-fdlive.fancode.com/mumbai/139283_english_hls_ea5c6b725a48855_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767426294128238_UC26_Great-Britain-vs-Greece_3jan_landscape_thumb.jpg",Great Britain vs Greece - 5 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767662499~acl=/*~id=31268517974007100871221221946277~hmac=79b7b9a78f0c15a5d22e23bf9db6cddfee8df99b570e8c807593f207c20bebc5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767425512224238_UC26_Germany-vs-Poland_3jan_landscape_thumb.jpg",Germany vs Poland - 5 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767662499~acl=/*~id=31268517974007100871221221946277~hmac=79b7b9a78f0c15a5d22e23bf9db6cddfee8df99b570e8c807593f207c20bebc5
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767665546~acl=/*~id=15661440457265728885460456547835~hmac=a6ac87324a818e9cc9d0b424789a85d69047411911ece7f58e31f05acf415a38
