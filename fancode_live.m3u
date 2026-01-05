@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138931_CASACARDS_PARTNER_16_9_1920_1080.png",Chattogram Royals Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138931_english_hls_cf91c4037e70925_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139204_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 1
-https://in-mc-fdlive.fancode.com/mumbai/139204_english_hls_1ebe611e3851403_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139283_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/139283_english_hls_ea5c6b725a48855_1ta-di_h264/index.m3u8
