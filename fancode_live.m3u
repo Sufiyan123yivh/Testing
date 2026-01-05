@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138931_CASACARDS_PARTNER_16_9_1920_1080.png",Chattogram Royals Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138931_english_hls_cf91c4037e70925_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138381_CASACARDS_PARTNER_16_9_1920_1080.png",Egypt Vs Benin
+https://in-mc-fdlive.fancode.com/mumbai/138381_english_hls_0777ec1e3575216_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767426294128238_UC26_Great-Britain-vs-Greece_3jan_landscape_thumb.jpg",Great Britain vs Greece - 5 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767668595~acl=/*~id=25062418740401038597486306075462~hmac=01048afc1633720fcda668f7cd653fd189796bb0c73b794b17d9a5e8f7d57116
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767672870~acl=/*~id=35874452761540434886066635331287~hmac=f96644844cc301712eea670684fa7ee9020d5b11b022255e5dd254fbb13bc221
