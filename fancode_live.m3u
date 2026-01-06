@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138773_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Hearts Vs Otago Sparks
 https://in-mc-fdlive.fancode.com/mumbai/138773_english_hls_323b5b2c2527016_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133965_CASACARDS_PARTNER_16_9_1920_1080.png",Queensland Fire Vs Tasmania Women
-https://in-mc-fdlive.fancode.com/mumbai/133965_english_hls_6f58f9021288256_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139189_CASACARDS_PARTNER_16_9_1920_1080.png",Show Court 1   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139189_english_hls_113052468285825_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139188_CASACARDS_PARTNER_16_9_1920_1080.png",Pat Rafter Arena   Day 3
@@ -12,8 +10,8 @@ https://in-mc-fdlive.fancode.com/mumbai/139205_english_hls_2d73b606da56886_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139284_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139284_english_hls_7a28b3ff2d36797_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766819124741385_SuperSmash2526_womens_Auckland-Hearts-vs-Otago-Sparks_27dec_landscape_thumb.jpg",Auckland Hearts vs Otago Sparks - 6 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767723373~acl=/*~id=52773603569705042542805352423465~hmac=27f04793ee032a56d96e499a63ef1b23fbbe84ba4aa936913e242899f4bcd299
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767725203~acl=/*~id=47999966061176173480793161402487~hmac=31e082782adfc1022ba482e1c705871fc9a8961c929a1460a3a7b327ec3320d4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426438011632_UnitedCup26_Italy_vs_France_landscape_thumb.jpg",Italy vs France - 6 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767723373~acl=/*~id=52773603569705042542805352423465~hmac=27f04793ee032a56d96e499a63ef1b23fbbe84ba4aa936913e242899f4bcd299
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767725203~acl=/*~id=47999966061176173480793161402487~hmac=31e082782adfc1022ba482e1c705871fc9a8961c929a1460a3a7b327ec3320d4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426670814632_UnitedCup26_Australia_vs_Czechia__landscape_thumb.jpg",Australia vs Czechia - 6 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767723373~acl=/*~id=52773603569705042542805352423465~hmac=27f04793ee032a56d96e499a63ef1b23fbbe84ba4aa936913e242899f4bcd299
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767725203~acl=/*~id=47999966061176173480793161402487~hmac=31e082782adfc1022ba482e1c705871fc9a8961c929a1460a3a7b327ec3320d4
