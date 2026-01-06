@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139297_CASACARDS_PARTNER_16_9_1920_1080.png",Melbourne City Vs Brisbane Roar
-https://in-mc-fdlive.fancode.com/mumbai/139297_english_hls_f36047abdf47496_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139188_CASACARDS_PARTNER_16_9_1920_1080.png",Pat Rafter Arena   Day 3
-https://in-mc-fdlive.fancode.com/mumbai/139188_english_hls_6b8f42fb4d72441_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139205_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139205_english_hls_2d73b606da56886_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139284_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139284_english_hls_7a28b3ff2d36797_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426670814632_UnitedCup26_Australia_vs_Czechia__landscape_thumb.jpg",Australia vs Czechia - 6 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767737412~acl=/*~id=47129886547490267854887481481300~hmac=7923a0548d99b31495e556c567592323fa62debd3e7d16d6e08357aa87f37350
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/DAI16ME-V3/std_lrh-800300010.m3u8
