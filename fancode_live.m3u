@@ -1,5 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138741_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Aces Vs Otago Volts
+https://in-mc-fdlive.fancode.com/mumbai/138741_english_hls_b36cd39d8d7465_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133963_CASACARDS_PARTNER_16_9_1920_1080.png",Victoria Women Vs Act Meteors
 https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133965_CASACARDS_PARTNER_16_9_1920_1080.png",Queensland Fire Vs Tasmania Women
+https://in-mc-fdlive.fancode.com/mumbai/133965_english_hls_6f58f9021288256_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012967/1767596813484377_SuperSmash2526_mens_Auckland_Aces_vs_Otago_Volts_5jan_landscape_thumb.jpg",Auckland Aces vs Otago Volts - 6 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767703871~acl=/*~id=89156909125804897364395563994487~hmac=8ab18140f01c93cfe387464bde3d959f3955c04ec36f4dcae5beb1eff0c8816f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767427703499238_UC26_Canada-vs-Belgium_3jan_landscape_thumb.jpg",Canada vs Belgium - 6 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767697786~acl=/*~id=50455327766679860228245224057220~hmac=2e845d99e4c76005a341382d5aafb4cff7215280b458d470f08aab93726a7f6d
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767703871~acl=/*~id=89156909125804897364395563994487~hmac=8ab18140f01c93cfe387464bde3d959f3955c04ec36f4dcae5beb1eff0c8816f
