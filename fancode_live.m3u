@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139165_CASACARDS_PARTNER_16_9_1920_1080.png",The Bay Vs Atlanta
 https://in-mc-fdlive.fancode.com/mumbai/139165_english_hls_b04d47724517739_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012941/1767503753535728_UnitedCup26_Poland_vs_Netherlands_4jan_landscape_thumb.jpg",Poland vs Netherlands - 7 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8
