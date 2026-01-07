@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139215_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Vs Pakistan
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1767832201~acl=/*~id=fddc13e0e61d91a0435d9ea660d6eaa8-1767789000165~hmac=b351bb33655064f41d24a80574a67e48166e62eb232248956cb93a005250b523
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139256_CASACARDS_PARTNER_16_9_1920_1080.png",Qatar U23 Vs United Arab Emirates U23
 https://in-mc-fdlive.fancode.com/mumbai/139256_english_hls_a78ab4d7eb41061_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139285_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 3
-https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698961481649_SLvsPAK26_1t20i_6jan_landscape_thumb.jpg",1st T20I - 7 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767848270~acl=/*~id=42427572940986828871276465128641~hmac=36c60a6bb589323c26c8a05a8cd489ce07866a26d74469fa344c07449a685908
