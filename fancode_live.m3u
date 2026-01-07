@@ -1,11 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138941_CASACARDS_PARTNER_16_9_1920_1080.png",Chattogram Royals Vs Sylhet Titans
+https://in-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139254_CASACARDS_PARTNER_16_9_1920_1080.png",Korea Republic U23 Vs Ir Iran U23
+https://in-mc-fdlive.fancode.com/mumbai/139254_english_hls_638114bb7c9231_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139253_CASACARDS_PARTNER_16_9_1920_1080.png",Japan U23 Vs Syria U23
+https://in-mc-fdlive.fancode.com/mumbai/139253_english_hls_4b585058b680046_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139191_CASACARDS_PARTNER_16_9_1920_1080.png",Show Court 1   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/139191_english_hls_078c776f8b1233_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139190_CASACARDS_PARTNER_16_9_1920_1080.png",Pat Rafter Arena   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139190_english_hls_e3450c9bd795754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139206_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139206_english_hls_a7689c2f3e19261_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139285_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg",Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767825121~acl=/*~id=57721773583288737207370710228494~hmac=750463f22043bfd46e9b0068b5a5d4bcfff0d048ff32103a773ffd0c3fa4ff89
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767826952~acl=/*~id=69932613064436429710242126042152~hmac=d70cad8fd77f409a62c27df7a2296778b968408dd568120750b423cf61924a92
