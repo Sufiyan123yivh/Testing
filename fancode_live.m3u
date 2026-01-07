@@ -1,5 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138774_CASACARDS_PARTNER_16_9_1920_1080.png",Central Hinds Vs Wellington Blaze
+https://in-mc-fdlive.fancode.com/mumbai/138774_english_hls_84bd2b394a42375_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139165_CASACARDS_PARTNER_16_9_1920_1080.png",The Bay Vs Atlanta
 https://in-mc-fdlive.fancode.com/mumbai/139165_english_hls_b04d47724517739_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139191_CASACARDS_PARTNER_16_9_1920_1080.png",Show Court 1   Day 4
+https://in-mc-fdlive.fancode.com/mumbai/139191_english_hls_078c776f8b1233_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766836424934385_SuperSmash2526_womens_Wellington-Blaze-vs-Central-Hinds_27dec_landscape_thumb.jpg",Wellington Blaze vs Central Hinds- 7 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767790365~acl=/*~id=23834293643244393672126844327454~hmac=651056ad4190a799ea81da0170ac26637e6271f355801461a42c6fd354697a71
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012941/1767503753535728_UnitedCup26_Poland_vs_Netherlands_4jan_landscape_thumb.jpg",Poland vs Netherlands - 7 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767790365~acl=/*~id=23834293643244393672126844327454~hmac=651056ad4190a799ea81da0170ac26637e6271f355801461a42c6fd354697a71
