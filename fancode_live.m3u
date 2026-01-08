@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138943_CASACARDS_PARTNER_16_9_1920_1080.png",Dhaka Capitals Vs Sylhet Titans
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138943_CASACARDS_PARTNER_16_9_1920_1080.png",Sylhet Titans Vs Dhaka Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138943_english_hls_91d58682b68698_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133966_CASACARDS_PARTNER_16_9_1920_1080.png",Western Australia Women Vs South Australian Scorpions
-https://in-mc-fdlive.fancode.com/mumbai/133966_english_hls_bfeaaf7a1032942_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139257_CASACARDS_PARTNER_16_9_1920_1080.png",Australia U23 Vs Thailand U23
 https://in-mc-fdlive.fancode.com/mumbai/139257_english_hls_020213e63d91795_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139207_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139207_english_hls_98c1615b9493405_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139286_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/139286_english_hls_cde3a41cb797754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767772964809351_UC26_QF_Belgium_vs_Czechia_7jan_landscape_thumb.jpg",Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767913411~acl=/*~id=16287727787384766602973410835761~hmac=d949d295c86695a4fa781664830ed40ffbd3ad41529caac0a0099c0d838df03b
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767917676~acl=/*~id=87952469005724272666655925424499~hmac=64df5f01222403bb85311c833277d98061f08b08f6f1ffc146c18193e1d007f9
