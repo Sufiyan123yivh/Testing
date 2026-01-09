@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139573_CASACARDS_PARTNER_16_9_1920_1080.png",Majees Titans Vs Oman Development Team
-https://in-mc-fdlive.fancode.com/mumbai/139573_english_hls_562482020234301_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139203_CASACARDS_PARTNER_16_9_1920_1080.png",Al Kholood Club Vs Al Ittihad
 https://in-mc-fdlive.fancode.com/mumbai/139203_english_hls_3a37c84ef261787_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138388_CASACARDS_PARTNER_16_9_1920_1080.png",Cameroon Vs Morocco
 https://in-mc-fdlive.fancode.com/mumbai/138388_english_hls_b50450f5227461_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139260_CASACARDS_PARTNER_16_9_1920_1080.png",Jordan U23 Vs Saudi Arabia U23
-https://in-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013148/176793910790478_facup26_RD3_Wrexham_vs_Nottingham_Forest_9jan_Landscape_thumb.jpg",Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028915~acl=/*~id=50450002415622189850185876014847~hmac=714df22e5dde88f17006101c3140016d546391686b1850d58f491292dceca690
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767854408912351_Bundesliga_MD16_Eintracht-Frankfurt-vs-Borussia-Dortmund_landscape_thumb.jpg",Eintracht Frankfurt vs Borussia Dortmund - MD 16 - 10 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028915~acl=/*~id=50450002415622189850185876014847~hmac=714df22e5dde88f17006101c3140016d546391686b1850d58f491292dceca690
