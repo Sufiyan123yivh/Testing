@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131018_CASACARDS_PARTNER_16_9_1920_1080.png",Getafe Cf Vs Real Sociedad
 https://in-mc-fdlive.fancode.com/mumbai/131018_english_hls_8ed270d21f40954_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139247_CASACARDS_PARTNER_16_9_1920_1080.png",Cádiz Vs Sporting De Gijón
-https://in-mc-fdlive.fancode.com/mumbai/139247_english_hls_6f877cbffd3887_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013148/176793910790478_facup26_RD3_Wrexham_vs_Nottingham_Forest_9jan_Landscape_thumb.jpg",Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768036214~acl=/*~id=46338594955261030866581017947276~hmac=7ca263054f3edaddd416904e35417b255a9fdec68d43e7805ff53e20142c5cc3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767854408912351_Bundesliga_MD16_Eintracht-Frankfurt-vs-Borussia-Dortmund_landscape_thumb.jpg",Eintracht Frankfurt vs Borussia Dortmund - MD 16 - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768036214~acl=/*~id=46338594955261030866581017947276~hmac=7ca263054f3edaddd416904e35417b255a9fdec68d43e7805ff53e20142c5cc3
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768039867~acl=/*~id=76316064044264374849472835198447~hmac=40633e2320ddb7ac8264183f496957c86b5c935fecba75b8da8d47e790b6701e
