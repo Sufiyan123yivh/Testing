@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138945_CASACARDS_PARTNER_16_9_1920_1080.png",Noakhali Express Vs Rangpur Riders
 https://in-mc-fdlive.fancode.com/mumbai/138945_english_hls_425d16059e35160_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139194_CASACARDS_PARTNER_16_9_1920_1080.png",Pat Rafter Arena   Day 6
-https://in-mc-fdlive.fancode.com/mumbai/139194_english_hls_2011737c6424099_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139208_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 5
-https://in-mc-fdlive.fancode.com/mumbai/139208_english_hls_ce83ebd80a67417_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139216_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Vs Pakistan
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1768005001~acl=/*~id=93cfbeceb516ef1ad4e7c3b7b566eb34-1767961800121~hmac=7cfe5d33d4ffa19c4e092722bd57ca4ed67cc810e50d3b0580b1bfd0ed665eed
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139287_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 5
 https://in-mc-fdlive.fancode.com/mumbai/139287_english_hls_8139d864e751453_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767773302425351_UC26_QF_Australia_vs_Poland_7jan_landscape_thumb.jpg",Australia vs Poland - Quarter-final - 9 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768003986~acl=/*~id=76068168240819607783833139392909~hmac=d898c709e028bac353a950d2ca32b1523eedb5c14180543cdb9d9d651c56e757
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698942088649_SLvsPAK26_2t20i_6jan_landscape_thumb.jpg",2nd T20I - 9 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768007632~acl=/*~id=41992579579710547659516377185987~hmac=7597f477c5d0d0b62f519f2e1a4c48b9930508a60a0b33253b7cdd20ec9e736b
