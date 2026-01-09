@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131018_CASACARDS_PARTNER_16_9_1920_1080.png",Getafe Cf Vs Real Sociedad
-https://in-mc-fdlive.fancode.com/mumbai/131018_english_hls_8ed270d21f40954_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013148/176793910790478_facup26_RD3_Wrexham_vs_Nottingham_Forest_9jan_Landscape_thumb.jpg",Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768039867~acl=/*~id=76316064044264374849472835198447~hmac=40633e2320ddb7ac8264183f496957c86b5c935fecba75b8da8d47e790b6701e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013171/1767959265113119_UC26_SF_Switzerland_vs_Belgium_9jan_landscape_thumb.jpg",Switzerland vs Belgium - Semi-final - 10 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768041690~acl=/*~id=33731671028723455050309107131169~hmac=a55dcd78c822ee62a61775721e505b63baa0f8e442b17a038bafbbfb032e450e
