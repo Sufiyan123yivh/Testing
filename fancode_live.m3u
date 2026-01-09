@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138944_CASACARDS_PARTNER_16_9_1920_1080.png",Rajshahi Warriors Vs Chattogram Royals
-https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138945_CASACARDS_PARTNER_16_9_1920_1080.png",Noakhali Express Vs Rangpur Riders
+https://in-mc-fdlive.fancode.com/mumbai/138945_english_hls_425d16059e35160_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139194_CASACARDS_PARTNER_16_9_1920_1080.png",Pat Rafter Arena   Day 6
 https://in-mc-fdlive.fancode.com/mumbai/139194_english_hls_2011737c6424099_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139208_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 5
@@ -8,4 +8,4 @@ https://in-mc-fdlive.fancode.com/mumbai/139208_english_hls_ce83ebd80a67417_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139287_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 5
 https://in-mc-fdlive.fancode.com/mumbai/139287_english_hls_8139d864e751453_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767773302425351_UC26_QF_Australia_vs_Poland_7jan_landscape_thumb.jpg",Australia vs Poland - Quarter-final - 9 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767999726~acl=/*~id=11969095446279505635786109245340~hmac=843cf4d96a5b0ab236dee9f7caf03d10590c66bb28bad34fb6dc7660310be32b
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768003986~acl=/*~id=76068168240819607783833139392909~hmac=d898c709e028bac353a950d2ca32b1523eedb5c14180543cdb9d9d651c56e757
