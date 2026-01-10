@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138777_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Hearts Vs Canterbury Magicians
+https://in-mc-fdlive.fancode.com/mumbai/138777_english_hls_516c18a24482246_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013171/1767959265113119_UC26_SF_Switzerland_vs_Belgium_9jan_landscape_thumb.jpg",Switzerland vs Belgium - Semi-final - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768042907~acl=/*~id=39609118970501965720966988174840~hmac=f34ef4391da7e5f18e8814eef060e0a3abd75732666f3ac0ba4d5bf204149dd6
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768049602~acl=/*~id=43442733487825905480052553527509~hmac=7c3778af1d89d5199b10a8b2cddb3b8448778bef266b372b22c67e700803dd79
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767165771653275_SuperSmash2526_womens_Canterbury-Magicians-vs-Auckland-Hearts_31dec_landscape_thumb.jpg",Canterbury Magicians vs Auckland Hearts- 10 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768049602~acl=/*~id=43442733487825905480052553527509~hmac=7c3778af1d89d5199b10a8b2cddb3b8448778bef266b372b22c67e700803dd79
