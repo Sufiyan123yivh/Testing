@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139574_CASACARDS_PARTNER_16_9_1920_1080.png",Ias Invincibles Vs Yalla Shabab Giants
-https://in-mc-fdlive.fancode.com/mumbai/139574_english_hls_4f1227598c45864_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139301_CASACARDS_PARTNER_16_9_1920_1080.png",Arsenal Women Vs Manchester United Women
 https://in-mc-fdlive.fancode.com/mumbai/139301_english_hls_9180c8effe6472_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131012_CASACARDS_PARTNER_16_9_1920_1080.png",Real Oviedo Vs Real Betis
 https://in-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139262_CASACARDS_PARTNER_16_9_1920_1080.png",Lebanon U23 Vs Korea Republic U23
-https://in-mc-fdlive.fancode.com/mumbai/139262_english_hls_fb05cb37b548785_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139261_CASACARDS_PARTNER_16_9_1920_1080.png",United Arab Emirates U23 Vs Japan U23
-https://in-mc-fdlive.fancode.com/mumbai/139261_english_hls_56eafd456278983_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139263_CASACARDS_PARTNER_16_9_1920_1080.png",Ir Iran U23 Vs Uzbekistan U23
 https://in-mc-fdlive.fancode.com/mumbai/139263_english_hls_c2dd9fc2d218630_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139288_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 6
 https://in-mc-fdlive.fancode.com/mumbai/139288_english_hls_bd71635cff65201_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013149/1767939274147777_facup26_RD3_Macclesfield_vs_Crystal_Palace_9jan_Landscape_thumb.jpg",Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768095637~acl=/*~id=07764622061005707926936056455900~hmac=1e2788fe0b8bef3af74afe98c34c37e98c11ae3e9429ee3cdba9117c2de482e4
