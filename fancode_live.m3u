@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139574_CASACARDS_PARTNER_16_9_1920_1080.png",Ias Invincibles Vs Yalla Shabab Giants
 https://in-mc-fdlive.fancode.com/mumbai/139574_english_hls_4f1227598c45864_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139301_CASACARDS_PARTNER_16_9_1920_1080.png",Arsenal Women Vs Manchester United Women
+https://in-mc-fdlive.fancode.com/mumbai/139301_english_hls_9180c8effe6472_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138822_CASACARDS_PARTNER_16_9_1920_1080.png",Perth Glory Vs Central Coast Mariners
 https://in-mc-fdlive.fancode.com/mumbai/138822_english_hls_cfe5c38cc542363_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139262_CASACARDS_PARTNER_16_9_1920_1080.png",Lebanon U23 Vs Korea Republic U23
@@ -11,5 +13,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139261_english_hls_56eafd456278983_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139209_english_hls_718840a7e222978_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139288_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 6
 https://in-mc-fdlive.fancode.com/mumbai/139288_english_hls_bd71635cff65201_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013149/1767939274147777_facup26_RD3_Macclesfield_vs_Crystal_Palace_9jan_Landscape_thumb.jpg",Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090765~acl=/*~id=90079130529081174239443377246090~hmac=5176791dc47f9590cd4c399beac3837716584ed246e60ede66b05d1779433fc5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg",USA vs Poland - Semi-final - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768087116~acl=/*~id=19443324564530325226792199371962~hmac=64eba4bde5400bba87b7970e3a4827f9666ddbb4d2fc4baa742fa1a86f796bce
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090765~acl=/*~id=90079130529081174239443377246090~hmac=5176791dc47f9590cd4c399beac3837716584ed246e60ede66b05d1779433fc5
