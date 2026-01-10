@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139574_CASACARDS_PARTNER_16_9_1920_1080.png",Ias Invincibles Vs Yalla Shabab Giants
 https://in-mc-fdlive.fancode.com/mumbai/139574_english_hls_4f1227598c45864_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138821_CASACARDS_PARTNER_16_9_1920_1080.png",Macarthur Vs Sydney Fc
-https://in-mc-fdlive.fancode.com/mumbai/138821_english_hls_2072bc5cba47760_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138822_CASACARDS_PARTNER_16_9_1920_1080.png",Perth Glory Vs Central Coast Mariners
 https://in-mc-fdlive.fancode.com/mumbai/138822_english_hls_cfe5c38cc542363_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139262_CASACARDS_PARTNER_16_9_1920_1080.png",Lebanon U23 Vs Korea Republic U23
+https://in-mc-fdlive.fancode.com/mumbai/139262_english_hls_fb05cb37b548785_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139261_CASACARDS_PARTNER_16_9_1920_1080.png",United Arab Emirates U23 Vs Japan U23
+https://in-mc-fdlive.fancode.com/mumbai/139261_english_hls_56eafd456278983_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139209_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court   Day 6
 https://in-mc-fdlive.fancode.com/mumbai/139209_english_hls_718840a7e222978_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139288_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 6
 https://in-mc-fdlive.fancode.com/mumbai/139288_english_hls_bd71635cff65201_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg",USA vs Poland - Semi-final - 10 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768084675~acl=/*~id=23883419030968951746032728362381~hmac=177f0f1e5ab7e024bc1661ad418bf0dec7155833a0847473707a5a10a6db5303
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768087116~acl=/*~id=19443324564530325226792199371962~hmac=64eba4bde5400bba87b7970e3a4827f9666ddbb4d2fc4baa742fa1a86f796bce
