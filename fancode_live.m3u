@@ -1,9 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138939_CASACARDS_PARTNER_16_9_1920_1080.png",Noakhali Express Vs Dhaka Capitals
 https://in-mc-fdlive.fancode.com/mumbai/138939_english_hls_6f7a40840186485_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139305_CASACARDS_PARTNER_16_9_1920_1080.png",Manchester City Women Vs Everton Women
+https://in-mc-fdlive.fancode.com/mumbai/139305_english_hls_0947db94b021175_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139304_CASACARDS_PARTNER_16_9_1920_1080.png",Aston Villa Women Vs Brighton And Hove Albion Women
+https://in-mc-fdlive.fancode.com/mumbai/139304_english_hls_0437188bb360848_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139303_CASACARDS_PARTNER_16_9_1920_1080.png",Tottenham Hotspur Women Vs Leicester City Women
+https://in-mc-fdlive.fancode.com/mumbai/139303_english_hls_b466a7b32b36368_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139302_CASACARDS_PARTNER_16_9_1920_1080.png",Chelsea F.c. Women Vs West Ham United Women
+https://in-mc-fdlive.fancode.com/mumbai/139302_english_hls_231ffbd8d186245_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139265_CASACARDS_PARTNER_16_9_1920_1080.png",China Pr U23 Vs Australia U23
 https://in-mc-fdlive.fancode.com/mumbai/139265_english_hls_b35ba6e44925291_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg",Switzerland vs Poland - Final - 11 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768174026~acl=/*~id=41735638880212509590939106789817~hmac=1093ab89f6747d821cab1deba27b09d7f7409a6b78ed5856c7d01173e03fe02f
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768177074~acl=/*~id=95204086816936485007825983227287~hmac=b94de5b913c1319c8c60a923251ae604902217346a452da4ccf0a4e3adf21964
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767949530498145_FA_CUP_26_RD3_Derby-County-vs-Leeds-Utd_9jan_Landscape_thumb.jpg",Derby County vs Leeds United - Round 3 - 11 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768174026~acl=/*~id=41735638880212509590939106789817~hmac=1093ab89f6747d821cab1deba27b09d7f7409a6b78ed5856c7d01173e03fe02f
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768177074~acl=/*~id=95204086816936485007825983227287~hmac=b94de5b913c1319c8c60a923251ae604902217346a452da4ccf0a4e3adf21964
