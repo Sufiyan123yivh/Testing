@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138938_CASACARDS_PARTNER_16_9_1920_1080.png",Rangpur Riders Vs Rajshahi Warriors
-https://in-mc-fdlive.fancode.com/mumbai/138938_english_hls_f09af0d11f77311_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138939_CASACARDS_PARTNER_16_9_1920_1080.png",Noakhali Express Vs Dhaka Capitals
+https://in-mc-fdlive.fancode.com/mumbai/138939_english_hls_6f7a40840186485_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139265_CASACARDS_PARTNER_16_9_1920_1080.png",China Pr U23 Vs Australia U23
+https://in-mc-fdlive.fancode.com/mumbai/139265_english_hls_b35ba6e44925291_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg",Switzerland vs Poland - Final - 11 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768171585~acl=/*~id=46326955565140817366396622987867~hmac=40ab02182e7c8ebe101d04353785853ef330ed2a5fdce03f9e3598a03713f89b
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768174026~acl=/*~id=41735638880212509590939106789817~hmac=1093ab89f6747d821cab1deba27b09d7f7409a6b78ed5856c7d01173e03fe02f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767949530498145_FA_CUP_26_RD3_Derby-County-vs-Leeds-Utd_9jan_Landscape_thumb.jpg",Derby County vs Leeds United - Round 3 - 11 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768174026~acl=/*~id=41735638880212509590939106789817~hmac=1093ab89f6747d821cab1deba27b09d7f7409a6b78ed5856c7d01173e03fe02f
