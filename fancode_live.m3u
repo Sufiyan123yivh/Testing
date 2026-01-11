@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138778_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Blaze Vs Northern Brave Women
-https://in-mc-fdlive.fancode.com/mumbai/138778_english_hls_3ef96e9a261392_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138746_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Firebirds Vs Northern Districts
+https://in-mc-fdlive.fancode.com/mumbai/138746_english_hls_cc56011f2922595_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138823_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Phoenix Vs Adelaide United
+https://in-mc-fdlive.fancode.com/mumbai/138823_english_hls_50dcd4d2b33546_1ta-di_h264/index.m3u8
