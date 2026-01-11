@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138746_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Firebirds Vs Northern Districts
 https://in-mc-fdlive.fancode.com/mumbai/138746_english_hls_cc56011f2922595_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138938_CASACARDS_PARTNER_16_9_1920_1080.png",Rajshahi Warriors Vs Rangpur Riders
+https://in-mc-fdlive.fancode.com/mumbai/138938_english_hls_f09af0d11f77311_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138824_CASACARDS_PARTNER_16_9_1920_1080.png",Melbourne City Vs Newcastle Jets
+https://in-mc-fdlive.fancode.com/mumbai/138824_english_hls_97d46b4ea769591_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767188814441275_SuperSmash2526_mens_Wellington-Firebirds-vs-Northern-Brave_31dec_landscape_thumb.jpg",Wellington Firebirds vs Northern Brave Men - 11 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768150416~acl=/*~id=00305311417004379784763270029457~hmac=fcab83ae71c8acebd145acf92f62715723033e3df9f109acbf7010c93b42d5a6
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768154669~acl=/*~id=72197208637584245122706972387930~hmac=30af07c5b5bd7b520dd4ef3f05414f76cc4e4a33d7dcba82916b15a3526f518c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg",Switzerland vs Poland - Final - 11 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768154669~acl=/*~id=72197208637584245122706972387930~hmac=30af07c5b5bd7b520dd4ef3f05414f76cc4e4a33d7dcba82916b15a3526f518c
