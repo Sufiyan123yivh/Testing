@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139577_CASACARDS_PARTNER_16_9_1920_1080.png",Yalla Shabab Giants Vs Majees Titans
-https://in-mc-fdlive.fancode.com/mumbai/139577_english_hls_c62064f93993299_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139357_CASACARDS_PARTNER_16_9_1920_1080.png",Al Hilal Sfc Vs Al Nassr Fc
 https://in-mc-fdlive.fancode.com/mumbai/139357_english_hls_2614494daf79038_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139268_CASACARDS_PARTNER_16_9_1920_1080.png",Jordan U23 Vs Kyrgyz Republic U23
-https://in-mc-fdlive.fancode.com/mumbai/139268_english_hls_63b31d136a76601_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139267_CASACARDS_PARTNER_16_9_1920_1080.png",Saudi Arabia U23 Vs Vietnam U23
-https://in-mc-fdlive.fancode.com/mumbai/139267_english_hls_e99d09524030874_1ta-di_h264/index.m3u8
