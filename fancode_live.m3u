@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138779_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Hearts Vs Otago Sparks
+https://in-mc-fdlive.fancode.com/mumbai/138779_english_hls_77ed9fc52439905_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139536_CASACARDS_PARTNER_16_9_1920_1080.png",Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/mumbai/139536_english_hls_31cccb3ff817193_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767249223977898_SuperSmash2526_womens_Otago-Sparks-vs-Auckland-Hearts_1jan_landscape_thumb.jpg",Otago Sparks vs Auckland Hearts - 12 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768217898~acl=/*~id=89057270209069641147215948453121~hmac=78d2ca1bf41ef0334a753e070cff5ad7dd70a488dc7955e508aaa11d01933721
