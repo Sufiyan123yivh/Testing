@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138779_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Hearts Vs Otago Sparks
-https://in-mc-fdlive.fancode.com/mumbai/138779_english_hls_77ed9fc52439905_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138747_CASACARDS_PARTNER_16_9_1920_1080.png",Otago Volts Vs Auckland Aces
+https://in-mc-fdlive.fancode.com/mumbai/138747_english_hls_4be1ba0b3c24372_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139666_CASACARDS_PARTNER_16_9_1920_1080.png",V N Sule Vs Dyandeep Seva Mandal
+https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b987500_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139536_CASACARDS_PARTNER_16_9_1920_1080.png",Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/mumbai/139536_english_hls_31cccb3ff817193_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767249223977898_SuperSmash2526_womens_Otago-Sparks-vs-Auckland-Hearts_1jan_landscape_thumb.jpg",Otago Sparks vs Auckland Hearts - 12 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768222157~acl=/*~id=43705509173172353850262263446365~hmac=f8138cc6da119f0408e7772110986921c769fa518df0ece5e6b07682b2f6e6c0
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139532_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 1
+https://in-mc-fdlive.fancode.com/mumbai/139532_english_hls_60be8400f426190_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767278965328898_SuperSmash2526_mens_Otago-Volts-vs-Auckland-Aces_1jan_landscape_thumb.jpg",Otago Volts vs Auckland Aces - 12 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768234915~acl=/*~id=58356349894597936021533507195431~hmac=3fcd467151de657f01d677223f17d6430b58b98fd2a5eeeaa5c26d67619077d7
