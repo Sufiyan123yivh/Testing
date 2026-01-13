@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138780_CASACARDS_PARTNER_16_9_1920_1080.png",Northern Brave Women Vs Central Hinds
+https://in-mc-fdlive.fancode.com/mumbai/138780_english_hls_5bca87301b32458_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139537_CASACARDS_PARTNER_16_9_1920_1080.png",Atp 250   Asb Classic
 https://in-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139534_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/139534_english_hls_e518ffe26d111_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767248768169898_SuperSmash2526_womens_Central-Hinds-vs-Northern-Brave_1jan_landscape_thumb.jpg",Central Hinds vs Northern Brave- 13 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768308496~acl=/*~id=91434012011471506766238452606603~hmac=d807e417b00a05b03d9c06488f355b9f314a56623938c91db761e38d83048a6b
