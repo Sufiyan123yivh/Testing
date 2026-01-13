@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139358_CASACARDS_PARTNER_16_9_1920_1080.png",Damac Vs Al Ittihad
-https://in-mc-fdlive.fancode.com/mumbai/139358_english_hls_434953ab6540532_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139746_CASACARDS_PARTNER_16_9_1920_1080.png",Jamaica Women Vs Leeward Islands Women
 https://in-mc-fdlive.fancode.com/mumbai/139746_english_hls_9a8ce266ae19979_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768135144547648_bliga26_MD17_Dortmund_vs_Werder_Bremen_11jan_landscape_thumb.jpg",Borussia Dortmund vs Werder Bremen - MD 17 - 14 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768134950567648_bliga26_MD17_VfB_Stuttgart_vs_Eintracht_Frankfurt_11jan_landscape_thumb.jpg",VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136509863648_bliga26_MD17_Mainz_vs_Heidenheim_11jan_landscape_thumb.jpg",Mainz vs Heidenheim - MD 17 - 14 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139211_CASACARDS_PARTNER_16_9_1920_1080.png",Newcastle United Vs Manchester City
+https://in-mc-fdlive.fancode.com/mumbai/139211_english_hls_79637da9ad62597_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139671_CASACARDS_PARTNER_16_9_1920_1080.png",Deportivo La Coruna Vs Atletico De Madrid
+https://in-mc-fdlive.fancode.com/mumbai/139671_english_hls_c19d2bb8e243669_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139670_CASACARDS_PARTNER_16_9_1920_1080.png",Cultural Leonesa Vs Athletic Club
+https://in-mc-fdlive.fancode.com/mumbai/139670_english_hls_2b7e7ceeae50375_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139669_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8
