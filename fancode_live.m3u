@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138748_CASACARDS_PARTNER_16_9_1920_1080.png",Central Stags Vs Northern Districts
-https://in-mc-fdlive.fancode.com/mumbai/138748_english_hls_5848d6ccc817928_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139666_CASACARDS_PARTNER_16_9_1920_1080.png",V N Sule Vs Dyandeep Seva Mandal
 https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b995755_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139667_CASACARDS_PARTNER_16_9_1920_1080.png",Swami Vivekanand Vs Rizvi
@@ -12,6 +10,4 @@ https://in-mc-fdlive.fancode.com/mumbai/139535_english_hls_ad9d8e1ce860874_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139534_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139534_english_hls_e518ffe26d111_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013308/1768241336769463_AO26_Zverev_vs_Musetti_12jan_landscape_thumb.jpg",Zverev vs Musetti - 13 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768335272~acl=/*~id=86922753776679162527523861170794~hmac=88a7970d22156408b297e2e2df73810411e58d04e6c7513d29ded898adc2db7c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767248542948898_SuperSmash2526_mens_Central-Stags-vs-Northern-Brave_1jan_landscape_thumb.jpg",Central Stags vs Northern Brave - 13 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768335272~acl=/*~id=86922753776679162527523861170794~hmac=88a7970d22156408b297e2e2df73810411e58d04e6c7513d29ded898adc2db7c
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768337095~acl=/*~id=36367533758979709438882472072473~hmac=9da57ada7d848cddbfbf745804496fa3bad394a7d90e9502f6af0d3abc1f98db
