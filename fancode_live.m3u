@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139745_CASACARDS_PARTNER_16_9_1920_1080.png",Windward Islands Women Vs Guyana Women
 https://in-mc-fdlive.fancode.com/mumbai/139745_english_hls_d1cc286a141232_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139579_CASACARDS_PARTNER_16_9_1920_1080.png",Ias Invincibles Vs Majees Titans
+https://in-mc-fdlive.fancode.com/mumbai/139579_english_hls_e863ca214f34866_1ta-di_h264/index.m3u8
