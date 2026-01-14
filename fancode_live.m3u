@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138391_CASACARDS_PARTNER_16_9_1920_1080.png",Senegal Vs Egypt
 https://in-mc-fdlive.fancode.com/mumbai/138391_english_hls_468a4aabcc41921_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139359_CASACARDS_PARTNER_16_9_1920_1080.png",Al Ahli Saudi Fc Vs Al Taawoun
+https://in-mc-fdlive.fancode.com/mumbai/139359_english_hls_7a1b5dc1bf4570_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136708974648_bliga26_MD17_VfL_Wolfsburg_vs_St_Pauli_11jan_landscape_thumb.jpg",VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768454244~acl=/*~id=94028598352846772802943585300526~hmac=d4ce13aef114d4313256fd2eeb85675d43f83ad4ba199acf33287fd6040f36f5
