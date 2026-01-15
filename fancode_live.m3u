@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138934_CASACARDS_PARTNER_16_9_1920_1080.png",Chattogram Royals Vs Noakhali Express
-https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b98092_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139580_CASACARDS_PARTNER_16_9_1920_1080.png",Yalla Shabab Giants Vs Oman Development Team
 https://in-mc-fdlive.fancode.com/mumbai/139580_english_hls_fcc4945f2f2760_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139566_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139566_english_hls_cbc0042fbb45031_1ta-di_h264/index.m3u8
