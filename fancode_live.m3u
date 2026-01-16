@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138934_CASACARDS_PARTNER_16_9_1920_1080.png",Noakhali Express Vs Chattogram Royals
-https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139385_CASACARDS_PARTNER_16_9_1920_1080.png",Perth Glory Vs Brisbane Roar
-https://in-mc-fdlive.fancode.com/mumbai/139385_english_hls_0ea117155f37264_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138935_CASACARDS_PARTNER_16_9_1920_1080.png",Rajshahi Warriors Vs Sylhet Titans
+https://in-mc-fdlive.fancode.com/mumbai/138935_english_hls_7cc186844e13537_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139275_CASACARDS_PARTNER_16_9_1920_1080.png",Japan U23 Vs Jordan U23
 https://india-mpv2.fancode.com/out/v1/ap-south-1/139275_english_139275/ad-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139385_CASACARDS_PARTNER_16_9_1920_1080.png",Perth Glory Vs Brisbane Roar
+https://in-mc-fdlive.fancode.com/mumbai/139385_english_hls_0ea117155f37264_1ta-di_h264/index.m3u8
