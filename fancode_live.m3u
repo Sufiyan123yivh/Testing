@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139582_CASACARDS_PARTNER_16_9_1920_1080.png",Yalla Shabab Giants Vs Oman Development Team
-https://in-mc-fdlive.fancode.com/mumbai/139582_english_hls_6ece3b177a59256_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139360_CASACARDS_PARTNER_16_9_1920_1080.png",Al Ittihad Vs Al Ettifaq
+https://in-mc-fdlive.fancode.com/mumbai/139360_english_hls_b89619e6db8075_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139276_CASACARDS_PARTNER_16_9_1920_1080.png",Vietnam U23 Vs United Arab Emirates U23
 https://in-mc-fdlive.fancode.com/mumbai/139276_english_hls_89fca343c586276_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139778_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Group   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/139778_english_hls_35c057050432718_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",Punjab Royals vs Haryana Thunders - 16 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768626706~acl=/*~id=30724416298945260488505436675178~hmac=b6c49b8e5209bab0bad036ffc6a8200eaa88865752128d0a8e7d03d8928bc1c2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",Punjab Royals vs Haryana Thunders - 16 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768626706~acl=/*~id=30724416298945260488505436675178~hmac=b6c49b8e5209bab0bad036ffc6a8200eaa88865752128d0a8e7d03d8928bc1c2
