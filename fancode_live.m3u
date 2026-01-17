@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139751_CASACARDS_PARTNER_16_9_1920_1080.png",Leeward Islands Women Vs Trinidad And Tobago Women
-https://in-mc-fdlive.fancode.com/mumbai/139751_english_hls_3f091c34af98532_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131023_CASACARDS_PARTNER_16_9_1920_1080.png",Rcd Mallorca Vs Athletic Club
-https://in-mc-fdlive.fancode.com/mumbai/131023_english_hls_653ec950c845809_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138393_CASACARDS_PARTNER_16_9_1920_1080.png",Egypt Vs Nigeria
 https://in-mc-fdlive.fancode.com/mumbai/138393_english_hls_4c136f576486621_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131021_CASACARDS_PARTNER_16_9_1920_1080.png",Ca Osasuna Vs Real Oviedo
 https://in-mc-fdlive.fancode.com/mumbai/131021_english_hls_479ffec92283604_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139278_CASACARDS_PARTNER_16_9_1920_1080.png",Australia U23 Vs Korea Republic U23
-https://in-mc-fdlive.fancode.com/mumbai/139278_english_hls_002a4475651224_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013422/1768469548921674_PWL_26_Delhi-Dangal-Warriors-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",Delhi Dangal Warriors vs Haryana Thunders - 17 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768712933~acl=/*~id=47273720839907808102441451753772~hmac=54bd3d04f19cec9b6b6f832f9ee6df8938fcd2c8bba5534d94e400d55cad02b2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013422/1768469548921674_PWL_26_Delhi-Dangal-Warriors-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",Delhi Dangal Warriors vs Haryana Thunders - 17 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768712933~acl=/*~id=47273720839907808102441451753772~hmac=54bd3d04f19cec9b6b6f832f9ee6df8938fcd2c8bba5534d94e400d55cad02b2
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139822_CASACARDS_PARTNER_16_9_1920_1080.png",Al Nassr Fc Vs Al Shabab Fc
+https://in-mc-fdlive.fancode.com/mumbai/139822_english_hls_98bc46d33e29653_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139916_CASACARDS_PARTNER_16_9_1920_1080.png",Swansea City A.f.c. Vs Birmingham City F.c.
+https://in-mc-fdlive.fancode.com/mumbai/139916_english_hls_c85cc234e01504_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139752_CASACARDS_PARTNER_16_9_1920_1080.png",Barbados Women Vs Windward Islands Women
+https://in-mc-fdlive.fancode.com/mumbai/139752_english_hls_4df0ae892a18605_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139780_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Group   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/139780_english_hls_ec50c15d8d92249_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496710400550_bliga26_MD18_RB_Leipzig_vs_Bayern_15jan_landscape_thumb.jpg",RB Leipzig vs Bayern Munich - MD 18 - 17 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768712933~acl=/*~id=47273720839907808102441451753772~hmac=54bd3d04f19cec9b6b6f832f9ee6df8938fcd2c8bba5534d94e400d55cad02b2
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768716578~acl=/*~id=12290625636724172889195914295576~hmac=f5bc98f601521356850c418d19e980d0bf54bb41feb179e05174b79160cc3279
