@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131022_CASACARDS_PARTNER_16_9_1920_1080.png",Atletico De Madrid Vs Deportivo Alaves
 https://in-mc-fdlive.fancode.com/mumbai/131022_english_hls_f5cf7d6b1d43803_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131027_CASACARDS_PARTNER_16_9_1920_1080.png",Rc Celta Vs Rayo Vallecano
+https://in-mc-fdlive.fancode.com/mumbai/131027_english_hls_5a163009828274_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139786_CASACARDS_PARTNER_16_9_1920_1080.png",Auchinleck Talbot Vs Celtic
+https://in-mc-fdlive.fancode.com/mumbai/139786_english_hls_a4a13dafd861648_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139782_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Group   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/139782_english_hls_24f0544f5d97918_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847390986589_PWL_26_Tiigers-Of-Mumbai-Dangal-vs-Maharashtra-Kesari_15jan_landscape_thumb.jpg",Tigers of Mumbai Dangals vs Maharashtra Kesari - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768797369~acl=/*~id=21829251844225230955681431811477~hmac=b7a447e7f1e7a54a06a0512ad20648db5ad6d6fe449073e491559de8fcdd7817
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768799190~acl=/*~id=06226263623011590662997391432305~hmac=552050d5fb39951885650de478e9f9a88f656c99df6049d3c8eee45da99072ab
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847390986589_PWL_26_Tiigers-Of-Mumbai-Dangal-vs-Maharashtra-Kesari_15jan_landscape_thumb.jpg",Tigers of Mumbai Dangals vs Maharashtra Kesari - 18 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768797369~acl=/*~id=21829251844225230955681431811477~hmac=b7a447e7f1e7a54a06a0512ad20648db5ad6d6fe449073e491559de8fcdd7817
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768799190~acl=/*~id=06226263623011590662997391432305~hmac=552050d5fb39951885650de478e9f9a88f656c99df6049d3c8eee45da99072ab
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768497130413550_bliga26_MD18_Augsburg_vs_SC_Freiburg_15jan_landscape_thumb.jpg",FC Augsburg vs SC Freiburg - MD 18 - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768797369~acl=/*~id=21829251844225230955681431811477~hmac=b7a447e7f1e7a54a06a0512ad20648db5ad6d6fe449073e491559de8fcdd7817
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768799190~acl=/*~id=06226263623011590662997391432305~hmac=552050d5fb39951885650de478e9f9a88f656c99df6049d3c8eee45da99072ab
