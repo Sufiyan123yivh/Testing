@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138784_CASACARDS_PARTNER_16_9_1920_1080.png",Otago Sparks Vs Northern Brave Women
-https://in-mc-fdlive.fancode.com/mumbai/138784_english_hls_3c4fb9396974834_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139753_CASACARDS_PARTNER_16_9_1920_1080.png",Jamaica Women Vs Guyana Women
-https://in-mc-fdlive.fancode.com/mumbai/139753_english_hls_05a811bd2569781_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138752_CASACARDS_PARTNER_16_9_1920_1080.png",Northern Districts Vs Otago Volts
+https://in-mc-fdlive.fancode.com/mumbai/138752_english_hls_503be3c87843023_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139219_CASACARDS_PARTNER_16_9_1920_1080.png",Bangladesh Women Vs Usa Women
+https://in-mc-fdlive.fancode.com/mumbai/139219_english_hls_124a12be2468131_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139218_CASACARDS_PARTNER_16_9_1920_1080.png",Zimbabwe Women Vs Netherlands Women
+https://in-mc-fdlive.fancode.com/mumbai/139218_english_hls_15dd1c037997901_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139922_CASACARDS_PARTNER_16_9_1920_1080.png",Mexico Legends Vs International Legends
 https://in-mc-fdlive.fancode.com/mumbai/139922_english_hls_a70226954d38569_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139780_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Group   Day 3
-https://in-mc-fdlive.fancode.com/mumbai/139780_english_hls_ec50c15d8d92249_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139923_CASACARDS_PARTNER_16_9_1920_1080.png",Central Coast Mariners Vs Macarthur
+https://in-mc-fdlive.fancode.com/mumbai/139923_english_hls_27bc2c71f992783_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139774_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139774_english_hls_681d94c15996406_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013545/1768664291046549_AO2026_Landscape_Thumb_Sasnovich_v_Paolini_sp.jpg",Sasnovich vs Paolini - Round 1 - 18 Jan 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013544/1768663946215881_AO2026_Landscape_Thumb_Sakkari_V_Jeanjean_sp.jpg",Sakkari vs Jeanjean - Round 1 - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767438584500690_SuperSmash2526_womens_Otago-Sparks-vs-Northern-Brave_1jan_landscape_thumb.jpg",Otago Sparks vs Northern Brave - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768740838~acl=/*~id=55560088723587906797832411515529~hmac=f25216ec19328de23fc4d2c6bfc145e2c0f8fe9a9eb889383423ed12ccbb9769
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",Zverev vs Diallo - Round 1 - 18 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768748741~acl=/*~id=01562551939936392799382844255979~hmac=e3dc0a1dd5dadb7f8ca121a5937b63b9b548923d5b763d94e68d98e79ae98eb4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",Zverev vs Diallo - Round 1 - 18 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768748741~acl=/*~id=01562551939936392799382844255979~hmac=e3dc0a1dd5dadb7f8ca121a5937b63b9b548923d5b763d94e68d98e79ae98eb4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",Zverev vs Diallo - Round 1 - 18 Jan 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768748741~acl=/*~id=01562551939936392799382844255979~hmac=e3dc0a1dd5dadb7f8ca121a5937b63b9b548923d5b763d94e68d98e79ae98eb4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",Zverev vs Diallo - Round 1 - 18 Jan 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768748741~acl=/*~id=01562551939936392799382844255979~hmac=e3dc0a1dd5dadb7f8ca121a5937b63b9b548923d5b763d94e68d98e79ae98eb4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768637104369986_AO26_Margaret_Court_Arena_r1_landscape_thumb.jpg",Cerundolo vs Zhang - Round 1 - 18 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768748741~acl=/*~id=01562551939936392799382844255979~hmac=e3dc0a1dd5dadb7f8ca121a5937b63b9b548923d5b763d94e68d98e79ae98eb4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767438730675690_SuperSmash2526_mens_Otago-Volts-vs-Northern-Brave_1jan_landscape_thumb_re1.jpg",Otago Volts vs Northern Brave - 18 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768748741~acl=/*~id=01562551939936392799382844255979~hmac=e3dc0a1dd5dadb7f8ca121a5937b63b9b548923d5b763d94e68d98e79ae98eb4
