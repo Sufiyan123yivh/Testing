@@ -5,17 +5,15 @@ https://in-mc-fdlive.fancode.com/mumbai/138936_english_hls_dac46a9bb429652_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139221_english_hls_f40341ed7047807_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139220_CASACARDS_PARTNER_16_9_1920_1080.png",Ireland Women Vs Papua New Guinea Women
 https://in-mc-fdlive.fancode.com/mumbai/139220_english_hls_c922e4b0c596366_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139389_CASACARDS_PARTNER_16_9_1920_1080.png",Sydney Fc Vs Wellington Phoenix
-https://in-mc-fdlive.fancode.com/mumbai/139389_english_hls_a29abc97bf47279_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Zheng vs Korda - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768765149~acl=/*~id=80045937480978391457135170459121~hmac=9cf585a15a64781fbb359161948e6cfe690be923f7508c5d1098322711863440
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Zheng vs Korda - 18 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768765149~acl=/*~id=80045937480978391457135170459121~hmac=9cf585a15a64781fbb359161948e6cfe690be923f7508c5d1098322711863440
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Zheng vs Korda - 18 Jan 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768765149~acl=/*~id=80045937480978391457135170459121~hmac=9cf585a15a64781fbb359161948e6cfe690be923f7508c5d1098322711863440
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Zheng vs Korda - 18 Jan 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768765149~acl=/*~id=80045937480978391457135170459121~hmac=9cf585a15a64781fbb359161948e6cfe690be923f7508c5d1098322711863440
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Stream 1 - 18 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768766974~acl=/*~id=05570939025546815746353822137992~hmac=9b9f9eda66000c5f2524596d6782a82b37cff30a686ec38eeb0569ff81640d47
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Stream 1 - 18 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768766974~acl=/*~id=05570939025546815746353822137992~hmac=9b9f9eda66000c5f2524596d6782a82b37cff30a686ec38eeb0569ff81640d47
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Stream 1 - 18 Jan 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768766974~acl=/*~id=05570939025546815746353822137992~hmac=9b9f9eda66000c5f2524596d6782a82b37cff30a686ec38eeb0569ff81640d47
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",Stream 1 - 18 Jan 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768766974~acl=/*~id=05570939025546815746353822137992~hmac=9b9f9eda66000c5f2524596d6782a82b37cff30a686ec38eeb0569ff81640d47
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013540/1768662217569976_AO2026_Landscape_Thumb_Bublik_V_Brooksby_sp.jpg",Margaret Court Arena - 18 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768765149~acl=/*~id=80045937480978391457135170459121~hmac=9cf585a15a64781fbb359161948e6cfe690be923f7508c5d1098322711863440
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768766974~acl=/*~id=05570939025546815746353822137992~hmac=9b9f9eda66000c5f2524596d6782a82b37cff30a686ec38eeb0569ff81640d47
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013535/1768659215344788_DP_world_tour_dubai_day4_17jan_landscape_thumb.jpg",Dubai Invitational Day 4 - 18 Jan 202665 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768765149~acl=/*~id=80045937480978391457135170459121~hmac=9cf585a15a64781fbb359161948e6cfe690be923f7508c5d1098322711863440
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768766974~acl=/*~id=05570939025546815746353822137992~hmac=9b9f9eda66000c5f2524596d6782a82b37cff30a686ec38eeb0569ff81640d47
