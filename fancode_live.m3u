@@ -1,17 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138753_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Firebirds Vs Canterbury
 https://in-mc-fdlive.fancode.com/mumbai/138753_english_hls_b5681ff2ba26099_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139775_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/139775_english_hls_e394763d2759956_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013628/1768726800000812_AO2026_Landscape_Thumb_Medvedev_vs_De_Jong_SP.jpg",Medvedev vs De Jong - Round 1 - 19 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768835596~acl=/*~id=01517082206244843727776607152523~hmac=1c2144cb6819cdd8bfdbd200556dde2f73679a3cb2212b42238dee05bcc64bd0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013628/1768726800000812_AO2026_Landscape_Thumb_Medvedev_vs_De_Jong_SP.jpg",Medvedev vs De Jong - Round 1 - 19 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768835596~acl=/*~id=01517082206244843727776607152523~hmac=1c2144cb6819cdd8bfdbd200556dde2f73679a3cb2212b42238dee05bcc64bd0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013628/1768726800000812_AO2026_Landscape_Thumb_Medvedev_vs_De_Jong_SP.jpg",Medvedev vs De Jong - Round 1 - 19 Jan 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768835596~acl=/*~id=01517082206244843727776607152523~hmac=1c2144cb6819cdd8bfdbd200556dde2f73679a3cb2212b42238dee05bcc64bd0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013628/1768726800000812_AO2026_Landscape_Thumb_Medvedev_vs_De_Jong_SP.jpg",Medvedev vs De Jong - Round 1 - 19 Jan 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768835596~acl=/*~id=01517082206244843727776607152523~hmac=1c2144cb6819cdd8bfdbd200556dde2f73679a3cb2212b42238dee05bcc64bd0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013625/1768761616318874_AO26_d2_Mcdonald_vs_DeMinaur_Landscape_thumb_SP.jpg",Rod Laver Arena - 19 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768835596~acl=/*~id=01517082206244843727776607152523~hmac=1c2144cb6819cdd8bfdbd200556dde2f73679a3cb2212b42238dee05bcc64bd0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768839850~acl=/*~id=00383662481232606068787902056768~hmac=8668b770a57a78510c6ab8493278c8ef08d4922e9c9702c75ff7e4741b1babe8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768839850~acl=/*~id=00383662481232606068787902056768~hmac=8668b770a57a78510c6ab8493278c8ef08d4922e9c9702c75ff7e4741b1babe8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768839850~acl=/*~id=00383662481232606068787902056768~hmac=8668b770a57a78510c6ab8493278c8ef08d4922e9c9702c75ff7e4741b1babe8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768839850~acl=/*~id=00383662481232606068787902056768~hmac=8668b770a57a78510c6ab8493278c8ef08d4922e9c9702c75ff7e4741b1babe8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013625/1768761616318874_AO26_d2_Mcdonald_vs_DeMinaur_Landscape_thumb_SP.jpg",McDonald vs De Minaur - Round 1 - 19 Jan 2026	 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768839850~acl=/*~id=00383662481232606068787902056768~hmac=8668b770a57a78510c6ab8493278c8ef08d4922e9c9702c75ff7e4741b1babe8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012968/176759890452311_SuperSmash2526_mens_Wellington_Firebirds_vs_Canterbury_Kings_5jan_landscape_thumb.jpg",Wellington Firebirds vs Canterbury Kings - 19 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768835596~acl=/*~id=01517082206244843727776607152523~hmac=1c2144cb6819cdd8bfdbd200556dde2f73679a3cb2212b42238dee05bcc64bd0
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768839850~acl=/*~id=00383662481232606068787902056768~hmac=8668b770a57a78510c6ab8493278c8ef08d4922e9c9702c75ff7e4741b1babe8
