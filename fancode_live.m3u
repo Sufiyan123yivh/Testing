@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",Stream 1 - Round 1 - 19 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",Stream 1 - Round 1 - 19 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",Stream 1 - Round 1 - 19 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",Stream 1 - Round 1 - 19 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139298_CASACARDS_PARTNER_16_9_1920_1080.png",Afghanistan Vs West Indies
+https://in-mc-fdlive.fancode.com/mumbai/139298_english_hls_35934e5dee5541_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139754_CASACARDS_PARTNER_16_9_1920_1080.png",Leeward Islands Women Vs Barbados Women
+https://in-mc-fdlive.fancode.com/mumbai/139754_english_hls_386154a20a70833_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013441/1768484460025436_PWL_26_UP-Dominators-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",UP Dominators vs Delhi Dangal Warriors - 19 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768878745~acl=/*~id=13430121585466583097431880953917~hmac=5168219ddd7777754fe83f16d1f79780816278dade2e10cd1fd33e27dc3e9f65
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013441/1768484460025436_PWL_26_UP-Dominators-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",UP Dominators vs Delhi Dangal Warriors - 19 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768878745~acl=/*~id=13430121585466583097431880953917~hmac=5168219ddd7777754fe83f16d1f79780816278dade2e10cd1fd33e27dc3e9f65
