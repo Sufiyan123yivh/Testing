@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138753_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Firebirds Vs Canterbury
 https://in-mc-fdlive.fancode.com/mumbai/138753_english_hls_b5681ff2ba26099_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768842279~acl=/*~id=64021430161649014895308849846587~hmac=26c1a51376c8797496c64e7180a24926460d24f410334ff70f50b18092fa3b9d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768842279~acl=/*~id=64021430161649014895308849846587~hmac=26c1a51376c8797496c64e7180a24926460d24f410334ff70f50b18092fa3b9d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768842279~acl=/*~id=64021430161649014895308849846587~hmac=26c1a51376c8797496c64e7180a24926460d24f410334ff70f50b18092fa3b9d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013630/1768726800000470_AO2026_Landscape_Thumb_Waltert_vs_Anisimova_SP.jpg",Waltert vs Anisimova - Round 1 - 19 Jan 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768842279~acl=/*~id=64021430161649014895308849846587~hmac=26c1a51376c8797496c64e7180a24926460d24f410334ff70f50b18092fa3b9d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Djere vs Wawrinka - Round 1 - 19 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768845924~acl=/*~id=57743203806809258064060929339448~hmac=62327ccde3cd18b744c1db888054e4dfa189c0741d4c67717efe7ac42ecad95f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Djere vs Wawrinka - Round 1 - 19 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768845924~acl=/*~id=57743203806809258064060929339448~hmac=62327ccde3cd18b744c1db888054e4dfa189c0741d4c67717efe7ac42ecad95f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Djere vs Wawrinka - Round 1 - 19 Jan 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768845924~acl=/*~id=57743203806809258064060929339448~hmac=62327ccde3cd18b744c1db888054e4dfa189c0741d4c67717efe7ac42ecad95f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Djere vs Wawrinka - Round 1 - 19 Jan 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768845924~acl=/*~id=57743203806809258064060929339448~hmac=62327ccde3cd18b744c1db888054e4dfa189c0741d4c67717efe7ac42ecad95f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012968/176759890452311_SuperSmash2526_mens_Wellington_Firebirds_vs_Canterbury_Kings_5jan_landscape_thumb.jpg",Wellington Firebirds vs Canterbury Kings - 19 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768842279~acl=/*~id=64021430161649014895308849846587~hmac=26c1a51376c8797496c64e7180a24926460d24f410334ff70f50b18092fa3b9d
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768845924~acl=/*~id=57743203806809258064060929339448~hmac=62327ccde3cd18b744c1db888054e4dfa189c0741d4c67717efe7ac42ecad95f
