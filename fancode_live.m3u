@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138946_CASACARDS_PARTNER_16_9_1920_1080.png",Sylhet Titans Vs Rangpur Riders
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138946_CASACARDS_PARTNER_16_9_1920_1080.png",Rangpur Riders Vs Sylhet Titans
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",Dyandeep Seva Mandal Vs Swami Vivekanand
 https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139223_CASACARDS_PARTNER_16_9_1920_1080.png",Thailand Women Vs Zimbabwe Women
-https://in-mc-fdlive.fancode.com/mumbai/139223_english_hls_fb34769ddd64567_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139222_CASACARDS_PARTNER_16_9_1920_1080.png",Bangladesh Women Vs Papua New Guinea Women
-https://in-mc-fdlive.fancode.com/mumbai/139222_english_hls_e5da087ff762368_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Sweeny vs Monfils - Round 1 - 20 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768932801~acl=/*~id=14963400927757627659097648923611~hmac=785a8c1c808bb7d49b1f53a32c010fa88c41e67297beb79a7319351f409e7c13
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768935232~acl=/*~id=94143840747120363644507202275645~hmac=4fbdf666253d4f7a05daf8eda4240c5e64b03d25241b6470920f9299f004891b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Sweeny vs Monfils - Round 1 - 20 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768932801~acl=/*~id=14963400927757627659097648923611~hmac=785a8c1c808bb7d49b1f53a32c010fa88c41e67297beb79a7319351f409e7c13
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768935232~acl=/*~id=94143840747120363644507202275645~hmac=4fbdf666253d4f7a05daf8eda4240c5e64b03d25241b6470920f9299f004891b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Sweeny vs Monfils - Round 1 - 20 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768932801~acl=/*~id=14963400927757627659097648923611~hmac=785a8c1c808bb7d49b1f53a32c010fa88c41e67297beb79a7319351f409e7c13
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768935232~acl=/*~id=94143840747120363644507202275645~hmac=4fbdf666253d4f7a05daf8eda4240c5e64b03d25241b6470920f9299f004891b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",Sweeny vs Monfils - Round 1 - 20 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768932801~acl=/*~id=14963400927757627659097648923611~hmac=785a8c1c808bb7d49b1f53a32c010fa88c41e67297beb79a7319351f409e7c13
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768935232~acl=/*~id=94143840747120363644507202275645~hmac=4fbdf666253d4f7a05daf8eda4240c5e64b03d25241b6470920f9299f004891b
