@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133969_CASACARDS_PARTNER_16_9_1920_1080.png",Act Meteors Vs New South Wales Breakers
-https://in-mc-fdlive.fancode.com/mumbai/133969_english_hls_4e8f78f0ec36340_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138754_CASACARDS_PARTNER_16_9_1920_1080.png",Northern Districts Vs Central Stags
+https://in-mc-fdlive.fancode.com/mumbai/138754_english_hls_d9726bc8f752171_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133968_CASACARDS_PARTNER_16_9_1920_1080.png",Queensland Fire Vs South Australian Scorpions
 https://in-mc-fdlive.fancode.com/mumbai/133968_english_hls_efb12067e159158_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139223_CASACARDS_PARTNER_16_9_1920_1080.png",Thailand Women Vs Zimbabwe Women
@@ -10,12 +10,14 @@ https://in-mc-fdlive.fancode.com/mumbai/139222_english_hls_e5da087ff762368_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",Dyandeep Seva Mandal Vs Swami Vivekanand
 https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013720/1768843672318240_AO2026_Landscape_Thumb_Shelton_vs_Humbert_SP.jpg",Shelton vs Humbert - Round 1 - 20 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768924885~acl=/*~id=65536666734213525729166584204047~hmac=95cbbc48cb5b5605276a01fef4f7c288ac4e3670302a229b4a4940ee25ba05eb
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768929759~acl=/*~id=16922135181437232908072923012188~hmac=55594f0632eb3b2e97c798bfc0c6a1de8848e84a7558b597b79fe76c0d249d09
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013720/1768843672318240_AO2026_Landscape_Thumb_Shelton_vs_Humbert_SP.jpg",Shelton vs Humbert - Round 1 - 20 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768924885~acl=/*~id=65536666734213525729166584204047~hmac=95cbbc48cb5b5605276a01fef4f7c288ac4e3670302a229b4a4940ee25ba05eb
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768929759~acl=/*~id=16922135181437232908072923012188~hmac=55594f0632eb3b2e97c798bfc0c6a1de8848e84a7558b597b79fe76c0d249d09
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013720/1768843672318240_AO2026_Landscape_Thumb_Shelton_vs_Humbert_SP.jpg",Shelton vs Humbert - Round 1 - 20 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768924885~acl=/*~id=65536666734213525729166584204047~hmac=95cbbc48cb5b5605276a01fef4f7c288ac4e3670302a229b4a4940ee25ba05eb
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768929759~acl=/*~id=16922135181437232908072923012188~hmac=55594f0632eb3b2e97c798bfc0c6a1de8848e84a7558b597b79fe76c0d249d09
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013720/1768843672318240_AO2026_Landscape_Thumb_Shelton_vs_Humbert_SP.jpg",Shelton vs Humbert - Round 1 - 20 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768924885~acl=/*~id=65536666734213525729166584204047~hmac=95cbbc48cb5b5605276a01fef4f7c288ac4e3670302a229b4a4940ee25ba05eb
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013719/1768843672107292_AO2026_Landscape_Thumb_Rybakina_vs_Juvan_SP.jpg",Rybakina vs Juvan - Round 1 - 20 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768924885~acl=/*~id=65536666734213525729166584204047~hmac=95cbbc48cb5b5605276a01fef4f7c288ac4e3670302a229b4a4940ee25ba05eb
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768929759~acl=/*~id=16922135181437232908072923012188~hmac=55594f0632eb3b2e97c798bfc0c6a1de8848e84a7558b597b79fe76c0d249d09
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013719/1768843672107292_AO2026_Landscape_Thumb_Rybakina_vs_Juvan_SP.jpg",Elena Rybakina vs Kaja Juvan - Women's Singles - 20 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768929759~acl=/*~id=16922135181437232908072923012188~hmac=55594f0632eb3b2e97c798bfc0c6a1de8848e84a7558b597b79fe76c0d249d09
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012970/1767599730660111_SuperSmash2526_mens_Northern_Brave_vs_Central_Stags_5jan_landscape_thumb.jpg",Northern Brave vs Central Stags - 20 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768929759~acl=/*~id=16922135181437232908072923012188~hmac=55594f0632eb3b2e97c798bfc0c6a1de8848e84a7558b597b79fe76c0d249d09
