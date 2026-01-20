@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138946_CASACARDS_PARTNER_16_9_1920_1080.png",Rangpur Riders Vs Sylhet Titans
-https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",Dyandeep Seva Mandal Vs Swami Vivekanand
-https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138947_CASACARDS_PARTNER_16_9_1920_1080.png",Rajshahi Warriors Vs Chattogram Royals
+https://in-mc-fdlive.fancode.com/mumbai/138947_english_hls_22f481031d90942_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139279_CASACARDS_PARTNER_16_9_1920_1080.png",Japan U23 Vs Korea Republic U23
+https://in-mc-fdlive.fancode.com/mumbai/139279_english_hls_05258c48c192432_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013717/1768843671718254_AO2026_Landscape_Thumb_Osaka_V_Ruzic_SP.jpg",Osaka vs Ruzic - Round 1 - 20 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768951054~acl=/*~id=16151859603536371356398304575103~hmac=81801c72d6cced8600e8ebdafb131bd4469efa4193e44e9214a9bd858d79004e
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768954706~acl=/*~id=54318698430930403465294205632724~hmac=719d066369bf98323a7f6a392459d8e933686f2d0a1f0f282639510dbd8955fd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013717/1768843671718254_AO2026_Landscape_Thumb_Osaka_V_Ruzic_SP.jpg",Osaka vs Ruzic - Round 1 - 20 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768951054~acl=/*~id=16151859603536371356398304575103~hmac=81801c72d6cced8600e8ebdafb131bd4469efa4193e44e9214a9bd858d79004e
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768954706~acl=/*~id=54318698430930403465294205632724~hmac=719d066369bf98323a7f6a392459d8e933686f2d0a1f0f282639510dbd8955fd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013717/1768843671718254_AO2026_Landscape_Thumb_Osaka_V_Ruzic_SP.jpg",Osaka vs Ruzic - Round 1 - 20 Jan 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768951054~acl=/*~id=16151859603536371356398304575103~hmac=81801c72d6cced8600e8ebdafb131bd4469efa4193e44e9214a9bd858d79004e
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768954706~acl=/*~id=54318698430930403465294205632724~hmac=719d066369bf98323a7f6a392459d8e933686f2d0a1f0f282639510dbd8955fd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013717/1768843671718254_AO2026_Landscape_Thumb_Osaka_V_Ruzic_SP.jpg",Osaka vs Ruzic - Round 1 - 20 Jan 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768951054~acl=/*~id=16151859603536371356398304575103~hmac=81801c72d6cced8600e8ebdafb131bd4469efa4193e44e9214a9bd858d79004e
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768954706~acl=/*~id=54318698430930403465294205632724~hmac=719d066369bf98323a7f6a392459d8e933686f2d0a1f0f282639510dbd8955fd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013714/1768843671065253_AO2026_Landscape_Thumb_Mochizuki_vs_Tsitsipas_SP.jpg",Shintaro Mochizuki vs Stefanos Tsitsipas - Men's Singles - 20 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768951054~acl=/*~id=16151859603536371356398304575103~hmac=81801c72d6cced8600e8ebdafb131bd4469efa4193e44e9214a9bd858d79004e
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768954706~acl=/*~id=54318698430930403465294205632724~hmac=719d066369bf98323a7f6a392459d8e933686f2d0a1f0f282639510dbd8955fd
