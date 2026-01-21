@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/default-logo.png",No Live Matches Right Now
-
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133971_CASACARDS_PARTNER_16_9_1920_1080.png",Act Meteors Vs New South Wales Breakers
+https://in-mc-fdlive.fancode.com/mumbai/133971_english_hls_32b918efe834565_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139759_CASACARDS_PARTNER_16_9_1920_1080.png",Leeward Islands Women Vs Windward Islands Women
+https://in-mc-fdlive.fancode.com/mumbai/139759_english_hls_4dc816fb2e10130_1ta-di_h264/index.m3u8
