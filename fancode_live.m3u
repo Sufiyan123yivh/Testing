@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138948_CASACARDS_PARTNER_16_9_1920_1080.png",Rajshahi Warriors Vs Sylhet Titans
-https://in-mc-fdlive.fancode.com/mumbai/138948_english_hls_333621e70680609_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139299_CASACARDS_PARTNER_16_9_1920_1080.png",Afghanistan Vs West Indies
 https://in-mc-fdlive.fancode.com/mumbai/139299_english_hls_f8962e06b325758_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139757_CASACARDS_PARTNER_16_9_1920_1080.png",Trinidad And Tobago Women Vs Jamaica Women
 https://in-mc-fdlive.fancode.com/mumbai/139757_english_hls_e8cf2079bd56308_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139825_CASACARDS_PARTNER_16_9_1920_1080.png",Damac Vs Al Nassr Fc
+https://in-mc-fdlive.fancode.com/mumbai/139825_english_hls_0bd975f30e9369_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013443/1768459028844957_PWL_26_UP-Dominators-vs-Maharashtra-Kesari_15jan_landscape_thumb.jpg",UP Dominators vs Maharashtra Kesari - 21 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769053894~acl=/*~id=02391650466764678472064527760084~hmac=fc382af57a685a20eefa79a9e71f33c9cd7664016d0f4fff01d35fee1481f624
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769056344~acl=/*~id=65271328171097604095990424231225~hmac=30b1a4ad42ead7873acee98340bb1c9cfa235b76e9ca51ed51f5781adecb88eb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013443/1768459028844957_PWL_26_UP-Dominators-vs-Maharashtra-Kesari_15jan_landscape_thumb.jpg",UP Dominators vs Maharashtra Kesari - 21 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769053894~acl=/*~id=02391650466764678472064527760084~hmac=fc382af57a685a20eefa79a9e71f33c9cd7664016d0f4fff01d35fee1481f624
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769056344~acl=/*~id=65271328171097604095990424231225~hmac=30b1a4ad42ead7873acee98340bb1c9cfa235b76e9ca51ed51f5781adecb88eb
