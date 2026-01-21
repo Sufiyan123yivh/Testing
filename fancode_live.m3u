@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138787_CASACARDS_PARTNER_16_9_1920_1080.png",Otago Sparks Vs Canterbury Magicians
-https://in-mc-fdlive.fancode.com/mumbai/138787_english_hls_d3e44c9d7c92287_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013808/1768944931672989_AO2026_Landscape_Thumb_Medvedev_v_Halys_SP_re1.jpg",Daniil Medvedev vs Quentin Halys - Men's Singles - 21 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769007657~acl=/*~id=39531847541660208994678126970171~hmac=862d165907671531f92032ec0790ee45e52a24c1270acfa76096048a1dc4ebd8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013811/1768946714962859_AO2026_Landscape_Thumb_Faria_v_Rublev_SP_Landscape_thumb.jpg",Faria vs Rublev - Round 2 - 21 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769007657~acl=/*~id=39531847541660208994678126970171~hmac=862d165907671531f92032ec0790ee45e52a24c1270acfa76096048a1dc4ebd8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767676469127714_SuperSmash2526_womens_Canterbury_Magicians_vs_Otago_Sparks_6jan_landscape_thumb.jpg",Canterbury Magicians vs Otago Sparks - 21 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769007657~acl=/*~id=39531847541660208994678126970171~hmac=862d165907671531f92032ec0790ee45e52a24c1270acfa76096048a1dc4ebd8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",Dyandeep Seva Mandal Vs Swami Vivekanand
+https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946996761_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013811/1768946483174859_AO2026_Landscape_Thumb_Alcaraz_v_Hanfmann_SP_re1.jpg",Alcaraz vs Hanfmann - Round 2 - 21 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769011914~acl=/*~id=81265929357098021060670277901284~hmac=6579866791e68366e487ae92a6c44d6ced21c422c619aabcc4d5a0f22f0db817
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013811/1768946483174859_AO2026_Landscape_Thumb_Alcaraz_v_Hanfmann_SP_re1.jpg",Alcaraz vs Hanfmann - Round 2 - 21 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769011914~acl=/*~id=81265929357098021060670277901284~hmac=6579866791e68366e487ae92a6c44d6ced21c422c619aabcc4d5a0f22f0db817
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013811/1768946483174859_AO2026_Landscape_Thumb_Alcaraz_v_Hanfmann_SP_re1.jpg",Alcaraz vs Hanfmann - Round 2 - 21 Jan 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769011914~acl=/*~id=81265929357098021060670277901284~hmac=6579866791e68366e487ae92a6c44d6ced21c422c619aabcc4d5a0f22f0db817
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013811/1768946483174859_AO2026_Landscape_Thumb_Alcaraz_v_Hanfmann_SP_re1.jpg",Alcaraz vs Hanfmann - Round 2 - 21 Jan 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769011914~acl=/*~id=81265929357098021060670277901284~hmac=6579866791e68366e487ae92a6c44d6ced21c422c619aabcc4d5a0f22f0db817
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013808/1768944541523989_AO2026_Landscape_Thumb_Gauff_v_Danilovic_SP_re1.jpg",Coco Gauff vs Olga Danilovic - Women's Singles - 21 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769011914~acl=/*~id=81265929357098021060670277901284~hmac=6579866791e68366e487ae92a6c44d6ced21c422c619aabcc4d5a0f22f0db817
