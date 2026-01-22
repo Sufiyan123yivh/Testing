@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139300_CASACARDS_PARTNER_16_9_1920_1080.png",West Indies Vs Afghanistan
-https://in-mc-fdlive.fancode.com/mumbai/139300_english_hls_c3d854406723813_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139826_CASACARDS_PARTNER_16_9_1920_1080.png",Al Qadsiah Fc Vs Al Ittihad
 https://in-mc-fdlive.fancode.com/mumbai/139826_english_hls_afe48d44e674182_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139993_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Group   Day 1
@@ -9,6 +7,8 @@ https://in-mc-fdlive.fancode.com/mumbai/139993_english_hls_fcf41e1d4c51216_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139990_english_hls_e0314d909e39284_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139992_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/139992_english_hls_d3e1674a0427419_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139991_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 1
+https://in-mc-fdlive.fancode.com/mumbai/139991_english_hls_895d9bd11a34904_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013656/1768558466820561_UEL_26_MD7_Fenerbahce-vs-Aston-Villa_landscape_thumb.jpg",Fenerbahce vs Aston Villa - MD 7 - 22 Jan 2026 [ENG]
 https://liveakmt-p.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769146490~acl=/*~id=67739624437103020955719958283288~hmac=fd8c65382739656db1ecaf1efda088084ee4093b7fa20c2158f06a4056c8da18
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013656/1768563031257561_UEL_26_MD7_PAOK-vs-Real-Betis_landscape_thumb.jpg",PAOK vs Real Betis - MD 7 - 22 Jan 2026 [ENG]
