@@ -1,19 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139289_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Vs England
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769106601~acl=/*~id=1705d8ca54d109ba89432d9932d144f6-1769063400183~hmac=eee6652ed61988f51f4ede22260802c8bfc44a87292d7993e0a2a08ec3ee38ab
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",Dyandeep Seva Mandal Vs Swami Vivekanand
 https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946995062_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139229_CASACARDS_PARTNER_16_9_1920_1080.png",Zimbabwe Women Vs Scotland Women
 https://in-mc-fdlive.fancode.com/mumbai/139229_english_hls_c6f53e7b8c82602_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139228_CASACARDS_PARTNER_16_9_1920_1080.png",Bangladesh Women Vs Namibia Women
 https://in-mc-fdlive.fancode.com/mumbai/139228_english_hls_a9cc7094b32741_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013858/176898736563443_SLvsENG26_1odi_21jan_landscape_thumb.jpg",1st ODI - 22 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769113030~acl=/*~id=85768268935325233899810825598874~hmac=547973b89bb85621e2359e64be4473a040b3940c1a8289033f1c95faece3bdb6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013901/1769024836772248_AO2026_Landscape_Thumb_Duckworth_V_Sinner_SP.jpg",Duckworth vs Sinner - Round 2 - 22 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769113030~acl=/*~id=85768268935325233899810825598874~hmac=547973b89bb85621e2359e64be4473a040b3940c1a8289033f1c95faece3bdb6
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769114854~acl=/*~id=15348003896446244715901169624994~hmac=2abe28a97ba9795818d672123e48c85ef5891317e4c9beffc45b5e0ba26393d6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013901/1769024836772248_AO2026_Landscape_Thumb_Duckworth_V_Sinner_SP.jpg",Duckworth vs Sinner - Round 2 - 22 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769113030~acl=/*~id=85768268935325233899810825598874~hmac=547973b89bb85621e2359e64be4473a040b3940c1a8289033f1c95faece3bdb6
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769114854~acl=/*~id=15348003896446244715901169624994~hmac=2abe28a97ba9795818d672123e48c85ef5891317e4c9beffc45b5e0ba26393d6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013901/1769024836772248_AO2026_Landscape_Thumb_Duckworth_V_Sinner_SP.jpg",Duckworth vs Sinner - Round 2 - 22 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769113030~acl=/*~id=85768268935325233899810825598874~hmac=547973b89bb85621e2359e64be4473a040b3940c1a8289033f1c95faece3bdb6
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769114854~acl=/*~id=15348003896446244715901169624994~hmac=2abe28a97ba9795818d672123e48c85ef5891317e4c9beffc45b5e0ba26393d6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013901/1769024836772248_AO2026_Landscape_Thumb_Duckworth_V_Sinner_SP.jpg",Duckworth vs Sinner - Round 2 - 22 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769113030~acl=/*~id=85768268935325233899810825598874~hmac=547973b89bb85621e2359e64be4473a040b3940c1a8289033f1c95faece3bdb6
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769114854~acl=/*~id=15348003896446244715901169624994~hmac=2abe28a97ba9795818d672123e48c85ef5891317e4c9beffc45b5e0ba26393d6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013858/176898736563443_SLvsENG26_1odi_21jan_landscape_thumb.jpg",1st ODI - 22 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769114854~acl=/*~id=15348003896446244715901169624994~hmac=2abe28a97ba9795818d672123e48c85ef5891317e4c9beffc45b5e0ba26393d6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013861/1768988638982461_DPworldtour_HeroDubaiDesertClassic_day1_21jan_landscape_thumb.jpg",Hero Dubai Desert Classic Day 1 - 22 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769113030~acl=/*~id=85768268935325233899810825598874~hmac=547973b89bb85621e2359e64be4473a040b3940c1a8289033f1c95faece3bdb6
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769114854~acl=/*~id=15348003896446244715901169624994~hmac=2abe28a97ba9795818d672123e48c85ef5891317e4c9beffc45b5e0ba26393d6
