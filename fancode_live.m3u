@@ -3,3 +3,9 @@
 https://in-mc-fdlive.fancode.com/mumbai/138949_english_hls_f7e380fec481055_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139760_CASACARDS_PARTNER_16_9_1920_1080.png",Jamaica Women Vs Windward Islands Women
 https://in-mc-fdlive.fancode.com/mumbai/139760_english_hls_07f09429aa76174_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139281_CASACARDS_PARTNER_16_9_1920_1080.png",Vietnam U23 Vs Korea Republic U23
+https://in-mc-fdlive.fancode.com/mumbai/139281_english_hls_c89fd845d223030_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769224338~acl=/*~id=74756205989052288083230327362201~hmac=bd3cc62adb20b6453457d5a3ae7be69bb66b54249675b3bdb229047d111b5b1c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769224338~acl=/*~id=74756205989052288083230327362201~hmac=bd3cc62adb20b6453457d5a3ae7be69bb66b54249675b3bdb229047d111b5b1c
