@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139761_CASACARDS_PARTNER_16_9_1920_1080.png",Trinidad And Tobago Women Vs Guyana Women
 https://in-mc-fdlive.fancode.com/mumbai/139761_english_hls_99c69b8e8927484_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139329_CASACARDS_PARTNER_16_9_1920_1080.png",Everton Women Vs Brighton And Hove Albion Women
-https://in-mc-fdlive.fancode.com/mumbai/139329_english_hls_d70b72d2ba80144_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131030_CASACARDS_PARTNER_16_9_1920_1080.png",Levante Vs Elche Cf
 https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139341_CASACARDS_PARTNER_16_9_1920_1080.png",Derby County Football Club Vs West Bromwich Albion F.c.
