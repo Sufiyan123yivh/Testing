@@ -1,15 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139390_CASACARDS_PARTNER_16_9_1920_1080.png",Newcastle Jets Vs Wellington Phoenix
 https://in-mc-fdlive.fancode.com/mumbai/139390_english_hls_7c09f6371540836_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg",Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769202919~acl=/*~id=81696815627227572948916492195244~hmac=c4b17a10210802f8025ee6e2aece2efdcafc973dc363916c6e0d6eb7ddb94db8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg",Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769202919~acl=/*~id=81696815627227572948916492195244~hmac=c4b17a10210802f8025ee6e2aece2efdcafc973dc363916c6e0d6eb7ddb94db8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg",Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769202919~acl=/*~id=81696815627227572948916492195244~hmac=c4b17a10210802f8025ee6e2aece2efdcafc973dc363916c6e0d6eb7ddb94db8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg",Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769202919~acl=/*~id=81696815627227572948916492195244~hmac=c4b17a10210802f8025ee6e2aece2efdcafc973dc363916c6e0d6eb7ddb94db8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110085103967_AO2026_Landscape_Thumb_Zverev_v_Norrie_SP.jpg",Alexander Zverev vs Cameron Norrie - Men's Singles - 23 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769202919~acl=/*~id=81696815627227572948916492195244~hmac=c4b17a10210802f8025ee6e2aece2efdcafc973dc363916c6e0d6eb7ddb94db8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013861/1768988631866461_DPworldtour_HeroDubaiDesertClassic_day2_21jan_landscape_thumb.jpg",Hero Dubai Desert Classic Day 2 - 23 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769202919~acl=/*~id=81696815627227572948916492195244~hmac=c4b17a10210802f8025ee6e2aece2efdcafc973dc363916c6e0d6eb7ddb94db8
