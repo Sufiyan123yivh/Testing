@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139343_CASACARDS_PARTNER_16_9_1920_1080.png",Hull City Vs Swansea City A.f.c.
-https://in-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131031_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Rcd Espanyol
 https://in-mc-fdlive.fancode.com/mumbai/131031_english_hls_73acf677f537413_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131038_CASACARDS_PARTNER_16_9_1920_1080.png",Sevilla Fc Vs Athletic Club
+https://in-mc-fdlive.fancode.com/mumbai/131038_english_hls_5d6390fe8396622_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139282_CASACARDS_PARTNER_16_9_1920_1080.png",China Pr U23 Vs Japan U23
 https://in-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139998_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769076592969110_SLvsENG26_2odi_landscape_thumb.jpg",2nd ODI - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769315667~acl=/*~id=90718140330770305109897174075755~hmac=1fb0949c3f624a874804b51f9f6ea8471d1abc553353b2bb41dd27f0c5db2869
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768141803518360_bliga26_MD18_Leverkusen_vs_Werder_Bremen_11jan_landscape_thumb.jpg",Bayer Leverkusen vs Werder Bremen - MD 19 - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769315667~acl=/*~id=90718140330770305109897174075755~hmac=1fb0949c3f624a874804b51f9f6ea8471d1abc553353b2bb41dd27f0c5db2869
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142181254360_bliga26_MD18_Frankfurt_vs_Hoffenheim_11jan_landscape_thumb.jpg",Eintracht Frankfurt vs Hoffenheim - MD 19 - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769315667~acl=/*~id=90718140330770305109897174075755~hmac=1fb0949c3f624a874804b51f9f6ea8471d1abc553353b2bb41dd27f0c5db2869
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142359333360_bliga26_MD18_Mainz_vs_VfL_Wolfsburg_11jan_landscape_thumb.jpg",Mainz vs VfL Wolfsburg - MD 19 - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769315667~acl=/*~id=90718140330770305109897174075755~hmac=1fb0949c3f624a874804b51f9f6ea8471d1abc553353b2bb41dd27f0c5db2869
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140001_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/140001_english_hls_0fde9c040487776_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140000_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/140000_english_hls_1e28d3bcd85882_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142506296360_bliga26_MD18_Union_Berlin_vs_Dortmund_11jan_landscape_thumb.jpg",Union Berlin vs Borussia Dortmund - MD 19 - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769316867~acl=/*~id=97967357229698516699091465562589~hmac=a5ee3b12ec1a7768ccce15cf4b34281bc921011f3b7f12f09841af25947a7667
