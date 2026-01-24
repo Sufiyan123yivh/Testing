@@ -1,11 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139290_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Vs England
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769279402~acl=/*~id=1a10c11687675ead2791efb9f2f82039-1769236200124~hmac=67e2f8e5a095f6177f3ab7c3986169909c3fc56efb8db26e0e7ce9a8f4b8631e
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131033_CASACARDS_PARTNER_16_9_1920_1080.png",Rayo Vallecano Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/131033_english_hls_db31a53c3864382_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139343_CASACARDS_PARTNER_16_9_1920_1080.png",Hull City Vs Swansea City A.f.c.
 https://in-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131031_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Rcd Espanyol
 https://in-mc-fdlive.fancode.com/mumbai/131031_english_hls_73acf677f537413_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139282_CASACARDS_PARTNER_16_9_1920_1080.png",China Pr U23 Vs Japan U23
 https://in-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769076592969110_SLvsENG26_2odi_landscape_thumb.jpg",2nd ODI - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769311391~acl=/*~id=36529046163411875959732375448585~hmac=bcaefead4849065edeb8bcf1c3815106855582cae6d23f2c1c2fe5d9f7c28665
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142001841360_bliga26_MD18_Bayern_Munich_vs_FC_Augsburg_11jan_landscape_thumb.jpg",Bayern Munich vs FC Augsburg - MD 19 - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769311391~acl=/*~id=36529046163411875959732375448585~hmac=bcaefead4849065edeb8bcf1c3815106855582cae6d23f2c1c2fe5d9f7c28665
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768141803518360_bliga26_MD18_Leverkusen_vs_Werder_Bremen_11jan_landscape_thumb.jpg",Bayer Leverkusen vs Werder Bremen - MD 19 - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769311391~acl=/*~id=36529046163411875959732375448585~hmac=bcaefead4849065edeb8bcf1c3815106855582cae6d23f2c1c2fe5d9f7c28665
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768141584152360_bliga26_MD18_Heidenheim_vs_RB_Leipzig_11jan_landscape_thumb.jpg",Heidenheim vs RB Leipzig - MD 19 - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769311391~acl=/*~id=36529046163411875959732375448585~hmac=bcaefead4849065edeb8bcf1c3815106855582cae6d23f2c1c2fe5d9f7c28665
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142181254360_bliga26_MD18_Frankfurt_vs_Hoffenheim_11jan_landscape_thumb.jpg",Eintracht Frankfurt vs Hoffenheim - MD 19 - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769311391~acl=/*~id=36529046163411875959732375448585~hmac=bcaefead4849065edeb8bcf1c3815106855582cae6d23f2c1c2fe5d9f7c28665
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142359333360_bliga26_MD18_Mainz_vs_VfL_Wolfsburg_11jan_landscape_thumb.jpg",Mainz vs VfL Wolfsburg - MD 19 - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769311391~acl=/*~id=36529046163411875959732375448585~hmac=bcaefead4849065edeb8bcf1c3815106855582cae6d23f2c1c2fe5d9f7c28665
