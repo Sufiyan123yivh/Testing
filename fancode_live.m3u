@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131031_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Rcd Espanyol
-https://in-mc-fdlive.fancode.com/mumbai/131031_english_hls_73acf677f537413_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131038_CASACARDS_PARTNER_16_9_1920_1080.png",Sevilla Fc Vs Athletic Club
 https://in-mc-fdlive.fancode.com/mumbai/131038_english_hls_5d6390fe8396622_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139282_CASACARDS_PARTNER_16_9_1920_1080.png",China Pr U23 Vs Japan U23
-https://in-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139827_CASACARDS_PARTNER_16_9_1920_1080.png",Neom Sc Vs Al Ahli Saudi Fc
+https://in-mc-fdlive.fancode.com/mumbai/139827_english_hls_d3c8c2623d33015_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139998_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140001_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140001_english_hls_0fde9c040487776_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140000_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140000_english_hls_1e28d3bcd85882_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139999_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/139999_english_hls_70e7bed40197530_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142506296360_bliga26_MD18_Union_Berlin_vs_Dortmund_11jan_landscape_thumb.jpg",Union Berlin vs Borussia Dortmund - MD 19 - 24 Jan 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769316867~acl=/*~id=97967357229698516699091465562589~hmac=a5ee3b12ec1a7768ccce15cf4b34281bc921011f3b7f12f09841af25947a7667
