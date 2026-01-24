@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138790_CASACARDS_PARTNER_16_9_1920_1080.png",Central Hinds Vs Otago Sparks
-https://in-mc-fdlive.fancode.com/mumbai/138790_english_hls_5ea09014f279097_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138758_CASACARDS_PARTNER_16_9_1920_1080.png",Otago Volts Vs Central Stags
+https://in-mc-fdlive.fancode.com/mumbai/138758_english_hls_315b8dcdb499012_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139231_CASACARDS_PARTNER_16_9_1920_1080.png",Namibia Women Vs Papua New Guinea Women
 https://in-mc-fdlive.fancode.com/mumbai/139231_english_hls_f732bf19c370865_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139230_CASACARDS_PARTNER_16_9_1920_1080.png",Thailand Women Vs Scotland Women
@@ -8,32 +8,22 @@ https://in-mc-fdlive.fancode.com/mumbai/139230_english_hls_d807ed9dea73382_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139391_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Vs Central Coast Mariners
 https://in-mc-fdlive.fancode.com/mumbai/139391_english_hls_9ce265edf445250_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg",Spizzirri vs Sinner - Round 3 - 24 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg",Spizzirri vs Sinner - Round 3 - 24 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg",Spizzirri vs Sinner - Round 3 - 24 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg",Spizzirri vs Sinner - Round 3 - 24 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767679504832714_SuperSmash2526_womens_Central_Hinds_vs_Otago_Sparks_6jan_landscape_thumb.jpg",Central Hinds vs Otago Sparks - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195911599286_AO2026_Landscape_Thumb_Mertens_V_Bartunkova_SP.jpg",John Cain Arena - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195911428286_AO2026_Landscape_Thumb_MensDoublesR2_Gonzalez_Pel_v_Bhambri_Goransson_SP.jpg",Gonzalez/Pel vs Bhambri/Goransson - Men's Doubles - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012997/1767622869328117_SuperSmash2526_mens_Central_Stags_vs_Otago_Volts_5jan_landscape_thumb.jpg",Central Stags vs Otago Volts - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912671286_AO2026_Landscape_Thumb_Shelton_V_Vacherot_SP.jpg",Ben Shelton vs Valentin Vacherot - Men's Singles - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051341169997_AO26_Round3_KIA_Arena_22jan_landscape_thumb.jpg",Linda Noskova vs Xinyu Wang - Women's Singles - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195911599286_AO2026_Landscape_Thumb_Mertens_V_Bartunkova_SP.jpg",Elise Mertens vs Nikola Bartunkova - Women's Singles - 24 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051265892997_AO26_Round3_Rod_Laver_Arena_22jan_landscape_thumb.jpg",Eliot Spizzirri vs Jannik Sinner - Men's Singles - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912113657613_AO26_R2_ANZ_Arena_landscape_thumb.jpg",Birrell/Gibson vs Errani/Paolini - Women's Doubles - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912078703613_AO26_R2_1573_Arena_landscape_thumb.jpg",1573 Arena - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053122255613_AO26_Round3_stream2_22jan_landscape_thumb.jpg",Stream 2 - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053115024613_AO26_Round3_stream3_22jan_landscape_thumb.jpg",Stream 3 - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912181945613_AO26_R2_Court6_landscape_thumb.jpg",Court 6 - 24 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769271382~acl=/*~id=67463240642531871050437341829087~hmac=b70bfb23e686ffe3350a3f5691c855450c05678869774f57e5d76e8c42df1f7f
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769273220~acl=/*~id=76378298774177669823279940542433~hmac=78add96e8299d7a3bca4699ac3e2bc0fa5ea956110b3e958eb0b566fcc917bd0
