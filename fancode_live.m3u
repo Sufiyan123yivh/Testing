@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131037_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Real Oviedo
-https://in-mc-fdlive.fancode.com/mumbai/131037_english_hls_635a04446178415_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131037_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Real Oviedo
-https://in-mc-fdlive.fancode.com/mumbai/131037_hindi_hls_b630a3a4c135602_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131037_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Real Oviedo
-https://in-mc-fdlive.fancode.com/mumbai/131037_bengali_hls_c493bdd7fd15113_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131039_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad Vs Rc Celta
 https://in-mc-fdlive.fancode.com/mumbai/131039_english_hls_446f75e7ac92585_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139828_CASACARDS_PARTNER_16_9_1920_1080.png",Al Riyadh Sc Vs Al Hilal Sfc
+https://in-mc-fdlive.fancode.com/mumbai/139828_english_hls_d925c7f4b614365_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140002_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/140002_english_hls_683a49a4bb32888_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140005_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Group   Day 4
