@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139334_CASACARDS_PARTNER_16_9_1920_1080.png",Liverpool Women Vs Tottenham Hotspur Women
-https://in-mc-fdlive.fancode.com/mumbai/139334_english_hls_a6c3b5c0616135_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139333_CASACARDS_PARTNER_16_9_1920_1080.png",Leicester City Women Vs West Ham United Women
-https://in-mc-fdlive.fancode.com/mumbai/139333_english_hls_270fe1082945914_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139332_CASACARDS_PARTNER_16_9_1920_1080.png",London City Lionesses Vs Manchester City Women
-https://in-mc-fdlive.fancode.com/mumbai/139332_english_hls_d945e9cffe29238_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139331_CASACARDS_PARTNER_16_9_1920_1080.png",Aston Villa Women Vs Manchester United Women
-https://in-mc-fdlive.fancode.com/mumbai/139331_english_hls_7833f87c3090046_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131036_CASACARDS_PARTNER_16_9_1920_1080.png",Atletico De Madrid Vs Rcd Mallorca
 https://in-mc-fdlive.fancode.com/mumbai/131036_english_hls_c22f7c10c319429_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142506296360_bliga26_MD18_Union_Berlin_vs_Dortmund_11jan_landscape_thumb.jpg",Union Berlin vs Borussia Dortmund - MD 19 - 24 Jan 2026 [ENG]
