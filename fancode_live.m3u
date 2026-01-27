@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139291_CASACARDS_PARTNER_16_9_1920_1080.png",England Vs Sri Lanka
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140075_CASACARDS_PARTNER_16_9_1920_1080.png",Rajasthan Lions Vs Maharashtra Tycoons
 https://in-mc-fdlive.fancode.com/mumbai/140075_english_hls_b212ddbe4735916_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140075_CASACARDS_PARTNER_16_9_1920_1080.png",Rajasthan Lions Vs Maharashtra Tycoons
@@ -13,13 +11,9 @@ https://in-mc-fdlive.fancode.com/mumbai/139764_english_hls_e90d3e852a87021_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139589_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Vs Emirates Blues
 https://in-mc-fdlive.fancode.com/mumbai/139589_english_hls_9ff79b0f8360911_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg",3rd ODI - 27 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769575706~acl=/*~id=60603395989542462297434320781670~hmac=9cff402e5202b26bc93333d806336fe0531c9a2a84ee22ff6762b35c166ccd53
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769330254386276_WLPT20L26_rajasthan_vs_maharashtra_25jan_landscape_thumb.jpg",Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769575706~acl=/*~id=60603395989542462297434320781670~hmac=9cff402e5202b26bc93333d806336fe0531c9a2a84ee22ff6762b35c166ccd53
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014231/1769427841216334_WPL26_Delhi_vs_Chennai_26jan_landscape_thumb.jpg",Dilli Dilwale vs Chennai Super Champs - 27 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769575706~acl=/*~id=60603395989542462297434320781670~hmac=9cff402e5202b26bc93333d806336fe0531c9a2a84ee22ff6762b35c166ccd53
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769577537~acl=/*~id=38534289098901809655651645835105~hmac=ea81b45167f477c34a456f8565677f4fa810ee6ffa68886fcd4669104c404e18
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013447/176848583247930_PWL_26_Delhi-Dangal-Warriors-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",Delhi Dangal Warriors vs Tiigers Of Mumbai Dangal - 27 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769575706~acl=/*~id=60603395989542462297434320781670~hmac=9cff402e5202b26bc93333d806336fe0531c9a2a84ee22ff6762b35c166ccd53
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769577537~acl=/*~id=38534289098901809655651645835105~hmac=ea81b45167f477c34a456f8565677f4fa810ee6ffa68886fcd4669104c404e18
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013447/176848583247930_PWL_26_Delhi-Dangal-Warriors-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",Delhi Dangal Warriors vs Tiigers Of Mumbai Dangal - 27 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769575706~acl=/*~id=60603395989542462297434320781670~hmac=9cff402e5202b26bc93333d806336fe0531c9a2a84ee22ff6762b35c166ccd53
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769577537~acl=/*~id=38534289098901809655651645835105~hmac=ea81b45167f477c34a456f8565677f4fa810ee6ffa68886fcd4669104c404e18
