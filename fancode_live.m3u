@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139765_CASACARDS_PARTNER_16_9_1920_1080.png",Guyana Women Vs Jamaica Women
-https://in-mc-fdlive.fancode.com/mumbai/139765_english_hls_6845cebf6d43884_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139764_CASACARDS_PARTNER_16_9_1920_1080.png",Barbados Women Vs Leeward Islands Women
-https://in-mc-fdlive.fancode.com/mumbai/139764_english_hls_e90d3e852a87021_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139763_CASACARDS_PARTNER_16_9_1920_1080.png",Trinidad And Tobago Women Vs Windward Islands Women
-https://in-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139590_CASACARDS_PARTNER_16_9_1920_1080.png",Emirates Red Vs Ajman
-https://in-mc-fdlive.fancode.com/mumbai/139590_english_hls_c6ca9bd7fa83724_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769330254386276_WLPT20L26_rajasthan_vs_maharashtra_25jan_landscape_thumb.jpg",Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583024~acl=/*~id=00521011780059307229252467025883~hmac=ce08d1e7aca8d9cac8fc8a8f9e4185c3223e46ae1acbae9a624d7973c4fafb72
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140015_CASACARDS_PARTNER_16_9_1920_1080.png",Doncaster Rovers F.c. Vs Leyton Orient
+https://in-mc-fdlive.fancode.com/mumbai/140015_english_hls_14e071e3b844882_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767857645751351_Bundesliga_MD16_Werder-Bremen-vs-Hoffenheim_landscape_thumb.jpg",Werder Bremen vs Hoffenheim - MD 16 - 28 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583024~acl=/*~id=00521011780059307229252467025883~hmac=ce08d1e7aca8d9cac8fc8a8f9e4185c3223e46ae1acbae9a624d7973c4fafb72
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769587881~acl=/*~id=50979134615958814242477408574093~hmac=9ec939c4d4d62d0cb16ce7850b4845b8575ae05fbd6f1d0a1129209f4168488e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855576402351_Bundesliga_MD16_St-Pauli-vs-RB-Leipzig_landscape_thumb.jpg",St. Pauli vs RB Leipzig - MD 16 - 28 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769583024~acl=/*~id=00521011780059307229252467025883~hmac=ce08d1e7aca8d9cac8fc8a8f9e4185c3223e46ae1acbae9a624d7973c4fafb72
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769587881~acl=/*~id=50979134615958814242477408574093~hmac=9ec939c4d4d62d0cb16ce7850b4845b8575ae05fbd6f1d0a1129209f4168488e
