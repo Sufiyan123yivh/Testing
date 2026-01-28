@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140077_CASACARDS_PARTNER_16_9_1920_1080.png",Delhi Warriors Vs Pune Panthers
-https://in-mc-fdlive.fancode.com/mumbai/140077_english_hls_cb6148611d29993_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140077_CASACARDS_PARTNER_16_9_1920_1080.png",Delhi Warriors Vs Pune Panthers
-https://in-mc-fdlive.fancode.com/mumbai/140077_hindi_hls_b2aeb9b0a15945_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139594_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Vs Ajman
 https://in-mc-fdlive.fancode.com/mumbai/139594_english_hls_7e2b5254b735858_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139830_CASACARDS_PARTNER_16_9_1920_1080.png",Al Ahli Saudi Fc Vs Al Ettifaq
 https://in-mc-fdlive.fancode.com/mumbai/139830_english_hls_f7d82cc74420589_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140162_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140162_english_hls_6cd8476ea644007_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg",Delhi Warriors vs Pune Panthers - 28 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769665914~acl=/*~id=48944563520365267111003215666874~hmac=1b6d2cd50be5108d3dd1f509df770994acc5ac7bb33d095aae243d50ab63e3bd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg",Delhi Warriors vs Pune Panthers - 28 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769665914~acl=/*~id=48944563520365267111003215666874~hmac=1b6d2cd50be5108d3dd1f509df770994acc5ac7bb33d095aae243d50ab63e3bd
