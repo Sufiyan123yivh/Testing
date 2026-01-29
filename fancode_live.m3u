@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140079_CASACARDS_PARTNER_16_9_1920_1080.png",Maharashtra Tycoons Vs Gurugram Thunders
-https://in-mc-fdlive.fancode.com/mumbai/140079_english_hls_b6c33f621a31054_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140079_CASACARDS_PARTNER_16_9_1920_1080.png",Maharashtra Tycoons Vs Gurugram Thunders
-https://in-mc-fdlive.fancode.com/mumbai/140079_hindi_hls_0e2cdff77140002_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140132_CASACARDS_PARTNER_16_9_1920_1080.png",Ireland Vs United Arab Emirates
 https://in-mc-fdlive.fancode.com/mumbai/140132_english_hls_d21924d2cc77509_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139768_CASACARDS_PARTNER_16_9_1920_1080.png",Windward Islands Women Vs Leeward Islands Women
 https://in-mc-fdlive.fancode.com/mumbai/139768_english_hls_c41113cd342833_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139767_CASACARDS_PARTNER_16_9_1920_1080.png",Jamaica Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139767_english_hls_8a982f4b4a96687_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139598_CASACARDS_PARTNER_16_9_1920_1080.png",Ajman Vs Sharjah
+https://in-mc-fdlive.fancode.com/mumbai/139598_english_hls_581663139781518_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139831_CASACARDS_PARTNER_16_9_1920_1080.png",Al Qadsiah Fc Vs Al Hilal Sfc
 https://in-mc-fdlive.fancode.com/mumbai/139831_english_hls_3c9127d7f227326_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140164_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Centre Court
@@ -21,15 +19,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140023_english_hls_f1dfe15fef93729_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140022_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140022_english_hls_20028e408f83303_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139598_CASACARDS_PARTNER_16_9_1920_1080.png",Ajman Vs Sharjah
-https://in-mc-fdlive.fancode.com/mumbai/139598_english_hls_581663139781518_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg",Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769749147~acl=/*~id=20751970883197408622357030535939~hmac=2e0554eb7f4256258fe4305d2c76d3a7ddc9e340d2185af7c3f932a04ac45572
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769752184~acl=/*~id=30672707155876482027280857828168~hmac=b05d53ef6eeff74b46410ad938e4bcfe343c5cf351fffacacb22194d2393e246
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg",Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769749147~acl=/*~id=20751970883197408622357030535939~hmac=2e0554eb7f4256258fe4305d2c76d3a7ddc9e340d2185af7c3f932a04ac45572
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013449/1768459435932803_PWL_26_Punjab-Royals-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",Punjab Royals vs Delhi Dangal Warriors - 29 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769749147~acl=/*~id=20751970883197408622357030535939~hmac=2e0554eb7f4256258fe4305d2c76d3a7ddc9e340d2185af7c3f932a04ac45572
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013449/1768459435932803_PWL_26_Punjab-Royals-vs-Delhi-Dangal-Warriors_15jan_landscape_thumb.jpg",Punjab Royals vs Delhi Dangal Warriors - 29 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769749147~acl=/*~id=20751970883197408622357030535939~hmac=2e0554eb7f4256258fe4305d2c76d3a7ddc9e340d2185af7c3f932a04ac45572
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593917860675_WPL26_Chennai-vs-Mumbai_landscape_thumb.jpg",Chennai Super Champs vs Mumbai Pickleball Power - 29 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769749147~acl=/*~id=20751970883197408622357030535939~hmac=2e0554eb7f4256258fe4305d2c76d3a7ddc9e340d2185af7c3f932a04ac45572
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769752184~acl=/*~id=30672707155876482027280857828168~hmac=b05d53ef6eeff74b46410ad938e4bcfe343c5cf351fffacacb22194d2393e246
