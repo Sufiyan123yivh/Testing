@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140132_CASACARDS_PARTNER_16_9_1920_1080.png",Ireland Vs United Arab Emirates
-https://in-mc-fdlive.fancode.com/mumbai/140132_english_hls_d21924d2cc77509_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139768_CASACARDS_PARTNER_16_9_1920_1080.png",Windward Islands Women Vs Leeward Islands Women
-https://in-mc-fdlive.fancode.com/mumbai/139768_english_hls_c41113cd342833_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139767_CASACARDS_PARTNER_16_9_1920_1080.png",Jamaica Women Vs Barbados Women
 https://in-mc-fdlive.fancode.com/mumbai/139767_english_hls_8a982f4b4a96687_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139598_CASACARDS_PARTNER_16_9_1920_1080.png",Ajman Vs Sharjah
@@ -19,7 +15,3 @@ https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140023_english_hls_f1dfe15fef93729_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140022_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140022_english_hls_20028e408f83303_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg",Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769752184~acl=/*~id=30672707155876482027280857828168~hmac=b05d53ef6eeff74b46410ad938e4bcfe343c5cf351fffacacb22194d2393e246
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg",Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769752184~acl=/*~id=30672707155876482027280857828168~hmac=b05d53ef6eeff74b46410ad938e4bcfe343c5cf351fffacacb22194d2393e246
