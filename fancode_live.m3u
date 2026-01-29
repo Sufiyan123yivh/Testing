@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140021_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 1
-https://in-mc-fdlive.fancode.com/mumbai/140021_english_hls_9d2ae0e2065301_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140024_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140024_english_hls_bab0487a5a76887_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140023_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 1
