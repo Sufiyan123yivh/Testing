@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140079_CASACARDS_PARTNER_16_9_1920_1080.png",Maharashtra Tycoons Vs Gurugram Thunders
+https://in-mc-fdlive.fancode.com/mumbai/140079_english_hls_b6c33f621a31054_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140079_CASACARDS_PARTNER_16_9_1920_1080.png",Maharashtra Tycoons Vs Gurugram Thunders
+https://in-mc-fdlive.fancode.com/mumbai/140079_hindi_hls_0e2cdff77140002_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139596_CASACARDS_PARTNER_16_9_1920_1080.png",Ajman Vs Dubai
 https://in-mc-fdlive.fancode.com/mumbai/139596_english_hls_6f49ce3e2f58890_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139768_CASACARDS_PARTNER_16_9_1920_1080.png",Windward Islands Women Vs Leeward Islands Women
+https://in-mc-fdlive.fancode.com/mumbai/139768_english_hls_c41113cd342833_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139767_CASACARDS_PARTNER_16_9_1920_1080.png",Jamaica Women Vs Barbados Women
+https://in-mc-fdlive.fancode.com/mumbai/139767_english_hls_8a982f4b4a96687_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139766_CASACARDS_PARTNER_16_9_1920_1080.png",Guyana Women Vs Trinidad And Tobago Women
+https://in-mc-fdlive.fancode.com/mumbai/139766_english_hls_301a5bcd2231564_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140164_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139892_CASACARDS_PARTNER_16_9_1920_1080.png",Kyrgyz Republic Vs Indonesia
