@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140164_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Centre Court
-https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140021_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140021_english_hls_9d2ae0e2065301_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140024_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 1
@@ -12,6 +10,6 @@ https://in-mc-fdlive.fancode.com/mumbai/140022_english_hls_20028e408f83303_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140020_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140020_english_hls_5ec79ec2341569_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013970/176908771569375_UEFA_Europa_League_2025_26_Aston_Villa_vs_Salzburg_landscape_thumb.jpg",Aston Villa vs Salzburg - MD 8 - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769762476~acl=/*~id=83685093604554486293098217946968~hmac=278e7d4cffa4d7851020927c3de5e021e8f2e0ed002c35c3e6cadf2e115617a6
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769764292~acl=/*~id=03171580480840476744864330016778~hmac=b64ed77d6196b5719d89ed178fe5f4cae93d0f78160584570abad1065681f3b4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014011/1769144562373371_UEFA_Europa_League_2025_26_Nottm-Forest_vs_Ferencvaros_landscape_thumb.jpg",Nottingham Forest vs Ferencvaros - MD 8 - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769762476~acl=/*~id=83685093604554486293098217946968~hmac=278e7d4cffa4d7851020927c3de5e021e8f2e0ed002c35c3e6cadf2e115617a6
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769764292~acl=/*~id=03171580480840476744864330016778~hmac=b64ed77d6196b5719d89ed178fe5f4cae93d0f78160584570abad1065681f3b4
