@@ -1,19 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139243_CASACARDS_PARTNER_16_9_1920_1080.png",Usa Women Vs Thailand Women
 https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139396_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Phoenix Vs Melbourne City
-https://in-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139893_CASACARDS_PARTNER_16_9_1920_1080.png",Saudi Arabia Vs Ir Iran
-https://in-mc-fdlive.fancode.com/mumbai/139893_english_hls_fd95d45e3a10803_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139397_CASACARDS_PARTNER_16_9_1920_1080.png",Adelaide United Vs Macarthur
+https://in-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139894_CASACARDS_PARTNER_16_9_1920_1080.png",Australia Vs Uzbekistan
 https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140080_CASACARDS_PARTNER_16_9_1920_1080.png",Maharashtra Tycoons Vs Delhi Warriors
+https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140080_CASACARDS_PARTNER_16_9_1920_1080.png",Maharashtra Tycoons Vs Delhi Warriors
+https://in-mc-fdlive.fancode.com/mumbai/140080_hindi_hls_725b9d748a63489_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503187379453_World_Legends_Pro_T20_League_2026_Maharashtra-Tycoons-vs-Delhi-Warriors_landscape_thumb.jpg",Maharashtra Tycoons vs Delhi Warriors - 30 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503187379453_World_Legends_Pro_T20_League_2026_Maharashtra-Tycoons-vs-Delhi-Warriors_landscape_thumb.jpg",Maharashtra Tycoons vs Delhi Warriors - 30 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014460/1769684801522533_AO26_SF_stream2_29jan_SP_landscape_thumb.jpg",Stream 2 - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014363/1769600198799639_DPworldtour_Bahrain_Championship_day2_28jan_landscape_thumb.jpg",Bahrain Championship Day 2 - 30 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769806114~acl=/*~id=38229631001021574566228308155247~hmac=5d74223f66b89eaf7ba757119fad0eb7c06f6535a940f4259516d033639db680
