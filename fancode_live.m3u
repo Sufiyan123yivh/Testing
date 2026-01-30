@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139602_CASACARDS_PARTNER_16_9_1920_1080.png",Sharjah Vs Fujairah
-https://in-mc-fdlive.fancode.com/mumbai/139602_english_hls_81741d5a1d94370_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139832_CASACARDS_PARTNER_16_9_1920_1080.png",Al Kholood Club Vs Al Nassr Fc
-https://in-mc-fdlive.fancode.com/mumbai/139832_english_hls_2235df2b4a59204_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131049_CASACARDS_PARTNER_16_9_1920_1080.png",Rcd Espanyol Vs Deportivo Alaves
+https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139345_CASACARDS_PARTNER_16_9_1920_1080.png",Bristol City F.c. Vs Derby County Football Club
+https://in-mc-fdlive.fancode.com/mumbai/139345_english_hls_287d9684b44367_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140013_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad B Vs Las Palmas
+https://in-mc-fdlive.fancode.com/mumbai/140013_english_hls_79d607d75795089_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140166_CASACARDS_PARTNER_16_9_1920_1080.png",Day 3   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140026_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 2
@@ -14,4 +16,4 @@ https://in-mc-fdlive.fancode.com/mumbai/140028_english_hls_c12538667399400_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140027_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140027_english_hls_e548bad07f82404_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769162403868392_Bundesliga_2025_26_FC_Koln_vs_VfL-Wolfsburg_landscape_thumb.jpg",FC Koln vs VfL Wolfsburg - MD 20 - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769842639~acl=/*~id=37917411018862822930774850358719~hmac=845498431cd2cd2d0bcedf69dda65789c90c764ecdc1cbb56a503725375562e5
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769846874~acl=/*~id=03812197472973554356072197044478~hmac=7f962c1acafe12be0330fba19412dcada9e2e4409c95a169b19bc590e09a0bcc
