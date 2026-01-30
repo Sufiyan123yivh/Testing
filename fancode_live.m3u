@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138761_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Aces Vs Canterbury
-https://in-mc-fdlive.fancode.com/mumbai/138761_english_hls_95eb8471dd79330_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133973_CASACARDS_PARTNER_16_9_1920_1080.png",Tasmania Women Vs Western Australia Women
-https://in-mc-fdlive.fancode.com/mumbai/133973_english_hls_6dcdbca7d166875_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139243_CASACARDS_PARTNER_16_9_1920_1080.png",Usa Women Vs Thailand Women
+https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139396_CASACARDS_PARTNER_16_9_1920_1080.png",Wellington Phoenix Vs Melbourne City
 https://in-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139893_CASACARDS_PARTNER_16_9_1920_1080.png",Saudi Arabia Vs Ir Iran
 https://in-mc-fdlive.fancode.com/mumbai/139893_english_hls_fd95d45e3a10803_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139241_CASACARDS_PARTNER_16_9_1920_1080.png",Bangladesh Women Vs Scotland Women
-https://in-mc-fdlive.fancode.com/mumbai/139241_english_hls_6864bb79d198978_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139894_CASACARDS_PARTNER_16_9_1920_1080.png",Australia Vs Uzbekistan
+https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769797006~acl=/*~id=03226515669628484673238261379911~hmac=bcc4ff7d4882779465e92a2e341064eb272dcb1b951b43aa30078b7d5c168115
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769797006~acl=/*~id=03226515669628484673238261379911~hmac=bcc4ff7d4882779465e92a2e341064eb272dcb1b951b43aa30078b7d5c168115
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769797006~acl=/*~id=03226515669628484673238261379911~hmac=bcc4ff7d4882779465e92a2e341064eb272dcb1b951b43aa30078b7d5c168115
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg",Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769797006~acl=/*~id=03226515669628484673238261379911~hmac=bcc4ff7d4882779465e92a2e341064eb272dcb1b951b43aa30078b7d5c168115
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014490/1769698307449427_SS26_mens_Eliminator_Auckland_Aces_vs_Canterbury_Kings_29jan_landscape_thumb.jpg",Auckland Aces vs Canterbury Kings - Eliminator - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769797006~acl=/*~id=03226515669628484673238261379911~hmac=bcc4ff7d4882779465e92a2e341064eb272dcb1b951b43aa30078b7d5c168115
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014460/1769684801522533_AO26_SF_stream2_29jan_SP_landscape_thumb.jpg",Stream 2 - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769797006~acl=/*~id=03226515669628484673238261379911~hmac=bcc4ff7d4882779465e92a2e341064eb272dcb1b951b43aa30078b7d5c168115
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
