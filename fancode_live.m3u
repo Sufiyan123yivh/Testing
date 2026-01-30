@@ -1,25 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139292_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Vs England
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140081_CASACARDS_PARTNER_16_9_1920_1080.png",Pune Panthers Vs Rajasthan Lions
-https://in-mc-fdlive.fancode.com/mumbai/140081_english_hls_4beb0dc9889432_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140081_CASACARDS_PARTNER_16_9_1920_1080.png",Pune Panthers Vs Rajasthan Lions
-https://in-mc-fdlive.fancode.com/mumbai/140081_hindi_hls_d65895669c10871_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139601_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Vs Dubai
-https://in-mc-fdlive.fancode.com/mumbai/139601_english_hls_9b220821a853642_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139602_CASACARDS_PARTNER_16_9_1920_1080.png",Sharjah Vs Fujairah
+https://in-mc-fdlive.fancode.com/mumbai/139602_english_hls_81741d5a1d94370_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139832_CASACARDS_PARTNER_16_9_1920_1080.png",Al Kholood Club Vs Al Nassr Fc
+https://in-mc-fdlive.fancode.com/mumbai/139832_english_hls_2235df2b4a59204_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140166_CASACARDS_PARTNER_16_9_1920_1080.png",Day 3   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140026_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140029_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140028_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/140028_english_hls_c12538667399400_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749407936553_SLvsENG26_1t20i_30jan_landscape_thumb.jpg",1st T20I - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014553/1769765068330871_PWL_SemiFinal_HaryanaThunders_vs_PunjabRoyals_landscape_thumb.jpg",Haryana Thunders vs Punjab Royals - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014553/1769765068330871_PWL_SemiFinal_HaryanaThunders_vs_PunjabRoyals_landscape_thumb.jpg",Haryana Thunders vs Punjab Royals - 30 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503462352453_World_Legends_Pro_T20_League_2026_Pune-Panthers-vs-Rajasthan-Lions_landscape_thumb.jpg",Pune Panthers vs Rajasthan Lions - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503462352453_World_Legends_Pro_T20_League_2026_Pune-Panthers-vs-Rajasthan-Lions_landscape_thumb.jpg",Pune Panthers vs Rajasthan Lions - 30 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769592214749674_WPL26_Bengaluru-vs-Delhi_landscape_thumb.jpg",Bengaluru Jawans vs Dilli Dillwale - 30 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769835365~acl=/*~id=88553560273131348708980347324716~hmac=9558c931f85aa08d399801829b06d851ce3016d51d1e952757495c5a8c6b8aa5
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769839008~acl=/*~id=30169757334363039312724989315222~hmac=60e844058d6afbe6b7182c2d8da1e0f2dc09d705509435eb9a89090b048443b0
