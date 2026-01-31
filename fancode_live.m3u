@@ -3,8 +3,8 @@
 https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140133_CASACARDS_PARTNER_16_9_1920_1080.png",Ireland Vs United Arab Emirates
 https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139398_CASACARDS_PARTNER_16_9_1920_1080.png",Newcastle Jets Vs Brisbane Roar
-https://in-mc-fdlive.fancode.com/mumbai/139398_english_hls_72d998758178749_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139399_CASACARDS_PARTNER_16_9_1920_1080.png",Sydney Fc Vs Western Sydney Wanderers
+https://in-mc-fdlive.fancode.com/mumbai/139399_english_hls_99bb54ef5a38779_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140136_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140309_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Table 1
@@ -15,17 +15,25 @@ https://in-mc-fdlive.fancode.com/mumbai/140330_english_hls_801a6b020b28841_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140329_english_hls_4a364dcc6012120_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140328_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Table 4
 https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139898_CASACARDS_PARTNER_16_9_1920_1080.png",Kuwait Vs Lebanon
+https://in-mc-fdlive.fancode.com/mumbai/139898_english_hls_e73ad2fd6f57332_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139897_CASACARDS_PARTNER_16_9_1920_1080.png",Thailand Vs Vietnam
+https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",Stream 1 - 31 Jan 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014625/1769816489071275_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_Landscape_thumb.jpg",Northen Brave vs Canterbury Kings - Final - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014577/1769774745614353_AO26_final_KIA_Arena_30jan_landscape_thumb.jpg",Martin De la Puente vs Tokito Oda - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503618939453_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Rajasthan-Lions_landscape_thumb.jpg",Gurugram Thunders vs Rajasthan Lions - 31 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014272/1769503618939453_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Rajasthan-Lions_landscape_thumb.jpg",Gurugram Thunders vs Rajasthan Lions - 31 Jan 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014647/1769843354622671_AO26_Final_Margaret_Court_Arena_Landscape_thumb.jpg",Martin De la Puente vs Tokito Oda - 31 Jan 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg",Stream 2 - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769886874~acl=/*~id=36811118162729584426783435937244~hmac=20b051bc0342c8be046145201036902ce31737fe33fc1b056b504add9ee63cf6
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769889910~acl=/*~id=08194513431477330703872407359073~hmac=1eac79719f589006885f64a91f559da25c50bd837388cd7d17efdf3ef1255dbe
