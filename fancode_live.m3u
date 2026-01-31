@@ -5,10 +5,10 @@ https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139770_english_hls_0ea4ec86db77405_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139769_CASACARDS_PARTNER_16_9_1920_1080.png",Windward Islands Women Vs Guyana Women
 https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139606_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Vs Fujairah
+https://in-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131040_CASACARDS_PARTNER_16_9_1920_1080.png",Levante Vs Atletico De Madrid
 https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139606_CASACARDS_PARTNER_16_9_1920_1080.png",Fujairah Vs Abu Dhabi
-https://in-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140010_CASACARDS_PARTNER_16_9_1920_1080.png",Cultural Leonesa Vs Deportivo La Coruna
 https://in-mc-fdlive.fancode.com/mumbai/140010_english_hls_d31568c46179077_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140168_CASACARDS_PARTNER_16_9_1920_1080.png",Day 4   Centre Court
@@ -21,21 +21,9 @@ https://in-mc-fdlive.fancode.com/mumbai/140034_english_hls_bc9889b7b389576_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140033_english_hls_97fcdda9ad89287_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140032_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140083_CASACARDS_PARTNER_16_9_1920_1080.png",Pune Panthers Vs Dubai Royals
-https://in-mc-fdlive.fancode.com/mumbai/140083_english_hls_1c689b86ca82425_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140083_CASACARDS_PARTNER_16_9_1920_1080.png",Pune Panthers Vs Dubai Royals
-https://in-mc-fdlive.fancode.com/mumbai/140083_hindi_hls_a398d95df242556_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131048_CASACARDS_PARTNER_16_9_1920_1080.png",Ca Osasuna Vs Villarreal Cf
-https://in-mc-fdlive.fancode.com/mumbai/131048_english_hls_1526422ab378838_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg",Dubai Royals vs Pune Panthers - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769923934~acl=/*~id=04000342358447107372779267410373~hmac=988e52ed714ba6c3c7c9a5faaf7ab4f3babb6716311f1663fb175311e2e74f96
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg",Dubai Royals vs Pune Panthers - 31 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769923934~acl=/*~id=04000342358447107372779267410373~hmac=988e52ed714ba6c3c7c9a5faaf7ab4f3babb6716311f1663fb175311e2e74f96
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140030_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg",Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769923934~acl=/*~id=04000342358447107372779267410373~hmac=988e52ed714ba6c3c7c9a5faaf7ab4f3babb6716311f1663fb175311e2e74f96
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732526010414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_Landscapet_thumb.jpg",Delhi Dangal Warriors vs Maharashtra Kesari - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769923934~acl=/*~id=04000342358447107372779267410373~hmac=988e52ed714ba6c3c7c9a5faaf7ab4f3babb6716311f1663fb175311e2e74f96
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732526010414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_Landscapet_thumb.jpg",Delhi Dangal Warriors vs Maharashtra Kesari - 31 Jan 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769923934~acl=/*~id=04000342358447107372779267410373~hmac=988e52ed714ba6c3c7c9a5faaf7ab4f3babb6716311f1663fb175311e2e74f96
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769926359~acl=/*~id=16107064686660819726548959404333~hmac=d31e680f51c88d784f4b119903a0c00c0104f8f296d7ef9c6b559260c38dc9d6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg",Round 3 - Miami E-Prix - Final Race - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769923934~acl=/*~id=04000342358447107372779267410373~hmac=988e52ed714ba6c3c7c9a5faaf7ab4f3babb6716311f1663fb175311e2e74f96
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769926359~acl=/*~id=16107064686660819726548959404333~hmac=d31e680f51c88d784f4b119903a0c00c0104f8f296d7ef9c6b559260c38dc9d6
