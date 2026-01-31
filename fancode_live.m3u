@@ -5,10 +5,12 @@ https://in-mc-fdlive.fancode.com/mumbai/139771_english_hls_c91209300573504_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139770_english_hls_0ea4ec86db77405_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139769_CASACARDS_PARTNER_16_9_1920_1080.png",Windward Islands Women Vs Guyana Women
 https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139606_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Vs Fujairah
-https://in-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131040_CASACARDS_PARTNER_16_9_1920_1080.png",Levante Vs Atletico De Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131041_CASACARDS_PARTNER_16_9_1920_1080.png",Elche Cf Vs Fc Barcelona
+https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131041_CASACARDS_PARTNER_16_9_1920_1080.png",Elche Cf Vs Fc Barcelona
+https://in-mc-fdlive.fancode.com/mumbai/131041_hindi_hls_79015740d562541_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131041_CASACARDS_PARTNER_16_9_1920_1080.png",Elche Cf Vs Fc Barcelona
+https://in-mc-fdlive.fancode.com/mumbai/131041_bengali_hls_24ab3ffe9d40372_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140010_CASACARDS_PARTNER_16_9_1920_1080.png",Cultural Leonesa Vs Deportivo La Coruna
 https://in-mc-fdlive.fancode.com/mumbai/140010_english_hls_d31568c46179077_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140168_CASACARDS_PARTNER_16_9_1920_1080.png",Day 4   Centre Court
@@ -23,7 +25,5 @@ https://in-mc-fdlive.fancode.com/mumbai/140033_english_hls_97fcdda9ad89287_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140030_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg",Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769929387~acl=/*~id=25418474940400791687268011079139~hmac=4ee7f2c1c28016ee2d9dc748c67a1451feeb5ce2896a1e5212e7759ee44df88a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg",Round 3 - Miami E-Prix - Final Race - 31 Jan 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769929387~acl=/*~id=25418474940400791687268011079139~hmac=4ee7f2c1c28016ee2d9dc748c67a1451feeb5ce2896a1e5212e7759ee44df88a
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769933022~acl=/*~id=80362375033854670495568479321423~hmac=fad7f12fc17c1b4b8f5cc5710fbd07e48201ea4da10ed978f852b8ff9b4d6b3d
