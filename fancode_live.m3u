@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138794_CASACARDS_PARTNER_16_9_1920_1080.png",Auckland Hearts Vs Wellington Blaze
-https://in-mc-fdlive.fancode.com/mumbai/138794_english_hls_b9779fb4e927951_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138762_CASACARDS_PARTNER_16_9_1920_1080.png",Canterbury Vs Northern Districts
+https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140136_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140309_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Table 1
+https://in-mc-fdlive.fancode.com/mumbai/140309_english_hls_56d9655fd950618_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140330_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Table 2
+https://in-mc-fdlive.fancode.com/mumbai/140330_english_hls_801a6b020b28841_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140329_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Table 3
+https://in-mc-fdlive.fancode.com/mumbai/140329_english_hls_4a364dcc6012120_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140328_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1   Table 4
+https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg",Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769877767~acl=/*~id=74734255813788479839960710892828~hmac=13ec21d2cf38aa0ba5b65b56b262c5a85b1ffecc39d60fb386d2c5d8d3147bb9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014624/1769813999455209_AO2026_Landscape_Thumb_Mens_Doubles_Kubler_Polmans_vs_Harrison_Skupsi_SP.jpg",Kubler/Polmans vs Harrison/Skupsi - Final - 31 Jan 2026 [HIN]
