@@ -3,6 +3,20 @@
 https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140084_CASACARDS_PARTNER_16_9_1920_1080.png",Pune Panthers Vs Maharashtra Tycoons
 https://in-mc-fdlive.fancode.com/mumbai/140084_hindi_hls_fcc8bd113b13954_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140092_CASACARDS_PARTNER_16_9_1920_1080.png",West Ham United Women Vs Tottenham Hotspur Women
+https://in-mc-fdlive.fancode.com/mumbai/140092_english_hls_1ed64c692144275_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140095_CASACARDS_PARTNER_16_9_1920_1080.png",Manchester United Women Vs Liverpool Women
+https://in-mc-fdlive.fancode.com/mumbai/140095_english_hls_478b36e9b758365_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140094_CASACARDS_PARTNER_16_9_1920_1080.png",Brighton And Hove Albion Women Vs London City Lionesses
+https://in-mc-fdlive.fancode.com/mumbai/140094_english_hls_3573cc5d9a31083_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140093_CASACARDS_PARTNER_16_9_1920_1080.png",Everton Women Vs Aston Villa Women
+https://in-mc-fdlive.fancode.com/mumbai/140093_english_hls_4d99467a8071875_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131044_CASACARDS_PARTNER_16_9_1920_1080.png",Real Madrid Vs Rayo Vallecano
+https://in-mc-fdlive.fancode.com/mumbai/131044_english_hls_45896cdc5171914_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131044_CASACARDS_PARTNER_16_9_1920_1080.png",Real Madrid Vs Rayo Vallecano
+https://in-mc-fdlive.fancode.com/mumbai/131044_hindi_hls_73e5a3b05a98683_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131044_CASACARDS_PARTNER_16_9_1920_1080.png",Real Madrid Vs Rayo Vallecano
+https://in-mc-fdlive.fancode.com/mumbai/131044_bengali_hls_17f185356e96683_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140310_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Table 1
 https://in-mc-fdlive.fancode.com/mumbai/140310_english_hls_3ee3474aad8037_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140333_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Table 2
@@ -13,19 +27,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140169_CASACARDS_PARTNER_16_9_1920_1080.png",Day 5   Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg",Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg",Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg",Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721599881157_DPworldtour_Bahrain_Championship_day4_28jan_live_landscape_thumb_re1.jpg",Bahrain Championship Day 4 - 1 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769988155~acl=/*~id=80480904838285388566948782536034~hmac=69de01ada98010bdd5a708d386a862ca37fc7e2aca747b23248c778e6b34c7da
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139904_CASACARDS_PARTNER_16_9_1920_1080.png",Ir Iran Vs Afghanistan
+https://in-mc-fdlive.fancode.com/mumbai/139904_english_hls_a9958dde5c92325_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139903_CASACARDS_PARTNER_16_9_1920_1080.png",Saudi Arabia Vs Malaysia
+https://in-mc-fdlive.fancode.com/mumbai/139903_english_hls_1bf09555e719079_1ta-di_h264/index.m3u8
