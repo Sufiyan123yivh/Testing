@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139293_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Vs England
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131042_CASACARDS_PARTNER_16_9_1920_1080.png",Getafe Cf Vs Rc Celta
 https://in-mc-fdlive.fancode.com/mumbai/131042_english_hls_d43feb481f87670_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139833_CASACARDS_PARTNER_16_9_1920_1080.png",Al Ittihad Vs Al Najmah Sc
