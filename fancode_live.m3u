@@ -3,6 +3,8 @@
 https://in-mc-fdlive.fancode.com/mumbai/139245_english_hls_278f26aeba82824_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139244_CASACARDS_PARTNER_16_9_1920_1080.png",Bangladesh Women Vs Netherlands Women
 https://in-mc-fdlive.fancode.com/mumbai/139244_english_hls_515354912e6599_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139401_CASACARDS_PARTNER_16_9_1920_1080.png",Central Coast Mariners Vs Melbourne Victory
+https://in-mc-fdlive.fancode.com/mumbai/139401_english_hls_afc10071ed44323_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140137_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140137_english_hls_522d87a71977305_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140310_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Table 1
@@ -13,13 +15,5 @@ https://in-mc-fdlive.fancode.com/mumbai/140333_english_hls_518e0f687f63025_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140331_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2   Table 4
 https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg", UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg", UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg", UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014568/1769771921646971_UFC_325_landscape_thumb.jpg", UFC 325 - Volkanovski vs Lopes - 1 Feb 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg",Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769961471~acl=/*~id=50290075751723348102044923967605~hmac=0a893504a87477f4328fd0ba14ca20304bb6b2ab60f789026b49f19057c6483f
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769966923~acl=/*~id=03731262091597369402659743589234~hmac=7a9458274a747476ce25f36b5860de3c908343a26b3a9a76421e517415e443a4
