@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139610_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Vs Fujairah
-https://in-mc-fdlive.fancode.com/mumbai/139610_english_hls_533e49f5f270883_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139835_CASACARDS_PARTNER_16_9_1920_1080.png",Al Hilal Sfc Vs Al Ahli Saudi Fc
-https://in-mc-fdlive.fancode.com/mumbai/139835_english_hls_cc21e70f5045921_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140180_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1
-https://in-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133974_CASACARDS_PARTNER_16_9_1920_1080.png",New South Wales Breakers Vs Queensland Fire
+https://in-mc-fdlive.fancode.com/mumbai/133974_english_hls_12c298881216202_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139169_CASACARDS_PARTNER_16_9_1920_1080.png",Atlanta Vs Jupiter
+https://in-mc-fdlive.fancode.com/mumbai/139169_english_hls_693c2d829446032_1ta-di_h264/index.m3u8
