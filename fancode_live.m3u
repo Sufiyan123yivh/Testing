@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139294_CASACARDS_PARTNER_16_9_1920_1080.png",England Vs Sri Lanka
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140089_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Royals Vs Delhi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140089_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Royals Vs Delhi Warriors
 https://in-mc-fdlive.fancode.com/mumbai/140089_hindi_hls_526a536c2444546_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139613_CASACARDS_PARTNER_16_9_1920_1080.png",Emirates Red Vs Ajman
-https://in-mc-fdlive.fancode.com/mumbai/139613_english_hls_999a79802f8436_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139614_CASACARDS_PARTNER_16_9_1920_1080.png",Emirates Blues Vs Abu Dhabi
+https://in-mc-fdlive.fancode.com/mumbai/139614_english_hls_ca89ff10fd58686_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140181_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749435142553_SLvsENG26_3t20i_30jan_landscape_thumb.jpg",3rd T20I - 3 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1770181398~acl=/*~id=90925498580813928525937630255777~hmac=071cd731bfc75e435fcb71eab6609a8d15c5557167d3439de3a0dd43dcc21622
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177006016894319_WLP26_semifinal_delhi_vs_dubai_3feb_landscape_thumb.jpg",Dubai Royals vs Delhi Warriors - SF - 3 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770181398~acl=/*~id=90925498580813928525937630255777~hmac=071cd731bfc75e435fcb71eab6609a8d15c5557167d3439de3a0dd43dcc21622
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770185041~acl=/*~id=79081647263322975363151459903113~hmac=ec8f1a0256c71154e9d3943e15d031a6071a01b81bffe7f94daeef759ffa0b9b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177006016894319_WLP26_semifinal_delhi_vs_dubai_3feb_landscape_thumb.jpg",Dubai Royals vs Delhi Warriors - SF - 3 Feb 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770181398~acl=/*~id=90925498580813928525937630255777~hmac=071cd731bfc75e435fcb71eab6609a8d15c5557167d3439de3a0dd43dcc21622
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014730/1769947364481742_WPL26_Delhi_vs_Pune_1feb_landscape_thumb.jpg",Dilli Dilwale vs Pune United - 3 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770181398~acl=/*~id=90925498580813928525937630255777~hmac=071cd731bfc75e435fcb71eab6609a8d15c5557167d3439de3a0dd43dcc21622
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770185041~acl=/*~id=79081647263322975363151459903113~hmac=ec8f1a0256c71154e9d3943e15d031a6071a01b81bffe7f94daeef759ffa0b9b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014781/177003646252030_UYL2526_RD32_Chelsea-vs-PSV_landscape_thumb.jpg",Chelsea vs PSV - 3 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770181398~acl=/*~id=90925498580813928525937630255777~hmac=071cd731bfc75e435fcb71eab6609a8d15c5557167d3439de3a0dd43dcc21622
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770185041~acl=/*~id=79081647263322975363151459903113~hmac=ec8f1a0256c71154e9d3943e15d031a6071a01b81bffe7f94daeef759ffa0b9b
