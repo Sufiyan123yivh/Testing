@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139614_CASACARDS_PARTNER_16_9_1920_1080.png",Emirates Blues Vs Abu Dhabi
 https://in-mc-fdlive.fancode.com/mumbai/139614_english_hls_ca89ff10fd58686_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138998_CASACARDS_PARTNER_16_9_1920_1080.png",Bayer 04 Leverkusen Vs Fc St. Pauli
+https://in-mc-fdlive.fancode.com/mumbai/138998_english_hls_e1e232f00268879_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140049_CASACARDS_PARTNER_16_9_1920_1080.png",Albacete Vs Fc Barcelona
+https://in-mc-fdlive.fancode.com/mumbai/140049_english_hls_7709513a3d81475_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140181_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014781/177003646252030_UYL2526_RD32_Chelsea-vs-PSV_landscape_thumb.jpg",Chelsea vs PSV - 3 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770188676~acl=/*~id=38339018105780604612695149436300~hmac=e9dc98e9fb338b365b19fad4eb7cce2e378501e2503ffac1bc75b29d057ab399
