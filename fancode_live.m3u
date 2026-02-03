@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139614_CASACARDS_PARTNER_16_9_1920_1080.png",Emirates Blues Vs Abu Dhabi
-https://in-mc-fdlive.fancode.com/mumbai/139614_english_hls_ca89ff10fd58686_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138998_CASACARDS_PARTNER_16_9_1920_1080.png",Bayer 04 Leverkusen Vs Fc St. Pauli
 https://in-mc-fdlive.fancode.com/mumbai/138998_english_hls_e1e232f00268879_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139213_CASACARDS_PARTNER_16_9_1920_1080.png",Arsenal Vs Chelsea
+https://in-mc-fdlive.fancode.com/mumbai/139213_english_hls_ccc058253d46683_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140049_CASACARDS_PARTNER_16_9_1920_1080.png",Albacete Vs Fc Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/140049_english_hls_7709513a3d81475_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140181_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2
