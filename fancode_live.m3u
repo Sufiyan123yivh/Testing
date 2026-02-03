@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140088_CASACARDS_PARTNER_16_9_1920_1080.png",Rajasthan Lions Vs Pune Panthers
-https://in-mc-fdlive.fancode.com/mumbai/140088_english_hls_36901c014c76059_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140088_CASACARDS_PARTNER_16_9_1920_1080.png",Rajasthan Lions Vs Pune Panthers
-https://in-mc-fdlive.fancode.com/mumbai/140088_hindi_hls_87fa920cb262242_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139294_CASACARDS_PARTNER_16_9_1920_1080.png",England Vs Sri Lanka
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140089_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Royals Vs Delhi Warriors
+https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140089_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Royals Vs Delhi Warriors
+https://in-mc-fdlive.fancode.com/mumbai/140089_hindi_hls_526a536c2444546_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139612_CASACARDS_PARTNER_16_9_1920_1080.png",Abu Dhabi Vs Sharjah
 https://in-mc-fdlive.fancode.com/mumbai/139612_english_hls_1b3dc5177883817_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139908_CASACARDS_PARTNER_16_9_1920_1080.png",Indonesia Vs Vietnam
-https://in-mc-fdlive.fancode.com/mumbai/139908_english_hls_af696b242c48299_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140181_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2
+https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749435142553_SLvsENG26_3t20i_30jan_landscape_thumb.jpg",3rd T20I - 3 Feb 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1770170453~acl=/*~id=60183548941697935232033667668246~hmac=f11323954f0f36063e3717d503bcb2724fd220a7e66af95621e8eb2e5a7718cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014795/177006016894319_WLP26_semifinal_delhi_vs_dubai_3feb_landscape_thumb.jpg",Dubai Royals vs Delhi Warriors - SF - 3 Feb 2026 [ENG]
