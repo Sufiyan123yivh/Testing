@@ -1,4 +1,4 @@
-name: Update Zee5 m3u Token
+name: Update Zee5 m3u Token & Cookie
 
 on:
   workflow_dispatch:
@@ -27,9 +27,9 @@ jobs:
             echo "❌ JSON URL secret missing"
             exit 1
           fi
-
           curl -fsSL "$JSON_URL" -o data.json
 
+      # 🔑 Extract HDNTL token
       - name: Extract HDNTL token
         run: |
           TOKEN=$(jq -r '
@@ -47,25 +47,40 @@ jobs:
           echo "TOKEN=$TOKEN" >> $GITHUB_ENV
           echo "✅ Token extracted"
 
-      - name: Update Zee5.m3u URLs
+      # 🍪 Extract Cookie from existing M3U
+      - name: Extract Cookie from Zee5.m3u
         run: |
-          FILE="Zee5.m3u"
+          COOKIE=$(grep -oE 'hdntl=[^&"]+' Zee5.m3u | head -n 1)
 
-          if [ ! -f "$FILE" ]; then
-            echo "❌ Zee5.m3u not found"
+          if [ -z "$COOKIE" ]; then
+            echo "❌ Cookie not found in m3u"
             exit 1
           fi
 
-          # Remove old token
+          echo "COOKIE=$COOKIE" >> $GITHUB_ENV
+          echo "✅ Cookie extracted"
+
+      # ✏️ Update M3U (URL + Cookie)
+      - name: Update Zee5.m3u URLs & Cookie
+        run: |
+          FILE="Zee5.m3u"
+
+          # Remove old cookie lines
+          sed -i '/#EXTVLCOPT:http-cookie=/d' "$FILE"
+
+          # Remove old hdntl from URLs
           sed -i -E 's/[&?]hdntl=[^&]+//g' "$FILE"
 
-          # Append new token correctly
+          # Insert cookie BEFORE each Zee5 URL
+          sed -i -E "/^https:\/\/z5ak-cmaflive\.zee5\.com/i #EXTVLCOPT:http-cookie=$COOKIE" "$FILE"
+
+          # Append fresh token to URLs
           sed -i -E "/^https:\/\/z5ak-cmaflive\.zee5\.com/ {
-            /\\?/ s/$/&\\&$TOKEN/
-            /\\?/! s/$/?$TOKEN/
+            /\?/ s/$/&\\&$TOKEN/
+            /\?/! s/$/?$TOKEN/
           }" "$FILE"
 
-          echo "✅ Zee5.m3u updated"
+          echo "✅ Zee5.m3u updated with token + cookie"
 
       - name: Commit & push
         run: |
@@ -73,5 +88,5 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add Zee5.m3u
-          git commit -m "Auto-update Zee5 HDNTL token" || exit 0
+          git commit -m "Auto-update Zee5 HDNTL token & cookie" || exit 0
           git push
