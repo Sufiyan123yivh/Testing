@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138999_CASACARDS_PARTNER_16_9_1920_1080.png",Holstein Kiel Vs Vfb Stuttgart
-https://in-mc-fdlive.fancode.com/mumbai/138999_english_hls_2be261c74f1911_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139214_CASACARDS_PARTNER_16_9_1920_1080.png",Manchester City Vs Newcastle United
-https://in-mc-fdlive.fancode.com/mumbai/139214_english_hls_3cf812f3c491585_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140051_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Athletic Club
-https://in-mc-fdlive.fancode.com/mumbai/140051_english_hls_c43dc2c92166856_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140048_CASACARDS_PARTNER_16_9_1920_1080.png",Deportivo Alaves Vs Real Sociedad
-https://in-mc-fdlive.fancode.com/mumbai/140048_english_hls_b0c51a19f343716_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140182_CASACARDS_PARTNER_16_9_1920_1080.png",Day 3
-https://in-mc-fdlive.fancode.com/mumbai/140182_english_hls_821a6fd6d296542_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/default-logo.png",No Live Matches Right Now
+
