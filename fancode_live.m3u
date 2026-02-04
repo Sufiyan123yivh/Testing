@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139615_CASACARDS_PARTNER_16_9_1920_1080.png",Sharjah Vs Dubai
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139615_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Vs Sharjah
 https://in-mc-fdlive.fancode.com/mumbai/139615_english_hls_c235c6b89874999_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140319_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1
-https://in-mc-fdlive.fancode.com/mumbai/140319_english_hls_29bbe4b83322381_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140343_CASACARDS_PARTNER_16_9_1920_1080.png",Quarter   Finals
-https://in-mc-fdlive.fancode.com/mumbai/140343_english_hls_3a43a5d1da78053_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014730/1769947463075742_WPL26_Bengaluru_vs_Jaipur_1feb_landscape_thumb.jpg",Bengaluru Jawans vs Rajasthan Titans - 4 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770251167~acl=/*~id=38173513211305926117679215932542~hmac=9252ef8c8e7795a8f2badb08c57b8f09555e38b2802f380ab8fbd18b9cc65520
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014798/177006281679271_UYL2526_RD32_Legia_vs_Ajax_3feb_landscape_thumb.jpg",Legia vs Ajax - 4 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770251167~acl=/*~id=38173513211305926117679215932542~hmac=9252ef8c8e7795a8f2badb08c57b8f09555e38b2802f380ab8fbd18b9cc65520
