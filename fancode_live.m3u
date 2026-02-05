@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140050_CASACARDS_PARTNER_16_9_1920_1080.png",Real Betis Vs Atletico De Madrid
-https://in-mc-fdlive.fancode.com/mumbai/140050_english_hls_c1422665e261745_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140018_CASACARDS_PARTNER_16_9_1920_1080.png",Accrington Stanley Vs Salford City
-https://in-mc-fdlive.fancode.com/mumbai/140018_english_hls_4f85022c5680141_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140392_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140392_english_hls_243402493641753_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140394_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 1
