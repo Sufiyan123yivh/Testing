@@ -1,9 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139625_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Vs Abu Dhabi
 https://in-mc-fdlive.fancode.com/mumbai/139625_english_hls_bf28bdac6590850_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140322_CASACARDS_PARTNER_16_9_1920_1080.png",Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140322_english_hls_7871d97b5914503_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140097_CASACARDS_PARTNER_16_9_1920_1080.png",Leicester City Women Vs Manchester United Women
+https://in-mc-fdlive.fancode.com/mumbai/140097_english_hls_b2e6c9aeaa14459_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139349_CASACARDS_PARTNER_16_9_1920_1080.png",Derby County Football Club Vs Ipswich Town F.c.
+https://in-mc-fdlive.fancode.com/mumbai/139349_english_hls_87f2ca2be534292_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140391_CASACARDS_PARTNER_16_9_1920_1080.png",Motogp Launch
 https://in-mc-fdlive.fancode.com/mumbai/140391_english_hls_336c66184870565_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139911_CASACARDS_PARTNER_16_9_1920_1080.png",Indonesia Vs Ir Iran
+https://in-mc-fdlive.fancode.com/mumbai/139911_english_hls_1ac8cc7f696053_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014934/1770407266663489_WPL26_SF_Chennai_vs_Pune_7feb_landscape_thumb.jpg",Chennai Super Champs vs Pune United - Semi-final - 7 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509823~acl=/*~id=97399691695524301717134598732013~hmac=ba5373a3ced2292d1accfddc024b62dbfd5b3d4b6fb2d20719149ec0e6c228e1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014812/1770116879810170_DPworld_tour_Qatar_Masters_Day3_3feb_landscape_thumb.jpg",Qatar Masters Day 3 - 7 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770505583~acl=/*~id=27162001105581940110839496160272~hmac=3182abc8a2204eb41ca2f65402d0bdc55eb970670b08eb71e34b19896a376f8e
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509823~acl=/*~id=97399691695524301717134598732013~hmac=ba5373a3ced2292d1accfddc024b62dbfd5b3d4b6fb2d20719149ec0e6c228e1
