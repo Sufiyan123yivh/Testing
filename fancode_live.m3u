@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139627_CASACARDS_PARTNER_16_9_1920_1080.png",Dubai Vs Emirates Blues
-https://in-mc-fdlive.fancode.com/mumbai/139627_english_hls_23272e2cc330389_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139838_CASACARDS_PARTNER_16_9_1920_1080.png",Al Qadsiah Fc Vs Al Fateh Sc
 https://in-mc-fdlive.fancode.com/mumbai/139838_english_hls_e237c378da89293_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140292_CASACARDS_PARTNER_16_9_1920_1080.png",Celtic Vs Dundee United
@@ -14,4 +12,4 @@ https://in-mc-fdlive.fancode.com/mumbai/140400_english_hls_a56339df1961977_1ta-d
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140399_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140399_english_hls_e45485f74999421_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014298/1769513352954875_Bundesliga_2025_26_Borussia-Mgladbach-vs-Bayer-Leverkusen_landscape_thumb.jpg",Borussia M'gladbach vs Bayer Leverkusen - MD 21 - 7 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770531070~acl=/*~id=99604877767829930864215258516759~hmac=58c125629ebbc735673da00a9b6c73ab617ff093003c47b9220bae3341327591
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770533495~acl=/*~id=71830607748662476574616701974043~hmac=f11b41aee3b026eb1bfa4bd5780d48aa5091ddb8bc1f452d8f741566a25229a2
