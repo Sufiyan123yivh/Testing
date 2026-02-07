@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131051_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad Vs Elche Cf
 https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140292_CASACARDS_PARTNER_16_9_1920_1080.png",Celtic Vs Dundee United
-https://in-mc-fdlive.fancode.com/mumbai/140292_english_hls_e6dfa2386431004_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140398_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140398_english_hls_91225f39e443096_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140042_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 3
