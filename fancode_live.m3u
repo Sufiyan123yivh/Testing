@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140401_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140401_english_hls_8219ba135b71627_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140043_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/140043_english_hls_d8dd9655ac63389_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140403_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/140403_english_hls_4c21942d2238373_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131054_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131054_english_hls_6113cfa2ad24373_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131054_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131054_hindi_hls_86533b8c4a88679_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131054_CASACARDS_PARTNER_16_9_1920_1080.png",Valencia Cf Vs Real Madrid
-https://in-mc-fdlive.fancode.com/mumbai/131054_bengali_hls_425d68c15069094_1ta-di_h264/index.m3u8
