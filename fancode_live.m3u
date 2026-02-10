@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133943_CASACARDS_PARTNER_16_9_1920_1080.png",South Australia Vs New South Wales
-https://in-mc-fdlive.fancode.com/mumbai/133943_english_hls_9eed4fb7a459528_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133945_CASACARDS_PARTNER_16_9_1920_1080.png",Tasmania Vs Western Australia
+https://in-mc-fdlive.fancode.com/mumbai/133945_english_hls_a1fc7b8e5440632_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140316_CASACARDS_PARTNER_16_9_1920_1080.png",Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140316_english_hls_30686eed2f55810_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140325_CASACARDS_PARTNER_16_9_1920_1080.png",Day 7
+https://in-mc-fdlive.fancode.com/mumbai/140325_english_hls_7127e52b4197504_1ta-di_h264/index.m3u8
