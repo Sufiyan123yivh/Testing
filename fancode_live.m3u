@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136083_CASACARDS_PARTNER_16_9_1920_1080.png",Tractor Vs Al Sadd
-https://in-mc-fdlive.fancode.com/mumbai/136083_english_hls_045a2f283a32769_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136084_CASACARDS_PARTNER_16_9_1920_1080.png",Al Ittihad Vs Al Gharafa
 https://in-mc-fdlive.fancode.com/mumbai/136084_english_hls_bcb9fc0b8627697_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140053_CASACARDS_PARTNER_16_9_1920_1080.png",Al Zawraa Sc Vs Al Wasl
-https://in-mc-fdlive.fancode.com/mumbai/140053_english_hls_477d39d9e282160_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140543_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-fdlive.fancode.com/mumbai/140543_english_hls_f65455d4a422900_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140542_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140542_english_hls_647ee1df7834456_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140544_CASACARDS_PARTNER_16_9_1920_1080.png",Court 1
-https://in-mc-fdlive.fancode.com/mumbai/140544_english_hls_53771c29ef75606_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140202_CASACARDS_PARTNER_16_9_1920_1080.png",Cancha Guillermo Vilas
 https://in-mc-fdlive.fancode.com/mumbai/140202_english_hls_162ef3e0251699_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140188_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
@@ -19,3 +13,5 @@ https://in-mc-fdlive.fancode.com/mumbai/140188_english_hls_5f6303a72247765_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140533_english_hls_469c4ff14350522_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140532_CASACARDS_PARTNER_16_9_1920_1080.png",Grandstand
 https://in-mc-fdlive.fancode.com/mumbai/140532_english_hls_84aec1c2ec1801_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139000_CASACARDS_PARTNER_16_9_1920_1080.png",Hertha Bsc Vs Sc Freiburg
+https://in-mc-fdlive.fancode.com/mumbai/139000_english_hls_1da02b1cf413076_1ta-di_h264/index.m3u8
