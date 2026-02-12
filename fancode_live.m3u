@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140196_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
-https://in-mc-fdlive.fancode.com/mumbai/140196_english_hls_78b42dfd6d20454_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140546_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
-https://in-mc-fdlive.fancode.com/mumbai/140546_english_hls_e5a2632a2547381_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140203_CASACARDS_PARTNER_16_9_1920_1080.png",Cancha Guillermo Vilas
 https://in-mc-fdlive.fancode.com/mumbai/140203_english_hls_f0b6abb8c918757_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140189_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
