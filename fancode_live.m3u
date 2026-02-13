@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131065_CASACARDS_PARTNER_16_9_1920_1080.png",Elche Cf Vs Ca Osasuna
-https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140420_CASACARDS_PARTNER_16_9_1920_1080.png",Almería Vs Fc Andorra
 https://in-mc-fdlive.fancode.com/mumbai/140420_english_hls_5e5b60976a84494_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140198_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
@@ -25,9 +23,5 @@ https://in-mc-fdlive.fancode.com/mumbai/140626_english_hls_1c0b3a43136357_1ta-di
 https://india-mpv2.fancode.com/out/v1/ap-south-1/140045_english_847333/ad-h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140640_CASACARDS_PARTNER_16_9_1920_1080.png",Grandstand
 https://in-mc-fdlive.fancode.com/mumbai/140640_english_hls_82b355eb0690566_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014851/1769599808040891_FA_26_RD4_Hull-City-vs-Chelsea_Landscape_thumb.jpg",Hull City vs Chelsea - RD 4 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771059379~acl=/*~id=90965718110401552153133417945517~hmac=96205a7edb344a87493e9f920fd69169eafccdbdaacb3e1995d7b1b1a91948c4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014570/1769744927244133_Bundesliga_2025_26_Borussia-Dortmund-vs-Mainz_landscape_thumb.jpg",Borussia Dortmund vs Mainz - MD 22 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771059379~acl=/*~id=90965718110401552153133417945517~hmac=96205a7edb344a87493e9f920fd69169eafccdbdaacb3e1995d7b1b1a91948c4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014851/1769600466200891_FA_26_RD4_Wrexham-vs-Ipswich-Town_Landscape_thumb.jpg",Wrexham vs Ipswich Town - RD 4 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771059379~acl=/*~id=90965718110401552153133417945517~hmac=96205a7edb344a87493e9f920fd69169eafccdbdaacb3e1995d7b1b1a91948c4
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131065_CASACARDS_PARTNER_16_9_1920_1080.png",Elche Cf Vs Ca Osasuna
+https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8
