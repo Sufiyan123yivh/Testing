@@ -5,7 +5,9 @@ https://in-mc-fdlive.fancode.com/mumbai/139839_english_hls_78f74167a46056_1ta-di
 https://in-mc-fdlive.fancode.com/mumbai/140198_english_hls_ec741f5b8189351_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140549_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-fdlive.fancode.com/mumbai/140549_english_hls_3bd94c769f36_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139560_CASACARDS_PARTNER_16_9_1920_1080.png",Day 3
-https://india-mpv2.fancode.com/out/v1/ap-south-1/139560_english_422888/ad-h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140205_CASACARDS_PARTNER_16_9_1920_1080.png",Cancha Guillermo Vilas
 https://in-mc-fdlive.fancode.com/mumbai/140205_english_hls_19519daa2163100_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140628_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/140628_english_hls_b717d6d84760625_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770322663392886_ABBFIAFormulaE_WC26_Round4_JeddahEPrix_final_Race_6feb_landscape_thumb.jpg",Round 4 - Jeddah E-Prix - Final Race - 13 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771042361~acl=/*~id=59573739356426870449851829665146~hmac=fab4d246eecef81b6f2e4c3c658fcf915b827cb9c602689c785968d0c528eb73
