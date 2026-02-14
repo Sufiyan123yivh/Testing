@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131066_CASACARDS_PARTNER_16_9_1920_1080.png",Getafe Cf Vs Villarreal Cf
-https://in-mc-fdlive.fancode.com/mumbai/131066_english_hls_2d6844f86d289_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131069_CASACARDS_PARTNER_16_9_1920_1080.png",Sevilla Fc Vs Deportivo Alaves
+https://in-mc-fdlive.fancode.com/mumbai/131069_english_hls_3c3d17956850231_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139841_CASACARDS_PARTNER_16_9_1920_1080.png",Al Fateh Sc Vs Al Nassr Fc
+https://in-mc-fdlive.fancode.com/mumbai/139841_english_hls_eda4c6d78916594_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140422_CASACARDS_PARTNER_16_9_1920_1080.png",Cultural Leonesa Vs Real Zaragoza
+https://in-mc-fdlive.fancode.com/mumbai/140422_english_hls_594582afaa50388_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140199_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140199_english_hls_b3b0381ce037542_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140550_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
@@ -15,19 +19,13 @@ https://in-mc-fdlive.fancode.com/mumbai/140630_english_hls_cbb1fa1ed813908_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140629_english_hls_a9a3d2de9a7468_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140631_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140631_english_hls_57123f7b4386739_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139355_CASACARDS_PARTNER_16_9_1920_1080.png",Derby County Football Club Vs Swansea City A.f.c.
-https://in-mc-fdlive.fancode.com/mumbai/139355_english_hls_c70c300cfd81987_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131069_CASACARDS_PARTNER_16_9_1920_1080.png",Sevilla Fc Vs Deportivo Alaves
-https://in-mc-fdlive.fancode.com/mumbai/131069_english_hls_3c3d17956850231_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770201192021737_FA_26_RD4_Manchester-City-vs-Salford-City_Landscape_thumb.jpg",Manchester City vs Salford City - Round 4 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771130538~acl=/*~id=32161095964350684900712439162501~hmac=f66c9f1967224f620184eef755eb76510f7a462138905b3532cfe49f88dd1114
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131066_CASACARDS_PARTNER_16_9_1920_1080.png",Getafe Cf Vs Villarreal Cf
+https://in-mc-fdlive.fancode.com/mumbai/131066_english_hls_2d6844f86d289_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120540861332_FA_26_RD4_Southampton-vs-Leicester-City_Landscape_thumb.jpg",Southampton vs Leicester City - Round 4 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771130538~acl=/*~id=32161095964350684900712439162501~hmac=f66c9f1967224f620184eef755eb76510f7a462138905b3532cfe49f88dd1114
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770118413468332_FA_26_RD4_Norwich-City-vs-West-Bromwich-Albion_Landscape_thumb.jpg",Norwich City vs West Bromwich Albion - Round 4 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771130538~acl=/*~id=32161095964350684900712439162501~hmac=f66c9f1967224f620184eef755eb76510f7a462138905b3532cfe49f88dd1114
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015105/1770908747913609_facup26_RD4_Burnley_vs_Mansfield_12feb_Landscape_thumb.jpg",Burnley vs Mansfield - Round 4 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771130538~acl=/*~id=32161095964350684900712439162501~hmac=f66c9f1967224f620184eef755eb76510f7a462138905b3532cfe49f88dd1114
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014928/1770392391869745_Bundesliga_2025_26_HamburgSV_vs_Union_Berlin_landscape_thumb.jpg",Hamburger SV vs Union Berlin - MD 22 - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771130538~acl=/*~id=32161095964350684900712439162501~hmac=f66c9f1967224f620184eef755eb76510f7a462138905b3532cfe49f88dd1114
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014570/1769773500816133_Bundesliga_2025_26_VfB-Stuttgart-vs-FC-Koln_landscape_thumb.jpg",VfB Stuttgart vs FC Koln - MD 22 - 14 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770323461375886_ABBFIAFormulaE_WC26_Round5_JeddahEPrix_final_Race_6feb_landscape_thumb.jpg",Round 5 - Jeddah E-Prix - Final Race - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771130538~acl=/*~id=32161095964350684900712439162501~hmac=f66c9f1967224f620184eef755eb76510f7a462138905b3532cfe49f88dd1114
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8
