@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140191_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
-https://in-mc-fdlive.fancode.com/mumbai/140191_english_hls_bb4a0cd38111838_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140538_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court
-https://in-mc-fdlive.fancode.com/mumbai/140538_english_hls_abde6fad6b18281_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139410_CASACARDS_PARTNER_16_9_1920_1080.png",Melbourne Victory Vs Brisbane Roar
+https://in-mc-fdlive.fancode.com/mumbai/139410_english_hls_0167d6f73770914_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140605_CASACARDS_PARTNER_16_9_1920_1080.png",Day 3
 https://in-mc-fdlive.fancode.com/mumbai/140605_english_hls_0e3b993a4574255_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015144/1770990739877516_ACC_Malaysia_Women_vs_Thailand_Women_Landscape_thumb.jpg",Malaysia Women vs Thailand Women - 14 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771090499~acl=/*~id=06108609410372537154611616437266~hmac=a81d5d319fd676cc3ec10159b9937fc6b6fe6f724232fb914b055bb95f616133
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015146/1770991979351685_ACC_bangladesh_Women_vs_sri_lanka_Women_landscape_thumb.jpg",Bangladesh A Women vs Sri Lanka A Women - 14 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691
