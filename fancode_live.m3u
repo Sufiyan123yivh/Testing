@@ -7,11 +7,9 @@ https://in-mc-fdlive.fancode.com/mumbai/140615_english_hls_14d520d75750282_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140642_english_hls_c700c4eccd7171_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140606_CASACARDS_PARTNER_16_9_1920_1080.png",Day 4
 https://in-mc-fdlive.fancode.com/mumbai/140606_english_hls_2934273f9e52001_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770193460091737_FA_26_RD4_Stoke-City-vs-Fulham_Landscape_thumb.jpg",Stoke City vs Fulham - Round 4 - 15 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771211194~acl=/*~id=68641849913542951896606819409023~hmac=4c68c1389f2e58332391738169cc26e16a8ae25ea2164dda277ac5a64073d266
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770190194406737_FA_26_RD4_Oxford-United-vs-Sunderland_Landscape_thumb.jpg",Oxford United vs Sunderland - Round 4 - 15 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771211194~acl=/*~id=68641849913542951896606819409023~hmac=4c68c1389f2e58332391738169cc26e16a8ae25ea2164dda277ac5a64073d266
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770189864427737_FA_26_RD4_Grimsby-Town-vs-Wolverhampton-Wanderers_Landscape_thumb.jpg",Grimsby Town vs Wolverhampton Wanderers - Round 4 - 15 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771211194~acl=/*~id=68641849913542951896606819409023~hmac=4c68c1389f2e58332391738169cc26e16a8ae25ea2164dda277ac5a64073d266
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770193915349737_FA_26_RD4_Arsenal-vs-Wigan-Athletic_Landscape_thumb.jpg",Arsenal vs Wigan Athletic - Round 4 - 15 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771214838~acl=/*~id=56266379604804854741793609935509~hmac=559f99d134fb12818b31e580776fd4f029588a2765a9483cf697b1969027793f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014570/1769773812072133_Bundesliga_2025_26_RB-Leipzig-vs-VfL-Wolfsburg_landscape_thumb.jpg",RB Leipzig vs VfL Wolfsburg - MD 22 - 15 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771214838~acl=/*~id=56266379604804854741793609935509~hmac=559f99d134fb12818b31e580776fd4f029588a2765a9483cf697b1969027793f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014570/1769773690388133_Bundesliga_2025_26_FC-Augsburg-vs-Heidenheim_landscape_thumb.jpg",FC Augsburg vs Heidenheim - MD 22 - 15 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771211194~acl=/*~id=68641849913542951896606819409023~hmac=4c68c1389f2e58332391738169cc26e16a8ae25ea2164dda277ac5a64073d266
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771214838~acl=/*~id=56266379604804854741793609935509~hmac=559f99d134fb12818b31e580776fd4f029588a2765a9483cf697b1969027793f
