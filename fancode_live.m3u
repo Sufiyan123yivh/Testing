@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139561_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1
-https://india-mpv2.fancode.com/out/v1/ap-south-1/139561_english_571505/ad-h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140658_CASACARDS_PARTNER_16_9_1920_1080.png",Van Der Stel Cricket Club Vs Maties Cricket Club
+https://in-mc-flive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140210_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-plive.fancode.com/mumbai/140210_english_hls_9121eccdb618683_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140745_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140745_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court
 https://in-mc-flive.fancode.com/mumbai/140745_english_hls_ebf6c65e0675571_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140744_CASACARDS_PARTNER_16_9_1920_1080.png",Grandstand 1
 https://in-mc-flive.fancode.com/mumbai/140744_english_hls_c20d98980124459_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140746_CASACARDS_PARTNER_16_9_1920_1080.png",Grandstand 2
 https://in-mc-flive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140297_CASACARDS_PARTNER_16_9_1920_1080.png",Court A Feed
+https://in-mc-flive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8
