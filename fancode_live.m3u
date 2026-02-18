@@ -11,3 +11,11 @@ https://in-mc-flive.fancode.com/mumbai/140744_english_hls_c20d98980124459_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140297_CASACARDS_PARTNER_16_9_1920_1080.png",Court A Feed
 https://in-mc-flive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308791689111_UCL26_Playoffs_Leg1_Qarabag_vs_Newcastle_16feb_eng_landscape_thumb.jpg",FK Qarabag vs Newcastle United - Play-offs Leg 1 - 18 Feb 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771479191~acl=/*~id=16248330724686749458853521472898~hmac=bfd26889324446ba7e257bce528667a3caaacd2662da8a1e1c544365b98023f9
