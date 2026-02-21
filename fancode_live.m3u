@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140699_CASACARDS_PARTNER_16_9_1920_1080.png",Al Nassr Fc Vs Al Hazem Fc
-https://in-mc-plive.fancode.com/mumbai/140699_english_hls_f68efcb4a190297_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140698_CASACARDS_PARTNER_16_9_1920_1080.png",Al Hilal Sfc Vs Al Ittihad
-https://in-mc-plive.fancode.com/mumbai/140698_english_hls_81f4657f403863_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140574_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
 https://in-mc-plive.fancode.com/mumbai/140574_english_hls_e219ac7cc959228_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140572_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
