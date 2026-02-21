@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133947_CASACARDS_PARTNER_16_9_1920_1080.png",Tasmania Vs New South Wales
-https://dai.google.com/linear/hls/event/KaxUXH1iST-40L-2ePgQGw/master.m3u8
+https://dai.google.com/linear/hls/event/6h1jE-CYQI-tNp7M_z3qzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133948_CASACARDS_PARTNER_16_9_1920_1080.png",Victoria Vs Western Australia
-https://dai.google.com/linear/hls/event/J5QuinfXSmiPfUf2O5q0PQ/master.m3u8
+https://dai.google.com/linear/hls/event/OylFDK9YT9Op_7SB31SzAg/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140678_CASACARDS_PARTNER_16_9_1920_1080.png",Paarl East Cricket Club Vs Paarl Cc
+https://in-mc-plive.fancode.com/mumbai/140678_english_hls_6141da286025496_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139414_CASACARDS_PARTNER_16_9_1920_1080.png",Sydney Fc Vs Brisbane Roar
 https://in-mc-plive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140289_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
-https://in-mc-plive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401562482586_DP_World_Tour_Magical_Kenya_Open_Day3_landscape_thumb.jpg",Magical Kenya Open - Day 3 - 21 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771700337~acl=/*~id=32034862990274300302886737595162~hmac=09db05096a1cbe7cf180128a09da8c10d268f182b664311426e2314e183e734c
