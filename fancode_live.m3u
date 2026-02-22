@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140139_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Women Vs West Indies Women
 https://in-mc-flive.fancode.com/mumbai/140139_english_hls_ea776e6d4938001_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140887_CASACARDS_PARTNER_16_9_1920_1080.png",Kerala Blasters Fc Vs Mumbai City Fc
-https://in-mc-flive.fancode.com/mumbai/140887_malayalam_hls_ca1487f4de4694_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131077_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Levante
 https://in-mc-flive.fancode.com/mumbai/131077_english_hls_1eca0ec00b71143_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131077_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Levante
 https://in-mc-flive.fancode.com/mumbai/131077_hindi_hls_5a140ca11d53157_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131077_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Levante
 https://in-mc-flive.fancode.com/mumbai/131077_bengali_hls_0f1136a22184717_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140683_CASACARDS_PARTNER_16_9_1920_1080.png",Maties Cricket Club Vs Paarl East Cricket Club
+https://in-mc-plive.fancode.com/mumbai/140683_english_hls_61d30e7f9933488_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140291_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-flive.fancode.com/mumbai/140291_english_hls_e3a36aeb2a1248_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140762_CASACARDS_PARTNER_16_9_1920_1080.png",Quadra Guga Kuerten
@@ -21,7 +21,5 @@ https://in-mc-flive.fancode.com/mumbai/140575_english_hls_e22cb13b7b73079_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140577_english_hls_9caaab04be34866_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140576_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 4
 https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362901279999_BLIGA_26_MD23_SC-Freiburg-vs-Borussia-Mgladbach_landscape_thumb.jpg",SC Freiburg vs Borussia M'gladbach - MD 23 - 22 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819738~acl=/*~id=04155284088168902848879846037482~hmac=09c152e0e05807dcfe8d18e4253cb555025263c6c532df8c0307bb1189dfa246
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770363079049999_BLIGA_26_MD23_St-Pauli-vs-Werder-Bremen_landscape_thumb.jpg",St. Pauli vs Werder Bremen - MD 23 - 22 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819738~acl=/*~id=04155284088168902848879846037482~hmac=09c152e0e05807dcfe8d18e4253cb555025263c6c532df8c0307bb1189dfa246
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771822185~acl=/*~id=97660140964570075245912854949857~hmac=477a4472c226979ccbd8ffe2ffe55e5e050d56fc7b205371da4133b14446910a
