@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140139_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Women Vs West Indies Women
-https://in-mc-flive.fancode.com/mumbai/140139_english_hls_ea776e6d4938001_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131072_CASACARDS_PARTNER_16_9_1920_1080.png",Villarreal Cf Vs Valencia Cf
-https://in-mc-flive.fancode.com/mumbai/131072_english_hls_4406e5224f36759_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140426_CASACARDS_PARTNER_16_9_1920_1080.png",Málaga Vs Albacete
-https://in-mc-flive.fancode.com/mumbai/140426_english_hls_4dd6158bfe35817_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140291_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-flive.fancode.com/mumbai/140291_english_hls_e3a36aeb2a1248_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140762_CASACARDS_PARTNER_16_9_1920_1080.png",Quadra Guga Kuerten
@@ -19,3 +13,5 @@ https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140071_english_hls_6d517055d860962_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140301_CASACARDS_PARTNER_16_9_1920_1080.png",Center Court
 https://in-mc-flive.fancode.com/mumbai/140301_english_hls_4c07d44fef28613_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131072_CASACARDS_PARTNER_16_9_1920_1080.png",Villarreal Cf Vs Valencia Cf
+https://in-mc-flive.fancode.com/mumbai/131072_english_hls_4406e5224f36759_1ta-di_h264/index.m3u8
