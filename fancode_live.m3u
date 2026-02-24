@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133985_CASACARDS_PARTNER_16_9_1920_1080.png",South Australian Scorpions Vs Act Meteors
-https://in-mc-flive.fancode.com/mumbai/133985_english_hls_2b559b681857065_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140351_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
-https://in-mc-flive.fancode.com/mumbai/140351_english_hls_fc7f3ef58a3756_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140829_CASACARDS_PARTNER_16_9_1920_1080.png",Estadio
-https://in-mc-flive.fancode.com/mumbai/140829_english_hls_ce63c6a72971170_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/default-logo.png",No Live Matches Right Now
+
