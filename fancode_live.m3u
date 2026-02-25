@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/138439_CASACARDS_PARTNER_16_9_1920_1080.png",Al Najmah Sc Vs Al Nassr Fc
-https://in-mc-flive.fancode.com/mumbai/138439_english_hls_94a73cefca77173_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140127_CASACARDS_PARTNER_16_9_1920_1080.png",Stoke City F.c. Vs Oxford United
 https://in-mc-flive.fancode.com/mumbai/140127_english_hls_d53fd6ce9b73074_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140359_CASACARDS_PARTNER_16_9_1920_1080.png",Court Jaime Fillol
 https://in-mc-flive.fancode.com/mumbai/140359_english_hls_2abd95dd1c70831_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140140_CASACARDS_PARTNER_16_9_1920_1080.png",Sri Lanka Women Vs West Indies Women
-https://in-mc-flive.fancode.com/mumbai/140140_english_hls_62d5e081c554465_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg", Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772096061~acl=/*~id=48895097237902988216280821384271~hmac=3e3be21a9cabdf85226c8308d49922f9c26b56a24b081ea84225fa05d194672f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg", Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772096061~acl=/*~id=48895097237902988216280821384271~hmac=3e3be21a9cabdf85226c8308d49922f9c26b56a24b081ea84225fa05d194672f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg", Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772096061~acl=/*~id=48895097237902988216280821384271~hmac=3e3be21a9cabdf85226c8308d49922f9c26b56a24b081ea84225fa05d194672f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784309684235_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_21feb_eng_landscape_thumb.jpg", Real Madrid vs Benfica - Play-offs Leg 2 - 26 Feb 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772096061~acl=/*~id=48895097237902988216280821384271~hmac=3e3be21a9cabdf85226c8308d49922f9c26b56a24b081ea84225fa05d194672f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771784885366235_UCL26_Playoffs_Leg2_PSG_Vs_Monaco_21feb_landscape_thumb.jpg", PSG vs Monaco - Play-offs Leg 2 - 26 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772096061~acl=/*~id=48895097237902988216280821384271~hmac=3e3be21a9cabdf85226c8308d49922f9c26b56a24b081ea84225fa05d194672f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771785101433235_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_21feb_landscape_thumb.jpg",Juventus vs Galatasaray - Play-offs Leg 2 - 26 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772096061~acl=/*~id=48895097237902988216280821384271~hmac=3e3be21a9cabdf85226c8308d49922f9c26b56a24b081ea84225fa05d194672f
