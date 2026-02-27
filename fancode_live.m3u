@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140702_CASACARDS_PARTNER_16_9_1920_1080.png",Al Shabab Fc Vs Al Hilal Sfc
-https://in-mc-flive.fancode.com/mumbai/140702_english_hls_b02574fd9a616_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131088_CASACARDS_PARTNER_16_9_1920_1080.png",Levante Vs Deportivo Alaves
 https://in-mc-flive.fancode.com/mumbai/131088_english_hls_488beb95d165487_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140128_CASACARDS_PARTNER_16_9_1920_1080.png",Bristol City F.c. Vs Watford F.c.
@@ -19,5 +17,5 @@ https://in-mc-flive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140361_english_hls_19562be86045847_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140768_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 2
 https://in-mc-flive.fancode.com/mumbai/140768_english_hls_ba4d34cce520969_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770452673955953_BLIGA_26_Augsburg-vs-FC-Koln__landscape_thumb.jpg",FC Augsburg vs FC Koln - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772270159~acl=/*~id=57348603155646858500504942959710~hmac=f483370ba99efc308222e720d0cfce8ad2d1ab7db2012df204ec0f75187975e0
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140702_CASACARDS_PARTNER_16_9_1920_1080.png",Al Shabab Fc Vs Al Hilal Sfc
+https://in-mc-flive.fancode.com/mumbai/140702_english_hls_b02574fd9a616_1ta-di_h264/index.m3u8
