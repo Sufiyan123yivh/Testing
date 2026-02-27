@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140689_CASACARDS_PARTNER_16_9_1920_1080.png",Vredenburg/saldanha Cc Vs Van Der Stel Cricket Club
 https://in-mc-flive.fancode.com/mumbai/140689_english_hls_dcb0bee96524847_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140702_CASACARDS_PARTNER_16_9_1920_1080.png",Al Shabab Fc Vs Al Hilal Sfc
+https://in-mc-flive.fancode.com/mumbai/140702_english_hls_b02574fd9a616_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140770_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 2
 https://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140769_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 2
@@ -11,3 +13,7 @@ https://in-mc-flive.fancode.com/mumbai/140772_english_hls_7d19d0c42281632_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140361_CASACARDS_PARTNER_16_9_1920_1080.png",Court Jaime Fillol
 https://in-mc-flive.fancode.com/mumbai/140361_english_hls_19562be86045847_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140768_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 2
+https://in-mc-flive.fancode.com/mumbai/140768_english_hls_ba4d34cce520969_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770452673955953_BLIGA_26_Augsburg-vs-FC-Koln__landscape_thumb.jpg",FC Augsburg vs FC Koln - MD 24 - 28 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772261689~acl=/*~id=45999303999672132028084149874908~hmac=0ee00c7f8927900d32a2abda883cfcfc95f2bd4a86cc5abadc1403a85764d49a
