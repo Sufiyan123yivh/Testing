@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140664_CASACARDS_PARTNER_16_9_1920_1080.png",England Lions Vs Pakistan Shaheens
-https://in-mc-flive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140688_CASACARDS_PARTNER_16_9_1920_1080.png",Paarl Cc Vs Paarl East Cricket Club
+https://in-mc-flive.fancode.com/mumbai/140688_english_hls_d8e850d5db29569_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png",East Bengal Fc Vs Jamshedpur Fc
 https://in-mc-flive.fancode.com/mumbai/140446_english_hls_622b4e9fc94478_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png",East Bengal Fc Vs Jamshedpur Fc
@@ -13,7 +13,15 @@ https://in-mc-flive.fancode.com/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di
 https://in-mc-flive.fancode.com/mumbai/141086_bengali_hls_4ecea82e2954892_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140349_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
 https://in-mc-flive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015612/1772091081592940_UCL26_RD16_QF_SF_Draw_25feb1_landscape_thumb.jpg",Round of 16, Quarter-final and Semi-final Draw - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772232565~acl=/*~id=47393842285628414526845891590329~hmac=b00e6bc2e46a098c99ae9075e13b40219c18a7e192b1a12b0744e8c699446c04
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140770_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Holes   Day 2
+https://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140769_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 2
+https://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140772_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 2
+https://in-mc-flive.fancode.com/mumbai/140772_english_hls_7d19d0c42281632_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140771_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 2
+https://in-mc-flive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015597/1772034830564934_UECL26_RD16_QF_SF_Draw_25feb_landscape_thumb.jpg", Round of 16, Quarter-final and Semi-final Draw - 27 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772239235~acl=/*~id=30742114598086619571363566527011~hmac=f1d4273da09231090effea835a6d4c9e3e17dec893fe08829d7c98e6dad33eff
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772232565~acl=/*~id=47393842285628414526845891590329~hmac=b00e6bc2e46a098c99ae9075e13b40219c18a7e192b1a12b0744e8c699446c04
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772239235~acl=/*~id=30742114598086619571363566527011~hmac=f1d4273da09231090effea835a6d4c9e3e17dec893fe08829d7c98e6dad33eff
