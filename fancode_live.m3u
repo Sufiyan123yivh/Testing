@@ -1,14 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140141_CASACARDS_PARTNER_16_9_1920_1080.png",West Indies Women Vs Sri Lanka Women
+https://in-mc-flive.fancode.com/mumbai/140141_english_hls_c7e54df6c689484_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140692_CASACARDS_PARTNER_16_9_1920_1080.png",Vredenburg/saldanha Cc Vs Paarl Cc
 https://in-mc-flive.fancode.com/mumbai/140692_english_hls_4beadff46b45381_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140130_CASACARDS_PARTNER_16_9_1920_1080.png",Preston North End F.c. Vs Millwall F.c.
-https://in-mc-flive.fancode.com/mumbai/140130_english_hls_b9d00645af60356_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Villarreal Cf
 https://in-mc-flive.fancode.com/mumbai/131084_english_hls_c2042aefad65938_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Villarreal Cf
 https://in-mc-flive.fancode.com/mumbai/131084_hindi_hls_29447a4b4179686_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png",Fc Barcelona Vs Villarreal Cf
 https://in-mc-flive.fancode.com/mumbai/131084_bengali_hls_ff4b32271542008_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131087_CASACARDS_PARTNER_16_9_1920_1080.png",Rcd Mallorca Vs Real Sociedad
+https://in-mc-flive.fancode.com/mumbai/131087_english_hls_e9a90d99ac98527_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140774_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
 https://in-mc-flive.fancode.com/mumbai/140774_english_hls_2c2200de6810581_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140776_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
@@ -19,27 +21,5 @@ https://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140777_english_hls_9609f6d6ce80839_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140773_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed   Day 3
 https://in-mc-flive.fancode.com/mumbai/140773_english_hls_f0d09727f189310_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140903_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
-https://in-mc-flive.fancode.com/mumbai/140903_english_hls_012fd4921829328_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140449_CASACARDS_PARTNER_16_9_1920_1080.png",Mohun Bagan Super Giant Vs Mohammedan Sc
-https://in-mc-flive.fancode.com/mumbai/140449_english_hls_de21be73a71835_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140449_CASACARDS_PARTNER_16_9_1920_1080.png",Mohun Bagan Super Giant Vs Mohammedan Sc
-https://in-mc-flive.fancode.com/mumbai/140449_hindi_hls_91e13bdc1740966_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140449_CASACARDS_PARTNER_16_9_1920_1080.png",Mohun Bagan Super Giant Vs Mohammedan Sc
-https://in-mc-flive.fancode.com/mumbai/140449_malayalam_hls_d70666670773619_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140449_CASACARDS_PARTNER_16_9_1920_1080.png",Mohun Bagan Super Giant Vs Mohammedan Sc
-https://in-mc-flive.fancode.com/mumbai/140449_bengali_hls_cdf560681b72809_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141088_CASACARDS_PARTNER_16_9_1920_1080.png",Mohun Bagan Super Giant Vs Mohammedan Sc
-https://in-mc-flive.fancode.com/mumbai/141088_bengali_hls_c23fa9b7f217264_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617250355953_BLIGA_26_Dortmund-vs-Bayern_landscape_thumb.jpg",Borussia Dortmund vs Bayern Munich - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772338025~acl=/*~id=19429045792214825446924424042337~hmac=0471375aa7eb7171a5b2b4f4312a72565c2ea108fbce3750f3425cb5a82c5918
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770453535577953_BLIGA_26_Leverkusen-vs-Mainz_landscape_thumb.jpg",Bayer Leverkusen vs Mainz - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772338025~acl=/*~id=19429045792214825446924424042337~hmac=0471375aa7eb7171a5b2b4f4312a72565c2ea108fbce3750f3425cb5a82c5918
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",Goal Arena - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772338025~acl=/*~id=19429045792214825446924424042337~hmac=0471375aa7eb7171a5b2b4f4312a72565c2ea108fbce3750f3425cb5a82c5918
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770453764927953_BLIGA_26_Borussia-Mgladbach-vs-Union-Berlin_landscape_thumb.jpg",Borussia M'gladbach vs Union Berlin - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772338025~acl=/*~id=19429045792214825446924424042337~hmac=0471375aa7eb7171a5b2b4f4312a72565c2ea108fbce3750f3425cb5a82c5918
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770616827659953_BLIGA_26_Hoffenheim-vs-St-Pauli_landscape_thumb.jpg",Hoffenheim vs St. Pauli - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772338025~acl=/*~id=19429045792214825446924424042337~hmac=0471375aa7eb7171a5b2b4f4312a72565c2ea108fbce3750f3425cb5a82c5918
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617053268953_BLIGA_26_Werder-Bremen-vs-Heidenheim_landscape_thumb.jpg",Werder Bremen vs Heidenheim - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772338025~acl=/*~id=19429045792214825446924424042337~hmac=0471375aa7eb7171a5b2b4f4312a72565c2ea108fbce3750f3425cb5a82c5918
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772341674~acl=/*~id=17657185089091890650980272617045~hmac=4a1a3e76f996230c45be5d3a5ad8693fed775a8a1da618bab943300706dff5ef
