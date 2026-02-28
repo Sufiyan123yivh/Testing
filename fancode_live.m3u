@@ -1,3 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140691_CASACARDS_PARTNER_16_9_1920_1080.png",Maties Cricket Club Vs Vredenburg/saldanha Cc
+https://in-mc-plive.fancode.com/mumbai/140691_english_hls_4f60dceaf185652_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140448_CASACARDS_PARTNER_16_9_1920_1080.png",Kerala Blasters Fc Vs Inter Kashi Fc
+https://in-mc-flive.fancode.com/mumbai/140448_english_hls_6da5ca03ac47135_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140448_CASACARDS_PARTNER_16_9_1920_1080.png",Kerala Blasters Fc Vs Inter Kashi Fc
+https://in-mc-flive.fancode.com/mumbai/140448_hindi_hls_47251cdaed7557_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140448_CASACARDS_PARTNER_16_9_1920_1080.png",Kerala Blasters Fc Vs Inter Kashi Fc
+https://in-mc-flive.fancode.com/mumbai/140448_malayalam_hls_251267fafd10703_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140448_CASACARDS_PARTNER_16_9_1920_1080.png",Kerala Blasters Fc Vs Inter Kashi Fc
+https://in-mc-flive.fancode.com/mumbai/140448_bengali_hls_c274cd497061648_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141087_CASACARDS_PARTNER_16_9_1920_1080.png",Kerala Blasters Fc Vs Inter Kashi Fc
+https://in-mc-flive.fancode.com/mumbai/141087_malayalam_hls_a8e417905292894_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140129_CASACARDS_PARTNER_16_9_1920_1080.png",Leicester City F.c. Vs Norwich City F.c.
+https://in-mc-flive.fancode.com/mumbai/140129_english_hls_eecaeedf8a25876_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140774_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
+https://in-mc-flive.fancode.com/mumbai/140774_english_hls_2c2200de6810581_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140350_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
+https://in-mc-flive.fancode.com/mumbai/140350_english_hls_f0f290324f50111_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140776_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
+https://in-mc-flive.fancode.com/mumbai/140776_english_hls_5e5cba4b3886404_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847922617812_DP_World_Day3_Investec-South-African-Open-Championship_landscape_thumb.jpg",Investec South African Open Day 3 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772320992~acl=/*~id=40444985194679146332012896819961~hmac=3ce552a46d3ee073b297ee29ba4e5e8b323a49ddd535be8b3de0254fb6c3d129
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772324622~acl=/*~id=36735167865877166723364877433214~hmac=0e3972e67ed05de03cce4669ddd9e6e754fcf612574bd389ccdf2c82d436c60c
