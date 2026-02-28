@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140881_CASACARDS_PARTNER_16_9_1920_1080.png",Hong Kong, China Vs Kuwait
-https://in-mc-flive.fancode.com/mumbai/140881_english_hls_a790c03b7b42383_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140676_CASACARDS_PARTNER_16_9_1920_1080.png",Japan Vs Bahrain
 https://in-mc-flive.fancode.com/mumbai/140676_english_hls_e230dafff944950_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140690_CASACARDS_PARTNER_16_9_1920_1080.png",Paarl East Cricket Club Vs Maties Cricket Club
@@ -9,10 +7,6 @@ https://in-mc-plive.fancode.com/mumbai/140690_english_hls_95fd145ade94681_1ta-di
 https://in-mc-flive.fancode.com/mumbai/139420_english_hls_dbf7e6e88893112_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139421_CASACARDS_PARTNER_16_9_1920_1080.png",Brisbane Roar Vs Perth Glory
 https://in-mc-plive.fancode.com/mumbai/139421_english_hls_4ed6bc6e6e42376_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140356_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
-https://in-mc-flive.fancode.com/mumbai/140356_english_hls_de8c3b175062685_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140843_CASACARDS_PARTNER_16_9_1920_1080.png",Estadio
-https://in-mc-flive.fancode.com/mumbai/140843_english_hls_1eaa974a8891278_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139925_CASACARDS_PARTNER_16_9_1920_1080.png",Thailand Gp
 https://in-mc-flive.fancode.com/mumbai/139925_english_hls_97398699b253223_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140783_CASACARDS_PARTNER_16_9_1920_1080.png",Day 1
