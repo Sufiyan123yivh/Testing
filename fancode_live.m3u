@@ -19,8 +19,6 @@ https://in-mc-flive.fancode.com/mumbai/131084_hindi_hls_29447a4b4179686_1ta-di_h
 https://in-mc-flive.fancode.com/mumbai/131084_bengali_hls_ff4b32271542008_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140774_CASACARDS_PARTNER_16_9_1920_1080.png",Main Feed   Day 3
 https://in-mc-flive.fancode.com/mumbai/140774_english_hls_2c2200de6810581_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140350_CASACARDS_PARTNER_16_9_1920_1080.png",Centre Court
-https://in-mc-flive.fancode.com/mumbai/140350_english_hls_f0f290324f50111_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140776_CASACARDS_PARTNER_16_9_1920_1080.png",Featured Groups   Day 3
 https://in-mc-flive.fancode.com/mumbai/140776_english_hls_5e5cba4b3886404_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140775_CASACARDS_PARTNER_16_9_1920_1080.png",Marquee Group   Day 3
@@ -31,17 +29,13 @@ https://in-mc-flive.fancode.com/mumbai/140777_english_hls_9609f6d6ce80839_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140773_english_hls_f0d09727f189310_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140903_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-flive.fancode.com/mumbai/140903_english_hls_012fd4921829328_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131089_CASACARDS_PARTNER_16_9_1920_1080.png",Rayo Vallecano Vs Athletic Club
-https://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770453535577953_BLIGA_26_Leverkusen-vs-Mainz_landscape_thumb.jpg",Bayer Leverkusen vs Mainz - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772334357~acl=/*~id=52120844778714607164084976104265~hmac=149755417206c925da129ec67122e8145555ec4f828659ff4f537c8913f320a9
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772336809~acl=/*~id=98282932619185719948720473856094~hmac=3c90f481bd74ebcd948a9d0a51ede09352dffb3307908e87667350831ed31419
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",Goal Arena - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772334357~acl=/*~id=52120844778714607164084976104265~hmac=149755417206c925da129ec67122e8145555ec4f828659ff4f537c8913f320a9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847922617812_DP_World_Day3_Investec-South-African-Open-Championship_landscape_thumb.jpg",Investec South African Open Day 3 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772334357~acl=/*~id=52120844778714607164084976104265~hmac=149755417206c925da129ec67122e8145555ec4f828659ff4f537c8913f320a9
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772336809~acl=/*~id=98282932619185719948720473856094~hmac=3c90f481bd74ebcd948a9d0a51ede09352dffb3307908e87667350831ed31419
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770453764927953_BLIGA_26_Borussia-Mgladbach-vs-Union-Berlin_landscape_thumb.jpg",Borussia M'gladbach vs Union Berlin - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772334357~acl=/*~id=52120844778714607164084976104265~hmac=149755417206c925da129ec67122e8145555ec4f828659ff4f537c8913f320a9
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772336809~acl=/*~id=98282932619185719948720473856094~hmac=3c90f481bd74ebcd948a9d0a51ede09352dffb3307908e87667350831ed31419
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770616827659953_BLIGA_26_Hoffenheim-vs-St-Pauli_landscape_thumb.jpg",Hoffenheim vs St. Pauli - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772334357~acl=/*~id=52120844778714607164084976104265~hmac=149755417206c925da129ec67122e8145555ec4f828659ff4f537c8913f320a9
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772336809~acl=/*~id=98282932619185719948720473856094~hmac=3c90f481bd74ebcd948a9d0a51ede09352dffb3307908e87667350831ed31419
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617053268953_BLIGA_26_Werder-Bremen-vs-Heidenheim_landscape_thumb.jpg",Werder Bremen vs Heidenheim - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772334357~acl=/*~id=52120844778714607164084976104265~hmac=149755417206c925da129ec67122e8145555ec4f828659ff4f537c8913f320a9
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772336809~acl=/*~id=98282932619185719948720473856094~hmac=3c90f481bd74ebcd948a9d0a51ede09352dffb3307908e87667350831ed31419
