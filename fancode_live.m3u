@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131055_CASACARDS_PARTNER_16_9_1920_1080.png",Rayo Vallecano Vs Real Oviedo
-https://in-mc-flive.fancode.com/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140524_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad Vs Athletic Club
 https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140876_CASACARDS_PARTNER_16_9_1920_1080.png",Luton Town Vs Northampton Town Fc
@@ -19,5 +17,7 @@ https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di
 https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141228_CASACARDS_PARTNER_16_9_1920_1080.png",C Court Feed
 https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/131055_CASACARDS_PARTNER_16_9_1920_1080.png",Rayo Vallecano Vs Real Oviedo
+https://in-mc-flive.fancode.com/mumbai/131055_english_hls_8a223ba61290067_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015794/177265200486877_Bliga26_MD17_hamburger_SV_vs_Leverkusen_5mar_landscape_thumb.jpg",Hamburger SV vs Bayer Leverkusen - MD 17 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772696202~acl=/*~id=83074442875050754700303408425606~hmac=8609708a3b56cc91709749761eea92536b59062dc6485e1e9b80d7e1fff0eb9d
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772698623~acl=/*~id=20787325026142181830091127715129~hmac=1cb60aca4227957a67f9f37803cf0072cdb01af711ae0746e7fc45d57c1a44d4
