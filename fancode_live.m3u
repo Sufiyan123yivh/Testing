@@ -8,14 +8,14 @@ https://in-mc-flive.fancode.com/mumbai/141005_english_hls_feaf78b80227098_1ta-di
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141004_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-flive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141231_CASACARDS_PARTNER_16_9_1920_1080.png",G Court Feed
-https://in-mc-flive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/141231_english_hls_474c4b4f5a61793_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141230_CASACARDS_PARTNER_16_9_1920_1080.png",E Court Feed
-https://in-mc-flive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/141230_english_hls_0833749b2097113_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141229_CASACARDS_PARTNER_16_9_1920_1080.png",D Court Feed
-https://in-mc-flive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/141229_english_hls_7fca51d35a9762_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141228_CASACARDS_PARTNER_16_9_1920_1080.png",C Court Feed
 https://in-mc-plive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140524_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad Vs Athletic Club
-https://in-mc-flive.fancode.com/mumbai/140524_english_hls_714f133d3b74249_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/134039_CASACARDS_PARTNER_16_9_1920_1080.png",Tasmania Vs Victoria
+https://in-mc-plive.fancode.com/mumbai/134039_english_hls_218ba2772e41715_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015764/1772613544098305_NZw_vs_ZIMw_1stODI_landscape_thumb.jpg",1st ODI - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772704631~acl=/*~id=71785011425195593525044196708121~hmac=6d0366235e8ad67ec91951da9fa25355bbb0ed74580b3ee750c425b6a11088d2
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772708318~acl=/*~id=38276270075405722857795184678352~hmac=421d10d9aafa401953b2fe402de8827da60f2064780a624a4be3da56cb379de1
