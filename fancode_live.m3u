@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/140802_CASACARDS_PARTNER_16_9_1920_1080.png",Bangladesh Women Vs Dpr Korea Women
+https://in-mc-flive.fancode.com/mumbai/140802_english_hls_9ef1fcb08147660_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/134039_CASACARDS_PARTNER_16_9_1920_1080.png",Victoria Vs Tasmania
 https://in-mc-flive.fancode.com/mumbai/134039_english_hls_218ba2772e94080_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/134040_CASACARDS_PARTNER_16_9_1920_1080.png",New South Wales Vs South Australia
@@ -12,10 +14,8 @@ https://in-mc-flive.fancode.com/mumbai/141008_english_hls_6879d6366531745_1ta-di
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141007_CASACARDS_PARTNER_16_9_1920_1080.png",World Feed
 https://in-mc-flive.fancode.com/mumbai/141007_english_hls_235afc8e7567465_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141240_CASACARDS_PARTNER_16_9_1920_1080.png",F Court Feed
-https://in-mc-plive.fancode.com/mumbai/141240_english_hls_ad208cdc1d4042_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141234_CASACARDS_PARTNER_16_9_1920_1080.png",E Court Feed
-https://in-mc-flive.fancode.com/mumbai/141234_english_hls_f8c5929af437662_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141233_CASACARDS_PARTNER_16_9_1920_1080.png",D Court Feed
-https://in-mc-plive.fancode.com/mumbai/141233_english_hls_a54dbd2ed712005_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/141240_english_hls_ad208cdc1d4042_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/141232_CASACARDS_PARTNER_16_9_1920_1080.png",C Court Feed
-https://in-mc-plive.fancode.com/mumbai/141232_english_hls_ed95ca4ccc24821_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/141232_english_hls_ed95ca4ccc24821_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/139543_CASACARDS_PARTNER_16_9_1920_1080.png",Qualifying Session
+https://in-mc-flive.fancode.com/mumbai/139543_english_hls_b388b82e8c40764_1ta-di_h264/index.m3u8
