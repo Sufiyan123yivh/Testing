@@ -1,35 +1,30 @@
-name: Fetch JSON & Convert to M3U
+name: Update Fancode Playlist
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 30 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
-  convert:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch JSON and convert to M3U
-        env:
-          SOURCE_URL: ${{ secrets.JSON_SOURCE_URL }}
+      - name: Download playlist
         run: |
-          echo "#EXTM3U" > fancode_live.m3u
+          curl -L https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u -o original.m3u
 
-          curl -s "$SOURCE_URL" | jq -r '
-            .[] |
-            "#EXTINF:-1 tvg-logo=\"" + .logo + "\"," + .name + "\n" + .link
-          ' >> fancode_live.m3u
-
-      - name: Commit and push changes
+      - name: Replace server
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          sed 's#in-mc-fdlive.fancode.com#in-mc-vod.fancode.com#g' original.m3u > fancode.m3u
 
-          git add fancode_live.m3u
-          git diff --quiet && git diff --staged --quiet || \
-          git commit -m "Update Fancode M3U"
+      - name: Commit file
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add fancode.m3u
+          git commit -m "Updated fancode playlist" || echo "No changes"
           git push
